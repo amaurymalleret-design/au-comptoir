@@ -1,0 +1,82 @@
+{
+  "type": "conseil",
+  "slug": "cystite",
+  "titre": "Cystite de la femme",
+  "categorie": "quotidien",
+  "theme": "uro",
+  "resume": "Femme de 16 à 65 ans sans critère d'exclusion : bandelette urinaire à l'officine et, si positive, fosfomycine-trométamol en dose unique.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "infection urinaire",
+    "brûlures mictionnelles",
+    "bandelette urinaire",
+    "fosfomycine",
+    "pivmécillinam",
+    "TROD"
+  ],
+  "introduction": "La cystite aiguë simple est fréquente chez la femme. Depuis juin 2024, le pharmacien formé peut, chez une femme de 16 à 65 ans sans critère d'exclusion, réaliser une bandelette urinaire et délivrer un antibiotique si elle est positive (nitrites ou leucocytes), selon l'arrêté du 17 juin 2024.",
+  "questions": [
+    "Âge ? Grossesse possible ?",
+    "Brûlures en urinant, envies fréquentes ? Depuis quand ?",
+    "Fièvre, frissons, douleur dans le dos ou les flancs, vomissements ?",
+    "Pertes vaginales inhabituelles, démangeaisons ?",
+    "Combien de cystites sur 12 mois ? Épisode récent non guéri ? Antibiotique en cours, fluoroquinolone dans les 3 derniers mois ?",
+    "Maladie ou anomalie urinaire, immunodépression, insuffisance rénale sévère ? Allergies ?"
+  ],
+  "alertes": [
+    "Fièvre > 38 °C, frissons, douleur lombaire, vomissements : suspicion de pyélonéphrite, consultation rapide.",
+    "Homme, grossesse, âge < 16 ou > 65 ans.",
+    "Cystites récidivantes (4 épisodes ou plus sur 12 mois selon la HAS) ou épisode récent non guéri : orientation médicale.",
+    "Sang visible dans les urines persistant après le traitement.",
+    "Pas d'amélioration à 48 h, ou apparition de fièvre."
+  ],
+  "conseils": [
+    "Boire abondamment (au moins 1,5 L/j) et uriner régulièrement, sans se retenir.",
+    "Uriner après les rapports sexuels.",
+    "Lutter contre la constipation ; hygiène intime douce, sans excès.",
+    "Reconsulter si fièvre, douleur lombaire ou persistance des symptômes à 48 h."
+  ],
+  "produits": [
+    {
+      "nom": "Fosfomycine-trométamol 3 g",
+      "detail": "1re intention : dose unique, à distance des repas.",
+      "prudence": "Uniquement si bandelette positive et absence de critère d'exclusion."
+    },
+    {
+      "nom": "Pivmécillinam",
+      "detail": "2e intention : 400 mg deux fois par jour pendant 3 jours."
+    },
+    {
+      "nom": "Antalgique (paracétamol)",
+      "detail": "Pour l'inconfort, en attendant l'effet de l'antibiotique."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Femme enceinte",
+      "conduite": "Exclue du protocole officinal : toujours orienter vers le médecin ou la sage-femme."
+    },
+    {
+      "population": "Homme",
+      "conduite": "Une infection urinaire masculine n'est jamais une cystite simple : orientation médicale."
+    },
+    {
+      "population": "Femme de plus de 65 ans ou avec facteur de risque de complication",
+      "conduite": "Orientation médicale (autre schéma antibiotique, ECBU)."
+    }
+  ],
+  "aRetenir": "Bandelette positive + aucun critère d'exclusion = fosfomycine 3 g en dose unique. Fièvre ou douleur lombaire = médecin.",
+  "sources": [
+    {
+      "organisme": "HAS",
+      "titre": "Choix et durées d'antibiothérapies : cystite aiguë simple, à risque de complication ou récidivante, de la femme",
+      "url": "https://www.has-sante.fr/jcms/c_2722827/fr/choix-et-durees-d-antibiotherapies-cystite-aigue-simple-a-risque-de-complication-ou-recidivante-de-la-femme"
+    },
+    {
+      "organisme": "Légifrance",
+      "titre": "Arrêté du 17 juin 2024 : délivrance de médicaments sans ordonnance après un test rapide d'orientation diagnostique",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049734400"
+    }
+  ]
+}

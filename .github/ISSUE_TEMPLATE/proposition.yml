@@ -1,0 +1,27 @@
+name: Proposer une fiche
+description: Proposer un conseil, une pathologie ou un médicament (ou une correction).
+title: "[Conseil] "
+labels: ["proposition"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type de fiche
+      options: ["Conseil", "Pathologie chronique", "Médicament", "Correction d'une fiche"]
+    validations: { required: true }
+  - type: input
+    id: sujet
+    attributes:
+      label: Sujet
+      placeholder: "Ex. : conjonctivite, méthotrexate…"
+    validations: { required: true }
+  - type: textarea
+    id: details
+    attributes:
+      label: Précisions
+      description: Situation au comptoir, population, question fréquente… Aucune donnée de patient.
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources suggérées
+      description: Facultatif (HAS, ANSM, RCP, sociétés savantes).

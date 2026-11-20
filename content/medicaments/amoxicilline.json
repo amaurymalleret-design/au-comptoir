@@ -1,0 +1,59 @@
+{
+  "type": "medicament",
+  "slug": "amoxicilline",
+  "titre": "Amoxicilline",
+  "dci": "amoxicilline",
+  "resume": "Pénicilline A de référence des infections ORL et respiratoires communautaires. Délivrable par le pharmacien formé après TROD angine positif.",
+  "specialiteReference": "Clamoxyl 1 g, comprimé dispersible",
+  "classe": "Antibiotique, bêta-lactamine (pénicilline A)",
+  "delivrance": "Liste I, sur prescription ; ou par le pharmacien formé après TROD angine positif (≥ 10 ans)",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["clamoxyl", "antibiotique", "angine", "otite", "sinusite", "pénicilline"],
+  "rcp": { "libelle": "RCP Clamoxyl 1 g, comprimé dispersible (BDPM)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64539416/extrait" },
+  "indications": [
+    "Angine/pharyngite documentée à streptocoque, otite moyenne aiguë, sinusite bactérienne aiguë.",
+    "Exacerbations aiguës de bronchite chronique, pneumonie communautaire.",
+    "Cystite aiguë, pyélonéphrite aiguë, bactériurie asymptomatique gravidique.",
+    "Éradication d'Helicobacter pylori (en association), maladie de Lyme, prophylaxie de l'endocardite, abcès dentaire avec cellulite."
+  ],
+  "posologies": [
+    { "indication": "Angine aiguë à streptocoque (TROD positif)", "population": "Adulte", "dose": "2 g/j en 2 prises pendant 6 jours", "remarque": "Recommandation HAS « Choix et durées d'antibiothérapies »." },
+    { "indication": "Angine aiguë à streptocoque (TROD positif)", "population": "Enfant ≥ 3 ans", "dose": "50 mg/kg/j en 2 prises, sans dépasser 2 g/j, pendant 6 jours", "remarque": "Recommandation HAS." },
+    { "indication": "Sinusite, OMA, angine, exacerbation de BPCO (fourchette du RCP)", "population": "Adulte et enfant ≥ 40 kg", "dose": "500 mg toutes les 8 h ou 750 mg à 1 g toutes les 12 h ; infections sévères : 750 mg à 1 g toutes les 8 h", "remarque": "Tenir compte des recommandations officielles pour chaque indication." },
+    { "indication": "Pneumonie communautaire", "population": "Adulte et enfant ≥ 40 kg", "dose": "500 mg à 1 g toutes les 8 h" },
+    { "indication": "Infections ORL, urinaires, pneumonie", "population": "Enfant < 40 kg", "dose": "20 à 90 mg/kg/j en plusieurs prises (angine : 40 à 90 mg/kg/j)" },
+    { "indication": "Prophylaxie de l'endocardite", "population": "Adulte / enfant < 40 kg", "dose": "2 g / 50 mg/kg, dose unique 30 à 60 min avant le geste" }
+  ],
+  "adaptations": [
+    "DFG 10–30 mL/min : maximum 500 mg deux fois par jour (enfant < 40 kg : 15 mg/kg deux fois par jour).",
+    "DFG < 10 mL/min : maximum 500 mg/j.",
+    "Sujet âgé : pas d'adaptation hors fonction rénale."
+  ],
+  "effetsAnnoncer": [
+    { "effet": "Diarrhée, nausées", "frequence": "Fréquent", "conduite": "Bien s'hydrater. Diarrhée sévère, sanglante ou persistante : consulter (colite à C. difficile)." },
+    { "effet": "Éruption cutanée", "frequence": "Fréquent", "conduite": "Arrêter et consulter, surtout si urticaire, gonflement du visage ou gêne respiratoire (urgence)." },
+    { "effet": "Candidose (buccale, vaginale)", "frequence": "Très rare", "conduite": "Signaler au pharmacien ou au médecin." }
+  ],
+  "contreIndications": [
+    "Allergie aux pénicillines ou à un excipient.",
+    "Antécédent de réaction d'hypersensibilité immédiate sévère (anaphylaxie) à une autre bêta-lactamine."
+  ],
+  "interactions": [
+    { "avec": "Méthotrexate", "risque": "Augmentation de la toxicité du méthotrexate (voir RCP 4.5)." },
+    { "avec": "Antivitamines K", "risque": "Allongement possible de l'INR : surveillance renforcée." },
+    { "avec": "Allopurinol", "risque": "Risque accru de réactions cutanées." }
+  ],
+  "conseilsDelivrance": [
+    "Rechercher une allergie aux pénicillines avant toute délivrance.",
+    "Aller au bout du traitement même si les symptômes disparaissent ; respecter la durée prescrite.",
+    "Comprimé dispersible : le dissoudre complètement dans un verre d'eau, avaler aussitôt. Pendant ou en dehors des repas."
+  ],
+  "conseilsLies": ["mal-de-gorge"],
+  "sources": [
+    { "organisme": "ANSM / BDPM", "titre": "RCP Clamoxyl 1 g, comprimé dispersible (rubriques 4.1 à 4.3 et 4.8)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64539416/extrait" },
+    { "organisme": "HAS", "titre": "Choix et durées d'antibiothérapies : angine aiguë de l'adulte", "url": "https://www.has-sante.fr/jcms/p_3529230/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-adulte" },
+    { "organisme": "HAS", "titre": "Choix et durées d'antibiothérapies : angine aiguë de l'enfant", "url": "https://www.has-sante.fr/jcms/p_3529229/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-enfant" },
+    { "organisme": "Légifrance", "titre": "Arrêté du 17 juin 2024 (délivrance d'antibiotiques après TROD)", "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049734400" }
+  ]
+}

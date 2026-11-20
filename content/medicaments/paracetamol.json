@@ -1,0 +1,49 @@
+{
+  "type": "medicament",
+  "slug": "paracetamol",
+  "titre": "Paracétamol",
+  "dci": "paracétamol",
+  "resume": "Antalgique et antipyrétique de première intention. Maximum 3 g/j sans avis médical chez l'adulte ≥ 50 kg ; attention aux associations qui en contiennent.",
+  "specialiteReference": "Doliprane 1000 mg, comprimé",
+  "classe": "Antalgique, antipyrétique (anilide) – ATC N02BE01",
+  "delivrance": "Non soumis à prescription (prise en charge si prescrit)",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["doliprane", "dafalgan", "efferalgan", "fièvre", "douleur", "antalgique"],
+  "rcp": { "libelle": "RCP Doliprane 1000 mg, comprimé (BDPM)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60234100/extrait" },
+  "indications": [
+    "Traitement symptomatique des douleurs légères à modérées et/ou de la fièvre (adulte et enfant à partir de 50 kg pour le dosage 1000 mg)."
+  ],
+  "posologies": [
+    { "indication": "Douleur et/ou fièvre", "population": "Adulte et enfant ≥ 50 kg (≈ 15 ans)", "dose": "1000 mg par prise, au moins 4 h entre deux prises, maximum 3000 mg/j", "remarque": "Environ 60 mg/kg/j. Jusqu'à 4 g/j uniquement sur avis médical et en l'absence de facteur de risque. Utiliser 1000 mg si 500 mg ne soulage pas." },
+    { "indication": "Douleur et/ou fièvre", "population": "Adulte < 50 kg, dénutrition, jeûne, déshydratation", "dose": "Maximum 60 mg/kg/j sans dépasser 3000 mg/j" },
+    { "indication": "Douleur et/ou fièvre", "population": "Insuffisance hépatique légère à modérée, alcoolisme chronique, syndrome de Gilbert", "dose": "Maximum 2000 mg/j, en espaçant les prises" }
+  ],
+  "adaptations": [
+    "Insuffisance rénale (ClCr 10–50 mL/min) : au moins 6 h entre deux prises, maximum 3 g/j.",
+    "Insuffisance rénale sévère (ClCr < 10 mL/min) : au moins 8 h entre deux prises, maximum 2 g/j.",
+    "Réévaluer si la douleur dure plus de 5 jours ou la fièvre plus de 3 jours."
+  ],
+  "effetsAnnoncer": [
+    { "effet": "Atteinte hépatique en cas de surdosage (y compris par cumul de plusieurs spécialités)", "frequence": "Risque grave, dose-dépendant", "conduite": "En cas de prise excessive, consulter en urgence même sans symptôme (antidote : N-acétylcystéine)." },
+    { "effet": "Réactions cutanées, allergiques", "frequence": "Rare", "conduite": "Arrêter et consulter." }
+  ],
+  "contreIndications": [
+    "Hypersensibilité au paracétamol ou à un excipient.",
+    "Insuffisance hépatique sévère."
+  ],
+  "interactions": [
+    { "avec": "Autres médicaments contenant du paracétamol (y compris sans ordonnance)", "risque": "Surdosage : vérifier systématiquement la composition des associations (rhume, douleur)." },
+    { "avec": "Inducteurs enzymatiques (carbamazépine, phénobarbital, phénytoïne, rifampicine…)", "risque": "Précaution d'emploi : majoration du risque hépatique." },
+    { "avec": "Alcool", "risque": "Consommation déconseillée pendant le traitement." }
+  ],
+  "conseilsDelivrance": [
+    "Ne jamais prendre 2 comprimés de 1 g à la fois.",
+    "Toujours chercher le paracétamol caché dans les autres médicaments en cours.",
+    "Préférer la dose efficace la plus faible, le moins longtemps possible."
+  ],
+  "conseilsLies": ["rhume", "mal-de-gorge", "lumbago"],
+  "sources": [
+    { "organisme": "ANSM / BDPM", "titre": "RCP Doliprane 1000 mg, comprimé (rubriques 4.1 à 4.5 et 4.9)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60234100/extrait" }
+  ]
+}

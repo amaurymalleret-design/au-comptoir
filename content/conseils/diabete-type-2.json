@@ -1,0 +1,51 @@
+{
+  "type": "conseil",
+  "slug": "diabete-type-2",
+  "titre": "Diabète de type 2",
+  "categorie": "chronique",
+  "theme": "metabo",
+  "resume": "Accompagner l'observance, repérer les hypoglycémies et la déshydratation, rappeler le suivi (HbA1c, yeux, pieds, reins) et les règles hygiéno-diététiques.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["DT2", "glycémie", "HbA1c", "metformine", "hypoglycémie", "iSGLT2", "aGLP1", "pied diabétique"],
+  "introduction": "Le diabète de type 2 se traite d'abord par l'activité physique et l'alimentation, puis par des médicaments. La metformine reste le traitement de 1re intention ; les iSGLT2 et les agonistes du GLP-1 sont privilégiés en cas de maladie cardiovasculaire, rénale, d'insuffisance cardiaque ou d'obésité (HAS 2024). Le pharmacien accompagne l'observance, la tolérance et le suivi.",
+  "questions": [
+    "Quels traitements ? Depuis quand ? Changement récent ?",
+    "Comment se passent les prises (oublis, troubles digestifs sous metformine) ?",
+    "Malaises, sueurs, tremblements, faim brutale (hypoglycémie), surtout sous sulfamide, glinide ou insuline ?",
+    "Dernière HbA1c ? Dernier fond d'œil, examen des pieds, bilan rénal ?",
+    "Épisode aigu en cours : diarrhée, vomissements, fièvre, examen avec produit de contraste iodé prévu ?"
+  ],
+  "alertes": [
+    "Hypoglycémie sévère, malaise avec confusion : appeler le 15 si la personne ne peut pas se resucrer seule.",
+    "Plaie du pied qui ne cicatrise pas, pied rouge ou chaud : consultation rapide.",
+    "Vomissements, diarrhée, déshydratation sous metformine ou iSGLT2 : avis médical (risque d'acidose).",
+    "Soif intense, urines abondantes, amaigrissement rapide : glycémie très élevée.",
+    "Infection génitale récidivante sous iSGLT2 : en parler au médecin."
+  ],
+  "conseils": [
+    "Prendre la metformine pendant ou à la fin du repas pour limiter les troubles digestifs.",
+    "Sous sulfamide, glinide ou insuline : toujours avoir 15 g de sucre sur soi (3 morceaux de sucre ou un petit verre de jus) et connaître les signes d'hypoglycémie.",
+    "Activité physique régulière, alimentation équilibrée, réduction des boissons sucrées et de l'alcool, arrêt du tabac.",
+    "Inspecter ses pieds chaque jour, chaussures adaptées, pas de coricide ni d'objet tranchant ; pédicure-podologue si besoin.",
+    "Faire le suivi recommandé : HbA1c tous les 3 mois, fond d'œil, bilan rénal et dentaire réguliers ; vaccination antigrippale.",
+    "Arrêter temporairement la metformine avant un examen avec produit de contraste iodé, selon l'avis du médecin."
+  ],
+  "produits": [
+    { "nom": "Sucre ou jus de fruit (resucrage)", "detail": "15 g de sucre en cas d'hypoglycémie, contrôler la glycémie 15 min après." },
+    { "nom": "Lecteur de glycémie, capteurs", "detail": "Selon prescription ; montrer l'utilisation et l'élimination des déchets piquants (DASRI)." },
+    { "nom": "Soins des pieds", "detail": "Crème hydratante (pas entre les orteils), chaussettes sans couture.", "prudence": "Pas de coricides ni de soins agressifs : orienter vers un pédicure-podologue." }
+  ],
+  "populations": [
+    { "population": "Personne âgée de plus de 75 ans", "conduite": "Objectifs glycémiques moins stricts, vigilance sur les hypoglycémies (sulfamides), la déshydratation (iSGLT2) et la dénutrition (aGLP1)." },
+    { "population": "Insuffisant rénal", "conduite": "Doses de metformine adaptées au DFG (2 g/j max si DFG 45–59, 1 g/j si 30–44, arrêt si < 30)." },
+    { "population": "Projet de grossesse", "conduite": "Consultation avant la grossesse : HbA1c ≤ 6,5 % visée au moins 2 mois avant." }
+  ],
+  "aRetenir": "Observance, resucrage, pieds, suivi annuel. Déshydratation sous metformine ou iSGLT2 : avis médical.",
+  "medicamentsLies": ["metformine", "atorvastatine", "ramipril"],
+  "sources": [
+    { "organisme": "HAS", "titre": "Stratégie thérapeutique du patient vivant avec un diabète de type 2 (2024)", "url": "https://www.has-sante.fr/upload/docs/application/pdf/2024-06/strategie_therapeutique_du_patient_vivant_avec_un_diabete_de_type_2_-_recommandations.pdf" },
+    { "organisme": "ANSM / BDPM", "titre": "RCP Glucophage 1000 mg (rubriques 4.2, 4.4)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61052830/extrait" },
+    { "organisme": "Assurance Maladie (ameli)", "titre": "Suivi d'une personne diabétique : les fondamentaux", "url": "https://www.ameli.fr/assure/sante/themes/diabete-adulte/diabete-suivi/surveillance-fondamentaux" }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "conseil",
+  "slug": "toux",
+  "titre": "Toux aiguë",
+  "categorie": "quotidien",
+  "theme": "orl",
+  "resume": "Le plus souvent virale et spontanément résolutive en 2 à 3 semaines. Pas de mucolytique avant 2 ans ; codéine et dextrométhorphane sur ordonnance.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["toux sèche", "toux grasse", "bronchite", "sirop", "antitussif", "mucolytique"],
+  "introduction": "La toux aiguë accompagne souvent un rhume ou une bronchite aiguë, d'origine virale. Elle peut durer 2 à 3 semaines. Les médicaments ont un intérêt limité ; le comptoir sert surtout à repérer les toux qui nécessitent un avis médical et à éviter les associations inadaptées.",
+  "questions": [
+    "Pour qui ? Âge, grossesse, allaitement ?",
+    "Depuis quand ? Sèche ou productive ? Expectorations colorées ou sanglantes ?",
+    "Fièvre, essoufflement, douleur thoracique, sifflements ?",
+    "Fumeur ? Asthme, BPCO, insuffisance cardiaque ?",
+    "Traitements en cours : un IEC (toux sèche médicamenteuse possible) ?"
+  ],
+  "alertes": [
+    "Essoufflement, respiration sifflante, douleur thoracique, crachats sanglants.",
+    "Fièvre élevée ou persistante plus de 3 jours, altération de l'état général.",
+    "Toux qui dure plus de 3 semaines (ou plus de 8 semaines : toux chronique à explorer).",
+    "Nourrisson qui tousse et respire vite, boit mal ou a des quintes (coqueluche).",
+    "Personne âgée, BPCO, asthmatique ou immunodéprimé avec aggravation."
+  ],
+  "conseils": [
+    "Boire régulièrement, humidifier l'air, éviter le tabac et les irritants.",
+    "Laver le nez si la toux accompagne un rhume (écoulement postérieur).",
+    "Miel (à partir d'un an) pour adoucir la gorge.",
+    "Ne pas associer un antitussif et un expectorant."
+  ],
+  "produits": [
+    { "nom": "Sirops et pastilles adoucissants", "detail": "Soulagement de la gorge irritée." },
+    { "nom": "Antitussifs (toux sèche gênante)", "detail": "La codéine et le dextrométhorphane sont soumis à prescription depuis 2017.", "prudence": "Les antihistaminiques antitussifs sédatifs exposent à somnolence et effets atropiniques (sujet âgé, glaucome, troubles urinaires)." },
+    { "nom": "Mucolytiques, mucofluidifiants", "detail": "Efficacité limitée.", "prudence": "Contre-indiqués chez l'enfant de moins de 2 ans (ANSM, 2010)." }
+  ],
+  "populations": [
+    { "population": "Enfant de moins de 2 ans", "conduite": "Pas de mucolytique ni de sirop antitussif. Lavage de nez, hydratation, surveillance de la respiration." },
+    { "population": "Patient sous IEC (ramipril, périndopril…)", "conduite": "Une toux sèche persistante peut être médicamenteuse : en parler au médecin plutôt que de la traiter." },
+    { "population": "Asthmatique", "conduite": "Toux nocturne ou à l'effort : signe possible d'asthme mal contrôlé, orienter." }
+  ],
+  "aRetenir": "Une toux virale dure 2 à 3 semaines. Pas de mucolytique avant 2 ans. Au-delà de 3 semaines : médecin.",
+  "medicamentsLies": ["ramipril", "salbutamol"],
+  "sources": [
+    { "organisme": "Assurance Maladie (ameli)", "titre": "Bronchite : que faire et quand consulter ?", "url": "https://www.ameli.fr/assure/sante/themes/bronchite/que-faire-quand-consulter" },
+    { "organisme": "VIDAL (relais ANSM)", "titre": "Hélicidine, mucolytiques et mucofluidifiants contre-indiqués avant 2 ans", "url": "https://www.vidal.fr/actualites/3274-helicidine-mucolytiques-et-mucofluidifiants-contre-indiques-avant-2-ans.html" },
+    { "organisme": "ANSM / BDPM", "titre": "RCP Triatec (toux sous IEC, rubrique 4.4)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63524315/extrait" }
+  ]
+}

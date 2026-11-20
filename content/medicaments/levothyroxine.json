@@ -1,0 +1,54 @@
+{
+  "type": "medicament",
+  "slug": "levothyroxine",
+  "titre": "Lévothyroxine",
+  "dci": "lévothyroxine sodique",
+  "resume": "Hormone thyroïdienne de substitution : une prise le matin à jeun, à distance du fer, du calcium et des pansements gastriques. Dose ajustée sur la TSH.",
+  "specialiteReference": "Levothyrox (25 à 200 µg), comprimé sécable",
+  "classe": "Hormone thyroïdienne",
+  "delivrance": "Liste II, sur prescription",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["levothyrox", "thyroïde", "hypothyroïdie", "TSH", "euthyrox", "L-thyroxine"],
+  "rcp": { "libelle": "RCP Levothyrox 100 µg, comprimé sécable (BDPM)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68416845/extrait" },
+  "indications": [
+    "Hypothyroïdies.",
+    "Situations, avec ou sans hypothyroïdie, où il faut freiner la TSH."
+  ],
+  "posologies": [
+    { "indication": "Hypothyroïdie", "population": "Adulte", "dose": "Début à 25 ou 50 µg/j, puis paliers de 12 à 50 µg toutes les 2 à 4 semaines ; substitution moyenne 100 à 150 µg/j (≈ 1,7 µg/kg/j)", "remarque": "Une seule prise le matin à jeun, 30 min avant le petit-déjeuner, avec un peu d'eau." },
+    { "indication": "Hypothyroïdie", "population": "Sujet âgé, coronarien, insuffisant cardiaque, troubles du rythme", "dose": "Débuter plus bas avec des paliers plus progressifs" },
+    { "indication": "Traitement frénateur", "population": "Adulte", "dose": "2,1 à 2,5 µg/kg/j en moyenne" },
+    { "indication": "Hypothyroïdie acquise", "population": "Enfant", "dose": "Début 12,5 à 50 µg/j, augmentation toutes les 2 à 4 semaines ; entretien habituel 100 à 150 µg/m²/j" }
+  ],
+  "adaptations": [
+    "Ajuster la dose sur la TSH, environ 6 à 8 semaines après chaque changement de dose.",
+    "À l'équilibre : un dosage une à deux fois par an suffit si l'état clinique est stable.",
+    "Hypothyroïdie centrale : suivre la T4 libre (la TSH n'est pas contributive)."
+  ],
+  "effetsAnnoncer": [
+    { "effet": "Signes de surdosage : palpitations, tremblements, insomnie, nervosité, sueurs, amaigrissement, diarrhée", "frequence": "Lors d'un surdosage", "conduite": "Consulter : un dosage hormonal et une baisse de dose peuvent être nécessaires." },
+    { "effet": "Aggravation d'une maladie cardiaque (angor, troubles du rythme)", "frequence": "Surtout à l'instauration", "conduite": "Signaler toute douleur thoracique ou palpitation." },
+    { "effet": "Réactions d'hypersensibilité (éruption, urticaire, prurit)", "frequence": "Rapportées", "conduite": "Consulter." }
+  ],
+  "contreIndications": [
+    "Hyperthyroïdie non contrôlée par un traitement antithyroïdien.",
+    "Insuffisance surrénalienne non traitée.",
+    "Hypersensibilité à la substance active ou à un excipient. Déconseillé en cas de cardiopathie décompensée, coronaropathie ou trouble du rythme non contrôlés."
+  ],
+  "interactions": [
+    { "avec": "Sels de fer, de calcium, antiacides (aluminium), résines (colestyramine), sucralfate, sevelamer", "risque": "Baisse d'absorption : prendre à plus de 2 h d'intervalle." },
+    { "avec": "Inducteurs enzymatiques (carbamazépine, phénobarbital, phénytoïne, rifampicine) et millepertuis", "risque": "Risque d'hypothyroïdie : surveillance et adaptation de dose." },
+    { "avec": "Inhibiteurs de la pompe à protons", "risque": "Absorption diminuée : surveillance de la fonction thyroïdienne." },
+    { "avec": "Estrogènes non contraceptifs, orlistat, chloroquine/proguanil", "risque": "Risque d'hypothyroïdie clinique : surveillance." },
+    { "avec": "Biotine (compléments alimentaires)", "risque": "Fausse les dosages thyroïdiens (résultats faussement bas ou élevés)." }
+  ],
+  "conseilsDelivrance": [
+    "Prendre tous les jours à la même heure, le matin à jeun.",
+    "Espacer d'au moins 2 h le fer, le calcium et les pansements gastriques.",
+    "Prévenir le laboratoire en cas de prise de biotine avant un dosage."
+  ],
+  "sources": [
+    { "organisme": "ANSM / BDPM", "titre": "RCP Levothyrox 100 µg, comprimé sécable (rubriques 4.1 à 4.5 et 4.8)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68416845/extrait" }
+  ]
+}

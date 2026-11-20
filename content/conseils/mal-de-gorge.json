@@ -1,0 +1,49 @@
+{
+  "type": "conseil",
+  "slug": "mal-de-gorge",
+  "titre": "Mal de gorge et angine",
+  "categorie": "quotidien",
+  "theme": "orl",
+  "resume": "Le plus souvent viral. Le TROD angine en officine (dès 10 ans) permet de délivrer l'antibiotique seulement si l'angine est à streptocoque.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["angine", "pharyngite", "TROD", "streptocoque", "odynophagie", "pastilles"],
+  "introduction": "La majorité des maux de gorge sont viraux. Depuis le 19 juin 2024, le pharmacien formé peut réaliser un test rapide d'orientation diagnostique (TROD) chez le patient de 10 ans ou plus et, s'il est positif, délivrer un antibiotique sans ordonnance selon un protocole défini par arrêté.",
+  "questions": [
+    "Âge du patient (TROD possible à partir de 10 ans) ? Grossesse ?",
+    "Douleur à la déglutition ? Fièvre ? Toux ou rhume associés (orientent vers un virus) ?",
+    "Depuis quand ? Difficulté à ouvrir la bouche, à avaler la salive, à respirer ?",
+    "Allergie aux pénicillines ? Traitements en cours ? Antibiotique récent ?"
+  ],
+  "alertes": [
+    "Difficulté à respirer, à avaler sa salive (hypersalivation), ou à ouvrir la bouche (trismus) : urgence.",
+    "Voix étouffée, déformation de la gorge, douleur très unilatérale (phlegmon).",
+    "Altération de l'état général, fièvre élevée persistante, éruption cutanée.",
+    "Immunodépression, enfant de moins de 10 ans (TROD non réalisable à l'officine) : orientation médicale.",
+    "Pas d'amélioration après 48 h de traitement, ou aggravation."
+  ],
+  "conseils": [
+    "Boire régulièrement, privilégier les aliments mous et tièdes.",
+    "Soulager la douleur et la fièvre par paracétamol.",
+    "Si TROD négatif : expliquer que l'angine est virale, qu'un antibiotique serait inutile, et donner les signes qui doivent faire reconsulter.",
+    "Si TROD positif : délivrer l'antibiotique selon le protocole, insister sur la prise jusqu'au bout (6 jours pour l'amoxicilline)."
+  ],
+  "produits": [
+    { "nom": "Paracétamol", "detail": "Antalgique de première intention." },
+    { "nom": "Pastilles et collutoires (antiseptiques, anesthésiques locaux)", "detail": "Soulagement symptomatique, durée courte.", "prudence": "Respecter l'âge minimal de chaque produit ; les anesthésiques locaux peuvent gêner la déglutition." },
+    { "nom": "Amoxicilline (si TROD positif)", "detail": "Adulte : 2 g/j en 2 prises pendant 6 jours. Enfant : 50 mg/kg/j en 2 prises, maximum 2 g/j, 6 jours.", "prudence": "Allergie aux pénicillines : alternatives prévues par le protocole (céphalosporines, macrolides)." },
+    { "nom": "AINS", "detail": "Non recommandés dans les infections de la sphère ORL.", "prudence": "Risque de complications infectieuses graves." }
+  ],
+  "populations": [
+    { "population": "Enfant de moins de 10 ans", "conduite": "Pas de TROD à l'officine : orientation vers le médecin si fièvre et mal de gorge." },
+    { "population": "Femme enceinte", "conduite": "Exclue du protocole de délivrance sans ordonnance : orientation médicale." }
+  ],
+  "aRetenir": "TROD négatif = virus = pas d'antibiotique. TROD positif = amoxicilline 6 jours.",
+  "medicamentsLies": ["amoxicilline", "paracetamol"],
+  "sources": [
+    { "organisme": "HAS", "titre": "Choix et durées d'antibiothérapies : angine aiguë de l'adulte", "url": "https://www.has-sante.fr/jcms/p_3529230/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-adulte" },
+    { "organisme": "HAS", "titre": "Choix et durées d'antibiothérapies : angine aiguë de l'enfant", "url": "https://www.has-sante.fr/jcms/p_3529229/fr/choix-et-durees-d-antibiotherapies-angine-aigue-de-l-enfant" },
+    { "organisme": "Légifrance", "titre": "Arrêté du 17 juin 2024 fixant les modalités de délivrance de médicaments sans ordonnance après TROD", "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049734400" },
+    { "organisme": "Service-public.fr", "titre": "Dans quels cas un pharmacien peut-il délivrer un antibiotique sans ordonnance ?", "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F37682" }
+  ]
+}

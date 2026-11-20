@@ -1,0 +1,45 @@
+{
+  "type": "conseil",
+  "slug": "acne",
+  "titre": "Acné",
+  "categorie": "quotidien",
+  "theme": "dermato",
+  "resume": "Hygiène douce, soins non comédogènes et peroxyde de benzoyle pour les formes légères. Orienter les formes inflammatoires, étendues ou cicatricielles.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["boutons", "points noirs", "comédons", "peroxyde de benzoyle", "isotrétinoïne", "adolescent"],
+  "introduction": "L'acné touche surtout l'adolescent mais peut persister ou apparaître chez l'adulte. Les formes légères relèvent du conseil et des traitements locaux ; les formes modérées à sévères nécessitent une prise en charge médicale (recommandations de la Société française de dermatologie).",
+  "questions": [
+    "Âge, sexe ; grossesse ou contraception (avant tout traitement rétinoïde) ?",
+    "Type de lésions : points noirs et microkystes, boutons rouges, nodules ? Étendue (visage, dos) ?",
+    "Cicatrices ? Retentissement psychologique ?",
+    "Produits déjà utilisés, cosmétiques, maquillage ? Traitements en cours (corticoïdes, certains antiépileptiques…) ?"
+  ],
+  "alertes": [
+    "Nodules ou kystes, lésions étendues au tronc, cicatrices : consultation.",
+    "Acné d'apparition brutale chez l'adulte, avec signes d'hyperandrogénie (règles irrégulières, pilosité).",
+    "Échec de 3 mois de soins bien conduits.",
+    "Retentissement psychologique important.",
+    "Patient sous isotrétinoïne orale : humeur dépressive, idées noires, à signaler immédiatement."
+  ],
+  "conseils": [
+    "Nettoyer matin et soir avec un nettoyant doux sans savon ; éviter les gommages agressifs.",
+    "Ne pas percer ni manipuler les boutons (risque de cicatrices).",
+    "Hydratant et maquillage « non comédogènes » ; protection solaire adaptée (le soleil améliore transitoirement puis aggrave).",
+    "Patience : un traitement local demande 2 à 3 mois pour être jugé."
+  ],
+  "produits": [
+    { "nom": "Peroxyde de benzoyle 2,5 à 5 %", "detail": "Formes légères, en application le soir sur peau sèche ; commencer un jour sur deux.", "prudence": "Irritation et sécheresse initiales ; décolore le linge et les cheveux." },
+    { "nom": "Soins dermocosmétiques kératorégulateurs et hydratants", "detail": "En complément, ou pour compenser la sécheresse des traitements." },
+    { "nom": "Rétinoïdes locaux, antibiotiques locaux, isotrétinoïne orale", "detail": "Sur prescription médicale.", "prudence": "Rétinoïdes à éviter pendant la grossesse. Isotrétinoïne : programme de prévention des grossesses obligatoire (contraception efficace, tests de grossesse)." }
+  ],
+  "populations": [
+    { "population": "Femme enceinte", "conduite": "Le peroxyde de benzoyle est utilisable ; éviter les rétinoïdes, y compris locaux. Avis médical." },
+    { "population": "Adolescent", "conduite": "Repérer le retentissement psychologique ; orienter si acné inflammatoire ou cicatricielle." }
+  ],
+  "aRetenir": "Douceur, régularité, 3 mois. Nodules, cicatrices ou mal-être : médecin.",
+  "sources": [
+    { "organisme": "Société française de dermatologie", "titre": "Prise en charge de l'acné : traitement par voie locale et générale (recommandations)", "url": "https://www.sfdermato.org/media/pdf/recommandation/label-recommandations-acne-post-college-54ac60356d1b9584a71ccaac92cf3724.pdf" },
+    { "organisme": "HAS", "titre": "Isotrétinoïne (avis de la Commission de la transparence)", "url": "https://www.has-sante.fr/jcms/p_3377744/fr/isotretinoine-acnetrait-isotretinoine" }
+  ]
+}
