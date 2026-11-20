@@ -1,0 +1,69 @@
+{
+  "type": "conseil",
+  "slug": "parkinson",
+  "titre": "Maladie de Parkinson",
+  "categorie": "chronique",
+  "theme": "neuro",
+  "resume": "Respect strict des horaires de prise, lévodopa à distance des repas protéinés, jamais d'arrêt brutal. Pas de métoclopramide contre les nausées. Repérer chutes, hallucinations et troubles du comportement.",
+  "motsCles": [
+    "tremblement",
+    "lévodopa",
+    "Modopar",
+    "dopamine",
+    "chute"
+  ],
+  "introduction": "La maladie de Parkinson associe lenteur des mouvements, rigidité et souvent tremblement de repos. Les traitements dopaminergiques compensent le manque de dopamine. Leur efficacité dépend beaucoup de la régularité des horaires. Le pharmacien veille aux interactions, en particulier avec certains antinauséeux et neuroleptiques.",
+  "questions": [
+    "Prenez-vous les médicaments à heures fixes ? Comment les prenez-vous par rapport aux repas ?",
+    "Avez-vous des périodes où le traitement semble moins efficace, ou des mouvements involontaires ?",
+    "Chutes, vertiges en se levant ?",
+    "Somnolence dans la journée, endormissements soudains ?",
+    "L'entourage a-t-il remarqué des hallucinations ou des comportements inhabituels (jeu, achats) ?"
+  ],
+  "alertes": [
+    "Rigidité intense, fièvre, confusion, surtout après un arrêt ou une baisse du traitement : urgence.",
+    "Hallucinations, confusion, chutes répétées : avis médical rapide.",
+    "Endormissement soudain dans la journée : ne pas conduire et en parler au médecin."
+  ],
+  "conseils": [
+    "Respecter strictement les horaires de prise.",
+    "Lévodopa : au moins 30 minutes avant ou 2 heures après un repas ; les repas riches en protéines diminuent l'effet.",
+    "Ne jamais arrêter brutalement le traitement.",
+    "Nausées : pas de métoclopramide ni d'alizapride ; demander conseil.",
+    "Activité physique et kinésithérapie ; aménager le logement contre les chutes."
+  ],
+  "produits": [
+    {
+      "nom": "Pilulier avec alarmes",
+      "detail": "Les horaires sont essentiels pour limiter les fluctuations."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Hypotension orthostatique et chutes : se lever lentement."
+    },
+    {
+      "population": "Hospitalisation, intervention",
+      "conduite": "Signaler le traitement pour qu'il ne soit pas interrompu."
+    }
+  ],
+  "aRetenir": "Horaires stricts, lévodopa à distance des protéines, jamais d'arrêt brutal, pas de métoclopramide.",
+  "medicamentsLies": [
+    "levodopa-benserazide"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Maladie de Parkinson : traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/maladie-parkinson/traitement"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Modopar 125 (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/65122219/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

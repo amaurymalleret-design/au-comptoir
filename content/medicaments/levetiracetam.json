@@ -1,0 +1,74 @@
+{
+  "type": "medicament",
+  "slug": "levetiracetam",
+  "titre": "Lévétiracétam",
+  "dci": "lévétiracétam",
+  "specialiteReference": "Keppra et génériques (Lévétiracétam Biogaran 500 mg, comprimé pelliculé sécable)",
+  "classe": "Antiépileptique",
+  "delivrance": "Liste I, sur prescription médicale",
+  "resume": "Épilepsie : 500 mg deux fois par jour au départ chez l'adulte, paliers de 250 à 500 mg × 2 toutes les 2 à 4 semaines, 1 500 mg × 2 au maximum. Dose adaptée à la fonction rénale ; arrêt toujours progressif.",
+  "motsCles": [
+    "keppra",
+    "épilepsie",
+    "antiépileptique",
+    "convulsions"
+  ],
+  "rcp": {
+    "libelle": "RCP Lévétiracétam Biogaran 500 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64718764/extrait"
+  },
+  "indications": [
+    "Monothérapie des crises partielles avec ou sans généralisation secondaire, dès 16 ans, en cas d'épilepsie nouvellement diagnostiquée.",
+    "Association : crises partielles dès 1 mois ; crises myocloniques et crises généralisées tonico-cloniques primaires dès 12 ans."
+  ],
+  "posologies": [
+    {
+      "indication": "Épilepsie",
+      "population": "Adulte et adolescent ≥ 50 kg",
+      "dose": "500 mg deux fois par jour (ou 250 mg × 2 pendant 2 semaines puis 500 mg × 2)",
+      "remarque": "Paliers de 250 ou 500 mg × 2 toutes les 2 à 4 semaines ; 1 500 mg × 2 au maximum."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance rénale : dose adaptée à la clairance de la créatinine.",
+    "Arrêt : diminution progressive (500 mg × 2 toutes les 2 à 4 semaines chez l'adulte)."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Somnolence, fatigue, vertiges, maux de tête",
+      "frequence": "Très fréquent à fréquent",
+      "conduite": "Prudence au volant, surtout en début de traitement."
+    },
+    {
+      "effet": "Irritabilité, agressivité, anxiété, humeur dépressive",
+      "frequence": "Fréquent",
+      "conduite": "Signaler au médecin ; l'entourage doit être attentif."
+    },
+    {
+      "effet": "Idées suicidaires",
+      "frequence": "Rare",
+      "conduite": "Consulter immédiatement ; 3114."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité au lévétiracétam ou aux dérivés de la pyrrolidone."
+  ],
+  "interactions": [],
+  "conseilsDelivrance": [
+    "Deux prises par jour à heures régulières ; ne jamais arrêter brutalement (risque de crises).",
+    "Grossesse : utilisable si nécessaire à la dose efficace la plus faible ; ne pas arrêter sans avis.",
+    "Éviter l'alcool ; signaler tout changement d'humeur ou de comportement."
+  ],
+  "conseilsLies": [
+    "epilepsie"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Lévétiracétam Biogaran 500 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64718764/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

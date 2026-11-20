@@ -1,0 +1,102 @@
+{
+  "type": "medicament",
+  "slug": "alprazolam",
+  "titre": "Alprazolam",
+  "dci": "alprazolam",
+  "specialiteReference": "Xanax 0,25 mg et 0,50 mg, comprimé sécable",
+  "classe": "Anxiolytique, benzodiazépine",
+  "delivrance": "Liste I, sur prescription médicale ; durée de prescription limitée à 12 semaines",
+  "resume": "Anxiété sévère, en traitement court : début à 0,75 à 1 mg/j en 3 prises, 4 mg/j au maximum, la dose la plus faible le moins longtemps possible. Dépendance, somnolence et chutes ; jamais d'arrêt brutal.",
+  "motsCles": [
+    "xanax",
+    "benzodiazépine",
+    "anxiolytique",
+    "anxiété",
+    "dépendance"
+  ],
+  "rcp": {
+    "libelle": "RCP Xanax 0,25 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69847791/extrait"
+  },
+  "indications": [
+    "Traitement symptomatique de courte durée des manifestations anxieuses sévères, handicapantes ou exposant à une détresse extrême, chez l'adulte."
+  ],
+  "posologies": [
+    {
+      "indication": "Anxiété sévère",
+      "population": "Adulte",
+      "dose": "0,75 à 1 mg/j en 3 prises au départ (0,25 mg matin et midi, 0,25 à 0,5 mg le soir), dose moyenne 1 à 2 mg/j",
+      "remarque": "4 mg/j au maximum ; durée la plus courte possible, réévaluée fréquemment."
+    },
+    {
+      "indication": "Anxiété sévère",
+      "population": "Sujet âgé, insuffisant rénal ou hépatique",
+      "dose": "Posologie réduite, de moitié par exemple",
+      "remarque": "Le dosage à 0,25 mg est adapté."
+    }
+  ],
+  "adaptations": [
+    "Moins de 18 ans : utilisation non recommandée.",
+    "Arrêt : diminution progressive de la dose."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Somnolence, troubles de l'équilibre et de la coordination, chutes",
+      "frequence": "Fréquent",
+      "conduite": "Prudence au volant et la nuit ; surtout chez la personne âgée."
+    },
+    {
+      "effet": "Troubles de la mémoire (amnésie dans les heures suivant la prise), confusion",
+      "frequence": "Fréquent",
+      "conduite": "Signaler au médecin."
+    },
+    {
+      "effet": "Dépendance, syndrome de sevrage à l'arrêt brutal",
+      "frequence": "Rapporté",
+      "conduite": "Arrêt toujours progressif, accompagné par le médecin."
+    }
+  ],
+  "contreIndications": [
+    "Insuffisance respiratoire sévère.",
+    "Syndrome d'apnées du sommeil.",
+    "Insuffisance hépatique sévère.",
+    "Myasthénie."
+  ],
+  "interactions": [
+    {
+      "avec": "Alcool, oxybate de sodium",
+      "risque": "Association déconseillée : majoration de la sédation."
+    },
+    {
+      "avec": "Opioïdes",
+      "risque": "Sédation, dépression respiratoire, coma, décès : seulement en l'absence d'alternative."
+    },
+    {
+      "avec": "Autres sédatifs, inhibiteurs puissants du CYP3A4",
+      "risque": "Majoration de la sédation ou des concentrations."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Traitement court : la durée totale, sevrage compris, ne doit pas dépasser 12 semaines.",
+    "Pas d'alcool ; prudence au volant.",
+    "Ne pas arrêter brutalement : risque de rebond d'anxiété, d'insomnie et de sevrage.",
+    "Ne pas donner son traitement à un proche."
+  ],
+  "conseilsLies": [
+    "anxiete"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Xanax 0,25 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69847791/extrait"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Place des benzodiazépines dans les troubles anxieux de l'adulte",
+      "url": "https://www.ameli.fr/medecin/exercice-liberal/regles-de-prescription-et-formalites/medicaments-et-dispositifs/benzodiazepines-bonnes-pratiques-prescription/place-benzodiazepines-troubles-anxieux-adulte"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

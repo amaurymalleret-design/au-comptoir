@@ -1,0 +1,73 @@
+{
+  "type": "conseil",
+  "slug": "epilepsie",
+  "titre": "Épilepsie",
+  "categorie": "chronique",
+  "theme": "neuro",
+  "resume": "Traitement à heures fixes, jamais arrêté brutalement. Crise : protéger la tête, ne rien mettre dans la bouche, position latérale de sécurité ; 15 si la crise dure plus de 5 minutes.",
+  "motsCles": [
+    "crise convulsive",
+    "antiépileptique",
+    "Keppra",
+    "convulsion"
+  ],
+  "introduction": "L'épilepsie se manifeste par des crises répétées, liées à une activité électrique anormale du cerveau. Les antiépileptiques contrôlent les crises chez la majorité des patients à condition d'être pris régulièrement. Au comptoir : observance, interactions, projet de grossesse et conduite à tenir face à une crise.",
+  "questions": [
+    "Quel traitement prenez-vous ? À quelles heures ?",
+    "Avez-vous eu des crises récemment ? Des oublis de prise ?",
+    "Manque de sommeil, alcool, fièvre récente ?",
+    "Projet de grossesse, contraception ?",
+    "Nouveau médicament ou changement de marque ?"
+  ],
+  "alertes": [
+    "Crise de plus de 5 minutes, crises qui se répètent sans reprise de conscience, blessure ou crise dans l'eau : appeler le 15.",
+    "Première crise : consultation médicale.",
+    "Idées suicidaires, changement brutal d'humeur ou de comportement sous traitement : avis médical rapide."
+  ],
+  "conseils": [
+    "Pendant une crise : éloigner ce qui peut blesser, protéger la tête, ne pas tenter d'arrêter les mouvements, ne rien mettre dans la bouche.",
+    "Après la crise : position latérale de sécurité et rester auprès de la personne jusqu'au réveil complet.",
+    "Prendre le traitement à heures régulières ; ne jamais l'arrêter ni le modifier seul.",
+    "Dormir suffisamment, limiter l'alcool.",
+    "Projet de grossesse : en parler en amont au neurologue ; ne pas arrêter le traitement seule."
+  ],
+  "produits": [
+    {
+      "nom": "Pilulier, alarme de prise",
+      "detail": "Aide à la régularité des prises."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Femme en âge de procréer",
+      "conduite": "Contraception et projet de grossesse à discuter avec le neurologue (certains antiépileptiques sont tératogènes et d'autres diminuent l'efficacité de la pilule)."
+    },
+    {
+      "population": "Conducteur",
+      "conduite": "La conduite est encadrée : avis médical."
+    }
+  ],
+  "aRetenir": "Régularité des prises, jamais d'arrêt brutal. Crise de plus de 5 minutes : 15.",
+  "medicamentsLies": [
+    "levetiracetam"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Épilepsie : symptômes et diagnostic",
+      "url": "https://www.ameli.fr/assure/sante/themes/epilepsie/symptomes-diagnostic"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Épilepsie : traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/epilepsie/traitement"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Lévétiracétam Biogaran 500 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64718764/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

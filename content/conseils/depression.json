@@ -1,0 +1,79 @@
+{
+  "type": "conseil",
+  "slug": "depression",
+  "titre": "Dépression",
+  "categorie": "chronique",
+  "theme": "neuro",
+  "resume": "Un antidépresseur agit en plusieurs semaines et se poursuit au moins 6 mois après l'amélioration ; on ne l'arrête jamais seul. Idées suicidaires : 3114 ou 15 sans attendre.",
+  "motsCles": [
+    "antidépresseur",
+    "tristesse",
+    "idées noires",
+    "3114",
+    "ISRS"
+  ],
+  "introduction": "La dépression associe une tristesse ou une perte d'intérêt durables à d'autres symptômes (troubles du sommeil, fatigue, culpabilité, difficultés de concentration, idées noires). Elle se soigne par psychothérapie, antidépresseur ou les deux. Au comptoir, le pharmacien accompagne l'observance, explique le délai d'action et sait repérer une situation de crise.",
+  "questions": [
+    "Depuis quand vous sentez-vous ainsi ? Avez-vous pu en parler à un médecin ?",
+    "Avez-vous des idées noires ou des pensées de mort ?",
+    "Depuis quand prenez-vous votre traitement ? Le prenez-vous chaque jour ?",
+    "Ressentez-vous des effets gênants (nausées, troubles du sommeil, agitation) ?",
+    "Prenez-vous d'autres produits (millepertuis, somnifères, alcool) ?"
+  ],
+  "alertes": [
+    "Idées suicidaires, projet ou geste suicidaire : appeler le 3114 (prévention du suicide, 24 h/24) ou le 15 ; ne pas laisser la personne seule.",
+    "Agitation, anxiété ou idées noires qui apparaissent ou augmentent en début de traitement, surtout avant 25 ans : avis médical rapide.",
+    "Fièvre, sueurs, agitation, tremblements, diarrhée sous antidépresseur associé à un autre sérotoninergique : urgence (syndrome sérotoninergique)."
+  ],
+  "conseils": [
+    "L'effet de l'antidépresseur apparaît en 2 à 4 semaines ; les effets indésirables du début s'atténuent souvent.",
+    "Poursuivre le traitement plusieurs mois après l'amélioration, comme prévu par le médecin.",
+    "Ne jamais arrêter brutalement : l'arrêt se fait progressivement avec le médecin.",
+    "Éviter l'alcool ; pas de millepertuis en association.",
+    "Garder une activité physique, un rythme de sommeil régulier et des liens sociaux."
+  ],
+  "produits": [
+    {
+      "nom": "Millepertuis",
+      "detail": "À déconseiller en association à un antidépresseur.",
+      "prudence": "Nombreuses interactions (anticoagulants, contraceptifs…) et risque sérotoninergique."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Adolescent et jeune adulte",
+      "conduite": "Surveillance étroite du risque suicidaire en début de traitement."
+    },
+    {
+      "population": "Grossesse ou projet de grossesse",
+      "conduite": "En parler au médecin ; ne pas arrêter seule."
+    },
+    {
+      "population": "Personne âgée",
+      "conduite": "Vigilance sur les chutes et la baisse du sodium sous ISRS."
+    }
+  ],
+  "aRetenir": "Délai d'action de quelques semaines, traitement prolongé, arrêt progressif. Idées suicidaires : 3114 ou 15.",
+  "medicamentsLies": [
+    "sertraline"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Dépression : traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/depression-troubles-depressifs/traitement"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Dépression : symptômes, diagnostic et évolution",
+      "url": "https://www.ameli.fr/assure/sante/themes/depression-troubles-depressifs/symptomes-diagnostic-evolution"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Zoloft 50 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60683198/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

@@ -1,0 +1,85 @@
+{
+  "type": "conseil",
+  "slug": "goutte",
+  "titre": "Goutte",
+  "categorie": "chronique",
+  "theme": "douleur",
+  "resume": "Crise : traitement le plus tôt possible (colchicine ou AINS sur prescription), repos, froid. Au long cours : allopurinol jamais débuté pendant une crise. Réduire alcool, sodas sucrés et excès de viande.",
+  "motsCles": [
+    "acide urique",
+    "gros orteil",
+    "crise de goutte",
+    "colchicine",
+    "allopurinol"
+  ],
+  "introduction": "La goutte est due au dépôt de cristaux d'acide urique dans les articulations. Elle donne des crises très douloureuses, souvent au gros orteil, avec une articulation rouge, chaude et gonflée. Le traitement de la crise doit être précoce ; le traitement de fond fait baisser l'uricémie pour éviter les récidives.",
+  "questions": [
+    "Quelle articulation ? Depuis combien d'heures ? Fièvre ?",
+    "Avez-vous déjà eu des crises ? Un traitement de crise a-t-il été prescrit ?",
+    "Prenez-vous un traitement de fond (allopurinol) ? Depuis quand ?",
+    "Traitements en cours : diurétique, aspirine, antibiotique macrolide, statine, anticoagulant ?",
+    "Fonction rénale connue ?"
+  ],
+  "alertes": [
+    "Première crise, fièvre, articulation inhabituelle : consultation (écarter une infection).",
+    "Sous colchicine : diarrhée, nausées, vomissements = signes de surdosage, réduire ou arrêter et contacter le médecin.",
+    "Éruption cutanée sous allopurinol : arrêt immédiat et avis médical."
+  ],
+  "conseils": [
+    "Traiter la crise le plus tôt possible avec le traitement prescrit ; repos et froid sur l'articulation.",
+    "Ne pas commencer l'allopurinol pendant une crise, mais ne pas l'arrêter s'il est déjà pris.",
+    "Les premiers mois du traitement de fond, des crises peuvent survenir : un traitement préventif est souvent associé.",
+    "Limiter l'alcool (surtout la bière), les sodas et jus sucrés et les excès de viande et fruits de mer.",
+    "Bien boire de l'eau ; perdre du poids si besoin."
+  ],
+  "produits": [
+    {
+      "nom": "Poche de froid",
+      "detail": "Soulage la crise, protégée par un linge."
+    },
+    {
+      "nom": "Paracétamol",
+      "detail": "Complément antalgique.",
+      "prudence": "Ne remplace pas le traitement de crise prescrit."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Insuffisant rénal",
+      "conduite": "Doses de colchicine et d'allopurinol adaptées ; colchicine contre-indiquée si insuffisance sévère."
+    },
+    {
+      "population": "Personne âgée",
+      "conduite": "Colchicine : extrême prudence, dose de départ réduite."
+    }
+  ],
+  "aRetenir": "Crise : traiter tôt. Allopurinol jamais débuté en crise. Diarrhée sous colchicine : surdosage.",
+  "medicamentsLies": [
+    "colchicine",
+    "allopurinol"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Goutte : traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/goutte/traitement"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Goutte : symptômes, diagnostic et évolution",
+      "url": "https://www.ameli.fr/assure/sante/themes/goutte/symptomes-diagnostic-evolution"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Colchicine Opocalcium 1 mg (rubriques 4.1 à 4.9)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68066715/extrait"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Zyloric 100 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64148136/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

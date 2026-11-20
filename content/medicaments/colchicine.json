@@ -1,0 +1,95 @@
+{
+  "type": "medicament",
+  "slug": "colchicine",
+  "titre": "Colchicine",
+  "dci": "colchicine",
+  "specialiteReference": "Colchicine Opocalcium 1 mg, comprimé sécable",
+  "classe": "Antigoutteux, anti-inflammatoire",
+  "delivrance": "Liste I, sur prescription médicale",
+  "resume": "Crise de goutte : 1 mg dans les 12 premières heures puis 0,5 mg une heure après, ensuite 0,5 mg 2 à 3 fois par jour. Marge thérapeutique étroite : la diarrhée est le premier signe de surdosage. Jamais avec un macrolide.",
+  "motsCles": [
+    "colchicine",
+    "goutte",
+    "crise",
+    "péricardite"
+  ],
+  "rcp": {
+    "libelle": "RCP Colchicine Opocalcium 1 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68066715/extrait"
+  },
+  "indications": [
+    "Accès aigu de goutte et prophylaxie des accès, notamment à l'instauration d'un hypo-uricémiant.",
+    "Autres accès microcristallins (chondrocalcinose…), maladie périodique, maladie de Behçet.",
+    "Péricardite aiguë idiopathique, avec les anti-inflammatoires."
+  ],
+  "posologies": [
+    {
+      "indication": "Accès aigu de goutte",
+      "population": "Adulte",
+      "dose": "1 mg dans les 12 premières heures, puis 0,5 mg une heure plus tard ; les jours suivants 0,5 mg 2 à 3 fois par jour",
+      "remarque": "Réduire ou arrêter en cas de diarrhée, nausées, vomissements."
+    },
+    {
+      "indication": "Prophylaxie des accès",
+      "population": "Adulte",
+      "dose": "0,5 à 1 mg par jour",
+      "remarque": "Notamment pendant les premiers mois d'un traitement hypo-uricémiant."
+    }
+  ],
+  "adaptations": [
+    "Sujet âgé (surtout > 75 ans) : extrême prudence, commencer à 0,5 mg.",
+    "Insuffisance rénale ou hépatique légère à modérée : dose réduite (0,5 mg un jour sur deux si insuffisance rénale modérée) ; contre-indiquée si sévère."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Diarrhée, nausées, vomissements",
+      "frequence": "Fréquent",
+      "conduite": "Premiers signes de surdosage : réduire ou arrêter et contacter le médecin."
+    },
+    {
+      "effet": "Baisse des globules blancs ou des plaquettes, atteinte musculaire",
+      "frequence": "Peu fréquent",
+      "conduite": "Bilan sanguin selon le médecin ; signaler faiblesse musculaire, fièvre, saignements."
+    }
+  ],
+  "contreIndications": [
+    "Insuffisance rénale sévère (clairance < 30 ml/min) ou hépatique sévère.",
+    "Association à un macrolide (sauf spiramycine) ou à la pristinamycine."
+  ],
+  "interactions": [
+    {
+      "avec": "Macrolides (clarithromycine, érythromycine, azithromycine…), pristinamycine",
+      "risque": "Contre-indiqué : toxicité potentiellement mortelle."
+    },
+    {
+      "avec": "Vérapamil, ciclosporine, ritonavir, antifongiques azolés",
+      "risque": "Association déconseillée : surdosage."
+    },
+    {
+      "avec": "Statines",
+      "risque": "Risque musculaire (rhabdomyolyse) majoré."
+    },
+    {
+      "avec": "AVK",
+      "risque": "Hausse de l'INR : contrôle plus fréquent."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Bien comprendre le schéma de prise ; ne pas dépasser les doses.",
+    "En cas de diarrhée, nausées ou vomissements : réduire ou arrêter et appeler le médecin.",
+    "Signaler la colchicine avant toute nouvelle prescription, notamment d'antibiotique.",
+    "Ne pas associer à un autre produit contenant de la colchicine."
+  ],
+  "conseilsLies": [
+    "goutte"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Colchicine Opocalcium 1 mg (rubriques 4.1 à 4.9)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68066715/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

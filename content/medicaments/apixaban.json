@@ -9,28 +9,71 @@
   "delivrance": "Liste I, sur prescription",
   "statut": "brouillon",
   "miseAJour": "2026-11-20",
-  "motsCles": ["eliquis", "AOD", "anticoagulant", "fibrillation atriale", "phlébite", "embolie pulmonaire"],
-  "rcp": { "libelle": "RCP Eliquis (EMA, autorisation européenne)", "url": "https://www.ema.europa.eu/fr/documents/product-information/eliquis-epar-product-information_fr.pdf" },
+  "motsCles": [
+    "eliquis",
+    "AOD",
+    "anticoagulant",
+    "fibrillation atriale",
+    "phlébite",
+    "embolie pulmonaire"
+  ],
+  "rcp": {
+    "libelle": "RCP Eliquis (EMA, autorisation européenne)",
+    "url": "https://www.ema.europa.eu/fr/documents/product-information/eliquis-epar-product-information_fr.pdf"
+  },
   "indications": [
     "Prévention de l'AVC et de l'embolie systémique dans la fibrillation atriale non valvulaire avec au moins un facteur de risque (5 mg / 2,5 mg).",
     "Traitement de la thrombose veineuse profonde et de l'embolie pulmonaire, prévention de leur récidive chez l'adulte.",
     "Prévention des événements thromboemboliques veineux après prothèse totale de hanche ou de genou (2,5 mg)."
   ],
   "posologies": [
-    { "indication": "Fibrillation atriale non valvulaire", "population": "Adulte", "dose": "5 mg deux fois par jour" },
-    { "indication": "Fibrillation atriale non valvulaire", "population": "Au moins 2 critères : âge ≥ 80 ans, poids ≤ 60 kg, créatinine ≥ 133 µmol/L", "dose": "2,5 mg deux fois par jour" },
-    { "indication": "Traitement de la TVP ou de l'EP", "population": "Adulte", "dose": "10 mg deux fois par jour pendant 7 jours, puis 5 mg deux fois par jour", "remarque": "Durée d'au moins 3 mois, selon les facteurs de risque." },
-    { "indication": "Prévention de la récidive de TVP/EP", "population": "Adulte, après au moins 6 mois de traitement", "dose": "2,5 mg deux fois par jour" },
-    { "indication": "Prévention après prothèse de hanche ou de genou", "population": "Adulte", "dose": "2,5 mg deux fois par jour" }
+    {
+      "indication": "Fibrillation atriale non valvulaire",
+      "population": "Adulte",
+      "dose": "5 mg deux fois par jour"
+    },
+    {
+      "indication": "Fibrillation atriale non valvulaire",
+      "population": "Au moins 2 critères : âge ≥ 80 ans, poids ≤ 60 kg, créatinine ≥ 133 µmol/L",
+      "dose": "2,5 mg deux fois par jour"
+    },
+    {
+      "indication": "Traitement de la TVP ou de l'EP",
+      "population": "Adulte",
+      "dose": "10 mg deux fois par jour pendant 7 jours, puis 5 mg deux fois par jour",
+      "remarque": "Durée d'au moins 3 mois, selon les facteurs de risque."
+    },
+    {
+      "indication": "Prévention de la récidive de TVP/EP",
+      "population": "Adulte, après au moins 6 mois de traitement",
+      "dose": "2,5 mg deux fois par jour"
+    },
+    {
+      "indication": "Prévention après prothèse de hanche ou de genou",
+      "population": "Adulte",
+      "dose": "2,5 mg deux fois par jour"
+    }
   ],
   "adaptations": [
     "Insuffisance rénale : voir RCP 4.2 (dose réduite en FA selon créatinine, âge et poids ; prudence en cas d'insuffisance rénale sévère).",
     "Oubli le matin : prendre dès que possible, éventuellement avec la dose du soir. Oubli le soir : prendre dans la même soirée seulement, jamais deux doses le lendemain matin."
   ],
   "effetsAnnoncer": [
-    { "effet": "Saignements : nez, gencives, ecchymoses, hématomes, règles abondantes, sang dans les urines", "frequence": "Fréquent", "conduite": "Signaler. Saignement abondant, persistant ou inhabituel : consulter rapidement." },
-    { "effet": "Signes d'hémorragie grave : selles noires, vomissement de sang, maux de tête intenses inhabituels, malaise", "frequence": "Peu fréquent à rare", "conduite": "Appeler le 15." },
-    { "effet": "Anémie, nausées", "frequence": "Fréquent", "conduite": "Signaler une fatigue ou un essoufflement inhabituels." }
+    {
+      "effet": "Saignements : nez, gencives, ecchymoses, hématomes, règles abondantes, sang dans les urines",
+      "frequence": "Fréquent",
+      "conduite": "Signaler. Saignement abondant, persistant ou inhabituel : consulter rapidement."
+    },
+    {
+      "effet": "Signes d'hémorragie grave : selles noires, vomissement de sang, maux de tête intenses inhabituels, malaise",
+      "frequence": "Peu fréquent à rare",
+      "conduite": "Appeler le 15."
+    },
+    {
+      "effet": "Anémie, nausées",
+      "frequence": "Fréquent",
+      "conduite": "Signaler une fatigue ou un essoufflement inhabituels."
+    }
   ],
   "contreIndications": [
     "Saignement actif cliniquement significatif.",
@@ -40,9 +83,18 @@
     "Hypersensibilité à la substance active ou à un excipient."
   ],
   "interactions": [
-    { "avec": "AINS, aspirine, antiagrégants plaquettaires", "risque": "Majoration du risque hémorragique : pas d'AINS en automédication." },
-    { "avec": "Inhibiteurs puissants du CYP3A4 et de la P-gp (antifongiques azolés systémiques, inhibiteurs de protéase du VIH)", "risque": "Hausse des concentrations d'apixaban : association non recommandée (voir RCP 4.5)." },
-    { "avec": "Inducteurs puissants (rifampicine, carbamazépine, phénytoïne, phénobarbital, millepertuis)", "risque": "Baisse d'efficacité : prudence, voire association à éviter selon l'indication (voir RCP 4.5)." }
+    {
+      "avec": "AINS, aspirine, antiagrégants plaquettaires",
+      "risque": "Majoration du risque hémorragique : pas d'AINS en automédication."
+    },
+    {
+      "avec": "Inhibiteurs puissants du CYP3A4 et de la P-gp (antifongiques azolés systémiques, inhibiteurs de protéase du VIH)",
+      "risque": "Hausse des concentrations d'apixaban : association non recommandée (voir RCP 4.5)."
+    },
+    {
+      "avec": "Inducteurs puissants (rifampicine, carbamazépine, phénytoïne, phénobarbital, millepertuis)",
+      "risque": "Baisse d'efficacité : prudence, voire association à éviter selon l'indication (voir RCP 4.5)."
+    }
   ],
   "conseilsDelivrance": [
     "Deux prises par jour à 12 h d'intervalle, pendant ou en dehors des repas.",
@@ -51,8 +103,23 @@
     "Ne jamais arrêter sans avis médical."
   ],
   "sources": [
-    { "organisme": "EMA", "titre": "Eliquis : résumé des caractéristiques du produit (rubriques 4.1 à 4.8)", "url": "https://www.ema.europa.eu/fr/documents/product-information/eliquis-epar-product-information_fr.pdf" },
-    { "organisme": "ANSM / BDPM", "titre": "Eliquis 5 mg, comprimé pelliculé : fiche BDPM", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61902218/extrait" },
-    { "organisme": "HAS", "titre": "Fibrillation auriculaire non valvulaire : quelle place pour les anticoagulants oraux ?", "url": "https://www.has-sante.fr/jcms/c_2851086/" }
+    {
+      "organisme": "EMA",
+      "titre": "Eliquis : résumé des caractéristiques du produit (rubriques 4.1 à 4.8)",
+      "url": "https://www.ema.europa.eu/fr/documents/product-information/eliquis-epar-product-information_fr.pdf"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "Eliquis 5 mg, comprimé pelliculé : fiche BDPM",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61902218/extrait"
+    },
+    {
+      "organisme": "HAS",
+      "titre": "Fibrillation auriculaire non valvulaire : quelle place pour les anticoagulants oraux ?",
+      "url": "https://www.has-sante.fr/jcms/c_2851086/"
+    }
+  ],
+  "conseilsLies": [
+    "anticoagulants-oraux"
   ]
 }

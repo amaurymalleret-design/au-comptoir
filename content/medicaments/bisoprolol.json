@@ -1,0 +1,94 @@
+{
+  "type": "medicament",
+  "slug": "bisoprolol",
+  "titre": "Bisoprolol",
+  "dci": "bisoprolol (fumarate)",
+  "specialiteReference": "Cardensiel 1,25 à 10 mg, comprimé pelliculé",
+  "classe": "Bêtabloquant cardiosélectif",
+  "delivrance": "Liste I, sur prescription médicale",
+  "resume": "Insuffisance cardiaque chronique stable : titration lente de 1,25 mg à 10 mg/j par paliers d'1 à 4 semaines. Ne jamais arrêter brutalement ; surveiller pouls, tension et signes d'aggravation.",
+  "motsCles": [
+    "cardensiel",
+    "bêtabloquant",
+    "insuffisance cardiaque",
+    "pouls lent"
+  ],
+  "rcp": {
+    "libelle": "RCP Cardensiel 10 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/66351548/extrait"
+  },
+  "indications": [
+    "Insuffisance cardiaque chronique stable avec réduction de la fonction systolique du ventricule gauche, en complément des IEC et des diurétiques."
+  ],
+  "posologies": [
+    {
+      "indication": "Insuffisance cardiaque chronique stable",
+      "population": "Adulte",
+      "dose": "1,25 mg/j 1 semaine, puis 2,5 mg 1 semaine, 3,75 mg 1 semaine, 5 mg 4 semaines, 7,5 mg 4 semaines, puis 10 mg/j en entretien",
+      "remarque": "Une prise par jour ; augmenter seulement si bien toléré ; 10 mg/j au maximum."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance rénale ou hépatique sévère : prudence (peu de données).",
+    "Arrêt : toujours progressif."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Aggravation transitoire de l'insuffisance cardiaque, hypotension, ralentissement du pouls",
+      "frequence": "Fréquent pendant la titration",
+      "conduite": "Signaler essoufflement, prise de poids rapide, malaise ou pouls très lent."
+    },
+    {
+      "effet": "Fatigue, vertiges, mains et pieds froids",
+      "frequence": "Fréquent",
+      "conduite": "En parler au médecin ; ne pas arrêter seul."
+    },
+    {
+      "effet": "Gêne respiratoire chez l'asthmatique ou le BPCO",
+      "frequence": "Peu fréquent",
+      "conduite": "Consulter."
+    }
+  ],
+  "contreIndications": [
+    "Insuffisance cardiaque aiguë ou décompensée, choc cardiogénique.",
+    "Bloc auriculo-ventriculaire de 2e ou 3e degré non appareillé, maladie du sinus, bradycardie symptomatique, hypotension symptomatique.",
+    "Asthme sévère.",
+    "Troubles artériels périphériques sévères, Raynaud sévère, phéochromocytome non traité, acidose métabolique."
+  ],
+  "interactions": [
+    {
+      "avec": "Vérapamil, diltiazem",
+      "risque": "Association déconseillée : troubles de conduction et baisse de la contractilité."
+    },
+    {
+      "avec": "Antiarythmiques de classe I, antihypertenseurs centraux (clonidine…)",
+      "risque": "Association déconseillée : aggravation de l'insuffisance cardiaque."
+    },
+    {
+      "avec": "Insuline, antidiabétiques oraux",
+      "risque": "Effet hypoglycémiant majoré ; les signes d'hypoglycémie peuvent être masqués."
+    },
+    {
+      "avec": "Collyres bêtabloquants",
+      "risque": "Effets généraux du bisoprolol potentialisés."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Une prise par jour, à la même heure.",
+    "Ne jamais arrêter brutalement : risque d'aggravation, notamment en cas de maladie coronaire.",
+    "Prévenir l'anesthésiste avant une intervention.",
+    "Se peser régulièrement et signaler une prise de poids rapide."
+  ],
+  "conseilsLies": [
+    "insuffisance-cardiaque"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Cardensiel 10 mg (rubriques 4.1 à 4.5)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/66351548/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

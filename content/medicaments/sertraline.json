@@ -1,0 +1,115 @@
+{
+  "type": "medicament",
+  "slug": "sertraline",
+  "titre": "Sertraline",
+  "dci": "sertraline (chlorhydrate)",
+  "specialiteReference": "Zoloft 25 mg et 50 mg, gélule",
+  "classe": "Antidépresseur inhibiteur sélectif de la recapture de la sérotonine (ISRS)",
+  "delivrance": "Liste I, sur prescription médicale",
+  "resume": "Dépression : 50 mg/j pendant un repas, paliers de 50 mg d'au moins une semaine, 200 mg/j au maximum ; au moins 6 mois. Troubles anxieux : début à 25 mg. Arrêt progressif ; vigilance sur les idées suicidaires en début de traitement.",
+  "motsCles": [
+    "zoloft",
+    "antidépresseur",
+    "ISRS",
+    "dépression",
+    "anxiété",
+    "TOC"
+  ],
+  "rcp": {
+    "libelle": "RCP Zoloft 50 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60683198/extrait"
+  },
+  "indications": [
+    "Épisodes dépressifs majeurs et prévention des récidives.",
+    "Trouble panique, trouble anxiété sociale, état de stress post-traumatique.",
+    "Troubles obsessionnels compulsifs (adulte et enfant de 6 à 17 ans)."
+  ],
+  "posologies": [
+    {
+      "indication": "Dépression, TOC",
+      "population": "Adulte",
+      "dose": "50 mg une fois par jour pendant un repas",
+      "remarque": "Paliers de 50 mg espacés d'au moins une semaine, 200 mg/j au maximum ; dépression traitée au moins 6 mois."
+    },
+    {
+      "indication": "Trouble panique, anxiété sociale, ESPT",
+      "population": "Adulte",
+      "dose": "25 mg/j la première semaine, puis 50 mg/j",
+      "remarque": "Augmentation possible par paliers de 50 mg jusqu'à 200 mg/j."
+    },
+    {
+      "indication": "TOC",
+      "population": "Enfant de 6 à 12 ans / 13 à 17 ans",
+      "dose": "25 mg/j / 50 mg/j au départ",
+      "remarque": "Sur prescription spécialisée, 200 mg/j au maximum."
+    }
+  ],
+  "adaptations": [
+    "Sujet âgé : adaptation prudente (hyponatrémie).",
+    "Insuffisance hépatique : doses plus faibles ; contre-indiqué si sévère.",
+    "Insuffisance rénale : pas d'adaptation."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Nausées, diarrhée, bouche sèche, maux de tête, insomnie ou somnolence",
+      "frequence": "Très fréquent",
+      "conduite": "Souvent transitoires les premières semaines ; ne pas arrêter seul."
+    },
+    {
+      "effet": "Idées suicidaires, agitation, en début de traitement (surtout avant 25 ans)",
+      "frequence": "Peu fréquent",
+      "conduite": "Consulter immédiatement ; 3114 en cas d'idées suicidaires."
+    },
+    {
+      "effet": "Saignements anormaux (ecchymoses, saignements digestifs)",
+      "frequence": "Peu fréquent",
+      "conduite": "Signaler, surtout avec anticoagulant, aspirine ou AINS."
+    },
+    {
+      "effet": "Syndrome sérotoninergique (agitation, sueurs, fièvre, diarrhée, tremblements)",
+      "frequence": "Rare",
+      "conduite": "Urgence médicale."
+    }
+  ],
+  "contreIndications": [
+    "Association aux IMAO irréversibles et au pimozide.",
+    "Hypersensibilité à la sertraline."
+  ],
+  "interactions": [
+    {
+      "avec": "IMAO (y compris sélégiline, moclobémide, bleu de méthylène)",
+      "risque": "Syndrome sérotoninergique : contre-indiqué ou à éviter, avec délais de relais."
+    },
+    {
+      "avec": "Tramadol, triptans, millepertuis, lithium, autres sérotoninergiques",
+      "risque": "Risque de syndrome sérotoninergique (et de convulsions avec le tramadol)."
+    },
+    {
+      "avec": "Anticoagulants oraux, aspirine, AINS",
+      "risque": "Majoration du risque hémorragique."
+    },
+    {
+      "avec": "Pamplemousse",
+      "risque": "Hausse des concentrations : à éviter."
+    }
+  ],
+  "conseilsDelivrance": [
+    "L'effet complet demande plusieurs semaines : ne pas arrêter en l'absence d'effet immédiat.",
+    "Ne pas arrêter brutalement : diminution progressive sur au moins 1 à 2 semaines (vertiges, troubles du sommeil, anxiété sinon).",
+    "Éviter l'alcool et le pamplemousse ; pas de millepertuis.",
+    "Grossesse ou projet de grossesse : en parler au médecin, ne pas arrêter seule."
+  ],
+  "conseilsLies": [
+    "depression",
+    "anxiete"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Zoloft 50 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60683198/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

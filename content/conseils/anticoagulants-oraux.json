@@ -1,0 +1,84 @@
+{
+  "type": "conseil",
+  "slug": "anticoagulants-oraux",
+  "titre": "Patient sous anticoagulant oral",
+  "categorie": "chronique",
+  "theme": "metabo",
+  "resume": "Prise à heure fixe, carnet de suivi, INR réguliers sous AVK. Pas d'aspirine, d'AINS ni de miconazole en automédication. Saignement important, selles noires, chute avec choc à la tête : urgence.",
+  "motsCles": [
+    "AVK",
+    "INR",
+    "warfarine",
+    "apixaban",
+    "fibrillation atriale",
+    "phlébite",
+    "saignement"
+  ],
+  "introduction": "Les anticoagulants oraux (AVK comme la warfarine, ou anticoagulants oraux directs comme l'apixaban) préviennent les caillots en cas de fibrillation atriale, de valve cardiaque ou après une phlébite ou une embolie pulmonaire. Leur risque principal est le saignement. Le pharmacien vérifie les interactions à chaque délivrance et rappelle les règles de sécurité.",
+  "questions": [
+    "Quel anticoagulant prenez-vous, et pourquoi ?",
+    "Sous AVK : quand a eu lieu le dernier INR et quel était le résultat ? Avez-vous votre carnet ?",
+    "Avez-vous remarqué des saignements (gencives, nez, urines, selles noires, bleus inhabituels) ?",
+    "Avez-vous oublié des prises récemment ?",
+    "Nouveau médicament, antibiotique, produit à base de plantes, changement d'alimentation ?"
+  ],
+  "alertes": [
+    "Saignement abondant ou qui ne s'arrête pas, vomissement de sang, selles noires, urines rouges : urgence (15).",
+    "Chute avec choc à la tête, maux de tête violents et inhabituels : urgence, même sans symptôme immédiat.",
+    "INR très au-dessus de la cible ou saignement minime répété : contacter le médecin rapidement."
+  ],
+  "conseils": [
+    "Prendre l'anticoagulant chaque jour à la même heure ; ne jamais doubler une dose oubliée.",
+    "Sous AVK : faire les INR aux dates prévues (au moins une fois par mois une fois équilibré) et tenir le carnet de suivi.",
+    "Pas d'automédication : ni aspirine, ni anti-inflammatoire, ni miconazole (y compris gel buccal), ni millepertuis.",
+    "Pour la douleur ou la fièvre : paracétamol.",
+    "Signaler le traitement à tout soignant (dentiste, kiné, infirmier) et avant toute intervention.",
+    "Préférer un rasoir électrique et une brosse à dents souple."
+  ],
+  "produits": [
+    {
+      "nom": "Paracétamol",
+      "detail": "Antalgique et antipyrétique de choix.",
+      "prudence": "Doses habituelles ; un usage prolongé à fortes doses peut modifier l'INR."
+    },
+    {
+      "nom": "Carnet de suivi AVK",
+      "detail": "Remis à l'instauration, à présenter à chaque INR et à la pharmacie."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Risque de chute et de saignement accru : prévention des chutes, vigilance sur les interactions."
+    },
+    {
+      "population": "Femme en âge de procréer sous AVK",
+      "conduite": "Contraception efficace ; grossesse à signaler immédiatement au médecin."
+    }
+  ],
+  "aRetenir": "Heure fixe, pas de dose doublée, pas d'aspirine ni d'AINS ni de miconazole. Saignement important ou choc à la tête : urgence.",
+  "medicamentsLies": [
+    "warfarine",
+    "apixaban",
+    "paracetamol"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM",
+      "titre": "Bon usage des médicaments antivitamine K (AVK), actualisation 2012",
+      "url": "https://ansm.sante.fr/uploads/2021/01/13/bon-usage-avk-actualisee-juillet-2012.pdf"
+    },
+    {
+      "organisme": "ANSM",
+      "titre": "Les anticoagulants antivitamine K (AVK)",
+      "url": "https://ansm.sante.fr/dossiers-thematiques/les-anti-vitamine-k-avk"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Coumadine 2 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64631925/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

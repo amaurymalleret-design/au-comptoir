@@ -1,0 +1,78 @@
+{
+  "type": "conseil",
+  "slug": "osteoporose",
+  "titre": "Ostéoporose",
+  "categorie": "chronique",
+  "theme": "douleur",
+  "resume": "Bisphosphonate hebdomadaire pris strictement selon les règles (à jeun, eau du robinet, rester droit 30 min). Calcium, vitamine D, activité physique et prévention des chutes complètent le traitement.",
+  "motsCles": [
+    "os fragiles",
+    "fracture",
+    "ménopause",
+    "calcium",
+    "vitamine D",
+    "Fosamax"
+  ],
+  "introduction": "L'ostéoporose fragilise les os et expose aux fractures (poignet, vertèbres, col du fémur), surtout après la ménopause et avec l'âge. Le traitement associe apports suffisants en calcium et vitamine D, activité physique, prévention des chutes et, si besoin, un médicament comme un bisphosphonate dont les modalités de prise sont strictes.",
+  "questions": [
+    "Quel traitement, et comment le prenez-vous ?",
+    "Brûlures en avalant, douleur derrière le sternum ?",
+    "Avez-vous chuté récemment ? Prenez-vous des médicaments qui font somnoler ?",
+    "Apports en laitages ? Supplémentation en calcium ou vitamine D ?",
+    "Problèmes dentaires, soins dentaires prévus ?"
+  ],
+  "alertes": [
+    "Douleur ou difficulté en avalant sous bisphosphonate : arrêter et consulter.",
+    "Douleur de la mâchoire, dent qui bouge, plaie buccale qui ne cicatrise pas : consulter.",
+    "Douleur nouvelle de la cuisse ou de l'aine : consulter.",
+    "Chute avec douleur osseuse persistante : radiographie (fracture possible)."
+  ],
+  "conseils": [
+    "Bisphosphonate oral : au lever, à jeun, avec un grand verre d'eau du robinet ; rester droit 30 minutes avant de manger, boire ou prendre un autre médicament.",
+    "Calcium à distance du bisphosphonate.",
+    "Assurer des apports suffisants en calcium (laitages) et en vitamine D.",
+    "Activité physique régulière (marche) pour l'os et l'équilibre.",
+    "Prévenir les chutes : éclairage, tapis fixés, chaussures adaptées, revoir les somnifères.",
+    "Arrêter le tabac, limiter l'alcool ; suivi dentaire régulier."
+  ],
+  "produits": [
+    {
+      "nom": "Calcium et vitamine D",
+      "detail": "Si les apports alimentaires sont insuffisants, sur avis médical.",
+      "prudence": "Prendre à distance du bisphosphonate et de la lévothyroxine."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Bilan des risques de chute et des médicaments sédatifs."
+    },
+    {
+      "population": "Traitement corticoïde prolongé",
+      "conduite": "Risque d'ostéoporose : en parler au médecin."
+    }
+  ],
+  "aRetenir": "Bisphosphonate : à jeun, eau du robinet, droit 30 minutes. Calcium, vitamine D, activité physique et prévention des chutes.",
+  "medicamentsLies": [
+    "alendronate"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Ostéoporose : traitement médical",
+      "url": "https://www.ameli.fr/assure/sante/themes/osteoporose/traitement-medical"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Ostéoporose : prévention",
+      "url": "https://www.ameli.fr/assure/sante/themes/osteoporose/prevention"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Fosamax 70 mg (rubriques 4.1 à 4.4)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62158815/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

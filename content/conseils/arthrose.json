@@ -1,0 +1,81 @@
+{
+  "type": "conseil",
+  "slug": "arthrose",
+  "titre": "Arthrose",
+  "categorie": "chronique",
+  "theme": "douleur",
+  "resume": "Activité physique adaptée et perte de poids sont la base. Paracétamol ou AINS en gel pour les poussées, AINS oraux le moins longtemps possible. Articulation rouge, chaude et gonflée avec fièvre : consulter.",
+  "motsCles": [
+    "genou",
+    "hanche",
+    "douleur articulaire",
+    "rhumatisme",
+    "AINS"
+  ],
+  "introduction": "L'arthrose est une usure du cartilage articulaire, fréquente au genou, à la hanche et aux mains. Elle évolue par poussées douloureuses. Le traitement associe activité physique, perte de poids si nécessaire et antalgiques au moment des poussées. Le pharmacien guide l'automédication et sécurise l'usage des anti-inflammatoires.",
+  "questions": [
+    "Quelle articulation ? Douleur à l'effort ou aussi la nuit ?",
+    "L'articulation est-elle gonflée, rouge, chaude ? Avez-vous de la fièvre ?",
+    "Qu'avez-vous déjà pris, à quelle dose ?",
+    "Antécédents d'ulcère, maladie rénale ou cardiaque, anticoagulant ?",
+    "Âge, poids, activité physique ?"
+  ],
+  "alertes": [
+    "Articulation rouge, chaude, très gonflée, surtout avec fièvre : consultation rapide (infection, crise de goutte).",
+    "Douleur nocturne intense, perte de poids, altération de l'état général : consulter.",
+    "Blocage de l'articulation ou douleur après une chute : avis médical."
+  ],
+  "conseils": [
+    "Bouger régulièrement (marche, vélo, natation) en adaptant l'effort ; le repos complet aggrave la raideur.",
+    "Perdre du poids en cas de surpoids soulage le genou et la hanche.",
+    "En poussée : froid sur l'articulation, mise au repos relative.",
+    "Paracétamol en première intention ; AINS en gel pour une articulation superficielle comme le genou.",
+    "AINS par voie orale : sur avis, dose minimale efficace et durée la plus courte."
+  ],
+  "produits": [
+    {
+      "nom": "Paracétamol",
+      "detail": "Antalgique de première intention.",
+      "prudence": "Respecter la dose maximale quotidienne."
+    },
+    {
+      "nom": "Diclofénac en gel",
+      "detail": "Genou ou mains, en cure courte.",
+      "prudence": "Ne pas exposer au soleil la zone traitée."
+    },
+    {
+      "nom": "Canne, genouillère, semelles",
+      "detail": "Soulagent l'articulation selon l'avis du médecin ou du kinésithérapeute."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Éviter les AINS oraux en automédication (rein, estomac, cœur)."
+    },
+    {
+      "population": "Patient sous anticoagulant",
+      "conduite": "Pas d'AINS oraux : paracétamol."
+    }
+  ],
+  "aRetenir": "Bouger, perdre du poids, paracétamol ou gel AINS en poussée. Articulation rouge et chaude avec fièvre : consulter.",
+  "medicamentsLies": [
+    "paracetamol",
+    "diclofenac-gel",
+    "ibuprofene"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Arthrose du genou : traitement médical et chirurgical",
+      "url": "https://www.ameli.fr/assure/sante/themes/arthrose-genou/traitement-medical-chirurgical"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Arthrose de la hanche : traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/arthrose-hanche/traitement"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}
