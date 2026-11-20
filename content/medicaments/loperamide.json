@@ -1,0 +1,77 @@
+{
+  "type": "medicament",
+  "slug": "loperamide",
+  "titre": "Lopéramide",
+  "dci": "lopéramide (chlorhydrate)",
+  "resume": "Ralentisseur du transit pour les diarrhées aiguës passagères, à partir de 15 ans en automédication : 2 gélules puis 1 après chaque selle, 6/j et 2 jours maximum.",
+  "specialiteReference": "Imodiumcaps 2 mg, gélule",
+  "classe": "Antidiarrhéique, ralentisseur du transit (opioïde périphérique) – ATC A07DA03",
+  "delivrance": "Non soumis à prescription",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "imodium",
+    "imodiumcaps",
+    "diarrhée",
+    "gastro",
+    "ralentisseur du transit"
+  ],
+  "rcp": {
+    "libelle": "RCP Imodiumcaps 2 mg, gélule (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61203061/extrait"
+  },
+  "indications": [
+    "Traitement de courte durée des diarrhées aiguës passagères de l'adulte et de l'enfant à partir de 15 ans."
+  ],
+  "posologies": [
+    {
+      "indication": "Diarrhée aiguë passagère",
+      "population": "Adulte et enfant ≥ 15 ans",
+      "dose": "2 gélules (4 mg) puis 1 gélule après chaque selle non moulée",
+      "remarque": "Jamais plus de 6 gélules par jour ni plus de 2 jours de traitement."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance hépatique : prudence (risque de surdosage).",
+    "Sujet âgé, insuffisant rénal : pas d'adaptation."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Constipation, flatulences, nausées, maux de tête",
+      "frequence": "Fréquent",
+      "conduite": "Arrêter en cas de constipation ou de ballonnement."
+    },
+    {
+      "effet": "Troubles du rythme cardiaque en cas de surdosage",
+      "frequence": "Rapporté",
+      "conduite": "Ne jamais dépasser la dose ; urgence en cas de prise massive."
+    }
+  ],
+  "contreIndications": [
+    "Enfant de moins de 15 ans (pour cette spécialité).",
+    "Diarrhée avec sang et fièvre importante, colite bactérienne invasive.",
+    "Colite pseudomembraneuse après antibiotique, poussée de rectocolite hémorragique.",
+    "Situations où il faut éviter de ralentir le transit (iléus, mégacôlon)."
+  ],
+  "interactions": [
+    {
+      "avec": "Inhibiteurs du CYP3A4 et de la P-gp (itraconazole, kétoconazole), gemfibrozil",
+      "risque": "Forte hausse des concentrations de lopéramide."
+    }
+  ],
+  "conseilsDelivrance": [
+    "La réhydratation reste la priorité.",
+    "Consulter si la diarrhée dure plus de 2 jours, s'il y a de la fièvre ou du sang.",
+    "Grossesse : seulement si nécessaire ; allaitement non recommandé."
+  ],
+  "conseilsLies": [
+    "diarrhee-aigue"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Imodiumcaps 2 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61203061/extrait"
+    }
+  ]
+}

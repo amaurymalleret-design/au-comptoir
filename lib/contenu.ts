@@ -34,4 +34,5 @@ export const THEMES: { id: string; libelle: string; couleur: string; icone: stri
   { id: "dermato", libelle: "Dermatologie", couleur: "var(--c-dermato)", icone: "🧴" },
   { id: "uro", libelle: "Urologie · Gynéco", couleur: "var(--c-uro)", icone: "💧" },
   { id: "metabo", libelle: "Cardio · Métabolisme", couleur: "var(--c-metabo)", icone: "❤️" },
+  { id: "pediatrie", libelle: "Enfant · Général", couleur: "var(--c-pediatrie)", icone: "🧸" },
 ];

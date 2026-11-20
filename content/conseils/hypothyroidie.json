@@ -1,0 +1,64 @@
+{
+  "type": "conseil",
+  "slug": "hypothyroidie",
+  "titre": "Hypothyroïdie",
+  "categorie": "chronique",
+  "theme": "metabo",
+  "resume": "Lévothyroxine à vie, le matin à jeun, à distance du fer, du calcium et des pansements gastriques. TSH de contrôle après chaque changement, puis une fois par an.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "thyroïde",
+    "TSH",
+    "lévothyroxine",
+    "levothyrox",
+    "fatigue"
+  ],
+  "introduction": "L'hypothyroïdie se traite par une hormone thyroïdienne de synthèse, la lévothyroxine, en général à vie. Le traitement est équilibré lorsque deux TSH à 3 mois d'intervalle, à la même dose, sont dans les normes ; la TSH est ensuite contrôlée une fois par an. Le pharmacien veille aux modalités de prise et aux interactions.",
+  "questions": [
+    "Depuis quand êtes-vous traité ? Dose actuelle ? Changement récent de dose ou de marque ?",
+    "Prise le matin à jeun ? À quelle distance du petit déjeuner et des autres médicaments ?",
+    "Fer, calcium, pansements gastriques, IPP, résines en cours ?",
+    "Palpitations, tremblements, insomnie, amaigrissement (surdosage) ? Fatigue, frilosité, prise de poids (sous-dosage) ?",
+    "Grossesse en cours ou projet ?"
+  ],
+  "alertes": [
+    "Palpitations, douleur thoracique, tremblements, insomnie, amaigrissement : signes possibles de surdosage, avis médical.",
+    "Grossesse : contacter rapidement le médecin (les besoins augmentent).",
+    "Patient âgé ou cardiaque avec douleur thoracique après une augmentation de dose : urgence.",
+    "Fatigue intense et persistante malgré le traitement : contrôle de la TSH."
+  ],
+  "conseils": [
+    "Prendre le comprimé le matin à jeun, avec un verre d'eau, au moins 30 minutes avant le petit déjeuner.",
+    "Espacer d'au moins 2 heures le fer, le calcium, les pansements gastriques et les antiacides.",
+    "Ne pas changer de spécialité sans le signaler au médecin ; contrôle de la TSH conseillé en cas de changement.",
+    "Ne jamais arrêter le traitement de soi-même ; en cas d'oubli, ne pas doubler la dose le lendemain sans avis."
+  ],
+  "produits": [],
+  "populations": [
+    {
+      "population": "Femme enceinte",
+      "conduite": "Prévenir le médecin dès le début de grossesse : adaptation de dose et TSH rapprochées."
+    },
+    {
+      "population": "Personne âgée ou cardiaque",
+      "conduite": "Augmentations de dose progressives ; signaler toute douleur thoracique ou palpitation."
+    }
+  ],
+  "aRetenir": "Le matin à jeun, à distance du fer et du calcium. TSH après chaque changement, puis une fois par an.",
+  "medicamentsLies": [
+    "levothyroxine"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Hypothyroïdie : un traitement à vie",
+      "url": "https://www.ameli.fr/assure/sante/themes/hypothyroidie/traitement"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Levothyrox 100 µg (rubriques 4.2, 4.4, 4.5)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68416845/extrait"
+    }
+  ]
+}

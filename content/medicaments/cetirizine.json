@@ -1,0 +1,91 @@
+{
+  "type": "medicament",
+  "slug": "cetirizine",
+  "titre": "Cétirizine",
+  "dci": "cétirizine (dichlorhydrate)",
+  "resume": "Antihistaminique H1 pour la rhinite allergique et l'urticaire chronique. 10 mg/j chez l'adulte ; adaptation à la fonction rénale ; somnolence possible.",
+  "specialiteReference": "Zyrtecset 10 mg, comprimé pelliculé sécable",
+  "classe": "Antihistaminique H1 (dérivé de la pipérazine) – ATC R06AE07",
+  "delivrance": "Non soumis à prescription (prise en charge si prescrit)",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "zyrtec",
+    "zyrtecset",
+    "virlix",
+    "allergie",
+    "rhume des foins",
+    "antihistaminique",
+    "urticaire"
+  ],
+  "rcp": {
+    "libelle": "RCP Zyrtecset 10 mg, comprimé pelliculé sécable (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64949486/extrait"
+  },
+  "indications": [
+    "Symptômes nasaux et oculaires des rhinites allergiques saisonnières et perannuelles (adulte et enfant ≥ 6 ans).",
+    "Symptômes de l'urticaire chronique idiopathique (avis médical recommandé)."
+  ],
+  "posologies": [
+    {
+      "indication": "Rhinite allergique, urticaire",
+      "population": "Adulte et adolescent > 12 ans",
+      "dose": "10 mg une fois par jour (1 comprimé)"
+    },
+    {
+      "indication": "Rhinite allergique, urticaire",
+      "population": "Enfant de 6 à 12 ans",
+      "dose": "5 mg deux fois par jour (½ comprimé matin et soir)",
+      "remarque": "Forme comprimé non adaptée avant 6 ans : utiliser une forme pédiatrique."
+    }
+  ],
+  "adaptations": [
+    "DFG 30 à < 60 mL/min : 5 mg une fois par jour.",
+    "DFG 15 à < 30 mL/min : 5 mg tous les 2 jours.",
+    "DFG < 15 mL/min (dialyse) : contre-indiqué.",
+    "Insuffisance hépatique isolée : pas d'adaptation."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Somnolence, fatigue",
+      "frequence": "Fréquent",
+      "conduite": "Ne pas conduire en cas de somnolence ; éviter l'alcool."
+    },
+    {
+      "effet": "Céphalées, sécheresse buccale, vertiges",
+      "frequence": "Fréquent",
+      "conduite": "Habituellement légers."
+    },
+    {
+      "effet": "Démangeaisons ou urticaire à l'arrêt du traitement",
+      "frequence": "Rapporté depuis la commercialisation",
+      "conduite": "En parler au médecin ou au pharmacien si gênant."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité à la cétirizine, à l'hydroxyzine ou aux dérivés de la pipérazine.",
+    "Insuffisance rénale terminale (DFG < 15 mL/min)."
+  ],
+  "interactions": [
+    {
+      "avec": "Alcool et autres dépresseurs du système nerveux central",
+      "risque": "Altération possible de la vigilance : prudence."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Une prise par jour suffit chez l'adulte, le soir si elle fatigue.",
+    "Prudence en cas de rétention urinaire (prostate) ou d'épilepsie.",
+    "Arrêter 3 jours avant des tests allergiques cutanés.",
+    "Grossesse et allaitement : avis médical (prudence recommandée par le RCP)."
+  ],
+  "conseilsLies": [
+    "rhinite-allergique"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Zyrtecset 10 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64949486/extrait"
+    }
+  ]
+}

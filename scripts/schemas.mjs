@@ -16,7 +16,7 @@ export const conseil = z.object({
   type: z.literal("conseil"),
   ...meta,
   categorie: z.enum(["quotidien", "chronique"]),
-  theme: z.enum(["orl", "digestif", "douleur", "dermato", "uro", "metabo"]),
+  theme: z.enum(["orl", "digestif", "douleur", "dermato", "uro", "metabo", "pediatrie"]),
   introduction: z.string().min(20),
   questions: z.array(z.string()).min(2),
   alertes: z.array(z.string()).min(2),

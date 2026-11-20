@@ -1,0 +1,84 @@
+{
+  "type": "medicament",
+  "slug": "macrogol",
+  "titre": "Macrogol 4000",
+  "dci": "macrogol 4000",
+  "resume": "Laxatif osmotique de la constipation chez l'adulte et l'enfant dès 8 ans (10 g) : 1 à 2 sachets par jour, en complément des mesures hygiéno-diététiques.",
+  "specialiteReference": "Forlax 10 g, poudre pour solution buvable en sachet",
+  "classe": "Laxatif osmotique – ATC A06AD15",
+  "delivrance": "Non soumis à prescription (prise en charge si prescrit)",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "forlax",
+    "transipeg",
+    "movicol",
+    "constipation",
+    "laxatif",
+    "PEG"
+  ],
+  "rcp": {
+    "libelle": "RCP Forlax 10 g, poudre pour solution buvable en sachet (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69298346/extrait"
+  },
+  "indications": [
+    "Traitement symptomatique de la constipation chez l'adulte et chez l'enfant à partir de 8 ans (dosage 10 g)."
+  ],
+  "posologies": [
+    {
+      "indication": "Constipation",
+      "population": "Adulte et enfant ≥ 8 ans",
+      "dose": "1 à 2 sachets (10 à 20 g) par jour, de préférence en une prise le matin",
+      "remarque": "Adapter à l'effet : de 1 sachet un jour sur deux à 2 sachets par jour. Chez l'enfant, ne pas dépasser 3 mois."
+    }
+  ],
+  "adaptations": [
+    "En cas de diarrhée chez le sujet âgé, l'insuffisant rénal ou hépatique ou sous diurétique : surveiller l'hydratation et les électrolytes.",
+    "Utilisable chez le diabétique (pas de sucre en quantité significative)."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Diarrhée, douleurs ou ballonnements abdominaux, nausées",
+      "frequence": "Fréquent",
+      "conduite": "Diminuer la dose ; arrêter si diarrhée importante."
+    },
+    {
+      "effet": "Déshydratation, troubles électrolytiques",
+      "frequence": "Fréquence indéterminée, surtout sujet âgé",
+      "conduite": "Surveiller en cas de diarrhée prolongée."
+    }
+  ],
+  "contreIndications": [
+    "Maladie inflammatoire sévère de l'intestin, mégacôlon toxique.",
+    "Perforation ou risque de perforation digestive.",
+    "Occlusion ou suspicion d'occlusion, sténose symptomatique.",
+    "Douleurs abdominales de cause indéterminée."
+  ],
+  "interactions": [
+    {
+      "avec": "Médicaments à marge thérapeutique étroite (digoxine, antiépileptiques, AVK, immunosuppresseurs)",
+      "risque": "Absorption possiblement diminuée : espacer les prises."
+    },
+    {
+      "avec": "Épaississants à base d'amidon",
+      "risque": "Le macrogol annule l'effet épaississant (troubles de déglutition)."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Effet en 24 à 48 h : ne pas augmenter les doses trop vite.",
+    "Toujours associer fibres, boissons et activité physique.",
+    "Utilisable pendant la grossesse.",
+    "Consulter si la constipation est récente et inexpliquée, avec sang ou amaigrissement."
+  ],
+  "conseilsLies": [
+    "constipation",
+    "hemorroides"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Forlax 10 g (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69298346/extrait"
+    }
+  ]
+}

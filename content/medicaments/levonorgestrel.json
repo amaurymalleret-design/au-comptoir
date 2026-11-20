@@ -1,0 +1,96 @@
+{
+  "type": "medicament",
+  "slug": "levonorgestrel",
+  "titre": "Lévonorgestrel (contraception d'urgence)",
+  "dci": "lévonorgestrel",
+  "resume": "Contraception d'urgence orale : 1 comprimé de 1,5 mg le plus tôt possible, au plus tard 72 h après le rapport. Gratuite et sans ordonnance en pharmacie.",
+  "specialiteReference": "Norlevo 1,5 mg, comprimé",
+  "classe": "Progestatif, contraceptif d'urgence – ATC G03AD01",
+  "delivrance": "Non soumis à prescription (gratuit en pharmacie, sans ordonnance)",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "norlevo",
+    "pilule du lendemain",
+    "contraception d'urgence",
+    "rapport non protégé",
+    "oubli de pilule"
+  ],
+  "rcp": {
+    "libelle": "RCP Norlevo 1,5 mg, comprimé (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60812935/extrait"
+  },
+  "indications": [
+    "Contraception d'urgence dans un délai de 72 heures après un rapport sexuel non protégé ou en cas d'échec d'une méthode contraceptive."
+  ],
+  "posologies": [
+    {
+      "indication": "Contraception d'urgence",
+      "population": "Femme, y compris adolescente (après les premières règles)",
+      "dose": "1 comprimé (1,5 mg) en une prise unique, le plus tôt possible, si possible dans les 12 h et au plus tard 72 h après le rapport",
+      "remarque": "Peut être pris à n'importe quel moment du cycle. Si vomissement dans les 3 h : reprendre un comprimé immédiatement."
+    },
+    {
+      "indication": "Contraception d'urgence",
+      "population": "Femme ayant pris un inducteur enzymatique dans les 4 dernières semaines",
+      "dose": "Préférer un DIU au cuivre ; à défaut, 2 comprimés pris ensemble (3 mg)",
+      "remarque": "Schéma proposé par le RCP, non étudié spécifiquement."
+    }
+  ],
+  "adaptations": [
+    "Efficacité possiblement diminuée si poids ou IMC élevé : le prendre le plus vite possible dans tous les cas (le DIU au cuivre reste une option).",
+    "Insuffisance hépatique sévère : non recommandé. Malabsorption sévère (maladie de Crohn) : efficacité possiblement diminuée."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Nausées, douleurs abdominales, céphalées, vertiges, fatigue",
+      "frequence": "Très fréquent à fréquent",
+      "conduite": "Disparaissent en général en 48 h. Vomissement dans les 3 h : reprendre un comprimé."
+    },
+    {
+      "effet": "Saignements irréguliers, tension mammaire, règles en avance ou en retard",
+      "frequence": "Fréquent (environ 30 %)",
+      "conduite": "Faire un test de grossesse si retard de règles de plus de 5 jours ou saignements anormaux."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité au lévonorgestrel ou à un excipient.",
+    "Déconseillé si risque de grossesse extra-utérine (antécédent de salpingite ou de GEU)."
+  ],
+  "interactions": [
+    {
+      "avec": "Inducteurs enzymatiques (carbamazépine, phénytoïne, barbituriques, rifampicine, rifabutine, efavirenz, ritonavir, griséofulvine, millepertuis)",
+      "risque": "Baisse d'efficacité : DIU au cuivre, ou double dose de lévonorgestrel."
+    },
+    {
+      "avec": "Ulipristal acétate (ellaOne)",
+      "risque": "Association non recommandée : ne pas prendre les deux."
+    },
+    {
+      "avec": "Ciclosporine",
+      "risque": "Risque de toxicité de la ciclosporine."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Plus il est pris tôt, plus il est efficace.",
+    "Utiliser un préservatif jusqu'aux règles suivantes ; la pilule habituelle peut être poursuivie.",
+    "Pas de protection contre les IST : proposer un dépistage si besoin.",
+    "Allaitement : allaiter juste avant la prise puis ne pas allaiter pendant 8 h.",
+    "Si un rapport non protégé date déjà de plus de 72 h dans le même cycle, l'efficacité n'est pas garantie : orienter (DIU au cuivre, ulipristal)."
+  ],
+  "conseilsLies": [
+    "contraception-urgence"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Norlevo 1,5 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60812935/extrait"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Contraception d'urgence hormonale gratuite en pharmacie",
+      "url": "https://www.ameli.fr/assure/sante/themes/contraception-urgence/contraception-urgence-gratuite"
+    }
+  ]
+}

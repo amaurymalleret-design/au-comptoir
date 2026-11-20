@@ -1,0 +1,78 @@
+{
+  "type": "medicament",
+  "slug": "econazole-ovule",
+  "titre": "Éconazole ovule",
+  "dci": "éconazole (nitrate)",
+  "resume": "Antifongique local des mycoses vulvo-vaginales : 1 ovule de 150 mg le soir pendant 3 jours. Incompatible avec les préservatifs en latex ; prudence sous AVK.",
+  "specialiteReference": "Gyno-Pevaryl 150 mg, ovule",
+  "classe": "Antifongique imidazolé à usage gynécologique – ATC G01AF05",
+  "delivrance": "Non soumis à prescription (prise en charge si prescrit)",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "gyno-pevaryl",
+    "mycose vaginale",
+    "candidose",
+    "ovule",
+    "antifongique"
+  ],
+  "rcp": {
+    "libelle": "RCP Gyno-Pevaryl 150 mg, ovule (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62774928/extrait"
+  },
+  "indications": [
+    "Traitement local des mycoses vulvo-vaginales, surinfectées ou non par des bactéries Gram +."
+  ],
+  "posologies": [
+    {
+      "indication": "Mycose vulvo-vaginale",
+      "population": "Femme adulte",
+      "dose": "1 ovule le soir au coucher, profondément dans le vagin, 3 jours consécutifs",
+      "remarque": "Ne pas interrompre pendant les règles. Seconde cure si récidive avec culture positive."
+    }
+  ],
+  "adaptations": [
+    "Grossesse : pas au 1er trimestre sauf avis médical ; possible aux 2e et 3e trimestres si nécessaire."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Démangeaisons, sensation de brûlure locale",
+      "frequence": "Environ 1 %",
+      "conduite": "Habituellement transitoire ; consulter si cela s'aggrave."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité à l'éconazole ou aux imidazolés.",
+    "Association avec préservatifs ou diaphragmes en latex (risque de rupture)."
+  ],
+  "interactions": [
+    {
+      "avec": "AVK (warfarine, acénocoumarol)",
+      "risque": "Majoration de l'effet anticoagulant : contrôler l'INR plus souvent."
+    },
+    {
+      "avec": "Spermicides",
+      "risque": "Inactivation de la contraception spermicide."
+    },
+    {
+      "avec": "Préservatifs en latex",
+      "risque": "Risque de rupture : autre méthode pendant le traitement."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Toilette avec un savon doux non acide.",
+    "Associer une crème antifongique pour la vulve si démangeaisons externes.",
+    "Traiter le partenaire seulement s'il a des symptômes.",
+    "Consulter si c'est un premier épisode, si les récidives sont fréquentes ou en cas de signes inhabituels."
+  ],
+  "conseilsLies": [
+    "mycose-vaginale"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Gyno-Pevaryl 150 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62774928/extrait"
+    }
+  ]
+}

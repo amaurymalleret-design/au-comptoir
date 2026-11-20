@@ -1,0 +1,90 @@
+{
+  "type": "conseil",
+  "slug": "constipation",
+  "titre": "Constipation de l'adulte",
+  "categorie": "quotidien",
+  "theme": "digestif",
+  "resume": "Habitudes aux toilettes, fibres, boissons et activité d'abord ; laxatif osmotique ou de lest ensuite. Orienter si la constipation est récente après 50 ans, avec sang ou amaigrissement.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "transit",
+    "laxatif",
+    "macrogol",
+    "fibres",
+    "ballonnements"
+  ],
+  "introduction": "La constipation est le plus souvent fonctionnelle et liée à l'alimentation, au manque d'activité, à un changement d'habitudes ou à un médicament. Les mesures hygiéno-diététiques sont la base du traitement ; les laxatifs en sont le complément, de préférence osmotiques ou de lest.",
+  "questions": [
+    "Depuis quand ? Est-ce inhabituel pour vous ?",
+    "Âge ? Grossesse, allaitement ?",
+    "Sang dans les selles, douleurs abdominales, fièvre, amaigrissement, alternance diarrhée-constipation ?",
+    "Traitements en cours (opioïdes, codéine, fer, anticholinergiques, inhibiteurs calciques…) ?",
+    "Déjà essayé un laxatif ? Lequel, combien de temps ?"
+  ],
+  "alertes": [
+    "Constipation récente et importante après 50 ans.",
+    "Sang dans les selles, amaigrissement, glaires, douleurs qui ne passent pas.",
+    "Fièvre avec douleurs abdominales fortes : consultation dans la journée.",
+    "Absence de gaz et de selles avec ventre gonflé et vomissements : urgence (15).",
+    "Constipation chez un patient suivi pour Crohn ou rectocolite hémorragique."
+  ],
+  "conseils": [
+    "Aller aux toilettes dès l'envie, à heure régulière (souvent après le petit déjeuner), sans forcer.",
+    "Augmenter progressivement les fibres (légumes, fruits, céréales complètes) et boire suffisamment.",
+    "Bouger tous les jours : marche, activité physique adaptée.",
+    "Repérer un médicament constipant et en parler au médecin.",
+    "Éviter l'usage prolongé des laxatifs stimulants."
+  ],
+  "produits": [
+    {
+      "nom": "Laxatifs osmotiques (macrogol, lactulose)",
+      "detail": "1re intention avec les mesures hygiéno-diététiques ; effet en 24 à 48 h.",
+      "prudence": "Contre-indiqués en cas d'occlusion ou de douleurs abdominales inexpliquées."
+    },
+    {
+      "nom": "Laxatifs de lest (ispaghul, psyllium)",
+      "detail": "À prendre avec un grand verre d'eau.",
+      "prudence": "Déconseillés si troubles de la déglutition."
+    },
+    {
+      "nom": "Laxatifs lubrifiants (huile de paraffine)",
+      "detail": "Ramollissent les selles.",
+      "prudence": "Pas en cas de troubles de la déglutition (fausse route), notamment chez la personne âgée."
+    },
+    {
+      "nom": "Suppositoires à la glycérine, microlavements",
+      "detail": "Usage ponctuel en cas de selles bloquées dans le rectum."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Femme enceinte",
+      "conduite": "Mesures hygiéno-diététiques ; le macrogol est utilisable pendant la grossesse (RCP). Avis médical si persistance."
+    },
+    {
+      "population": "Personne âgée",
+      "conduite": "Penser aux médicaments, à la déshydratation et au fécalome ; pas d'huile de paraffine si troubles de déglutition."
+    },
+    {
+      "population": "Enfant",
+      "conduite": "Avis médical avant tout laxatif chez le jeune enfant ; le macrogol 10 g est réservé à partir de 8 ans."
+    }
+  ],
+  "aRetenir": "Habitudes, fibres, eau, activité, puis osmotique. Récente après 50 ans, sang ou amaigrissement : médecin.",
+  "medicamentsLies": [
+    "macrogol"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Constipation de l'adulte : que faire et quand consulter ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/constipation-adulte/que-faire-quand-consulter"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Forlax 10 g (rubriques 4.1 à 4.6)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69298346/extrait"
+    }
+  ]
+}

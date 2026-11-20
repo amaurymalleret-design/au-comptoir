@@ -1,0 +1,92 @@
+{
+  "type": "medicament",
+  "slug": "ulipristal",
+  "titre": "Ulipristal acétate (contraception d'urgence)",
+  "dci": "ulipristal acétate",
+  "resume": "Contraception d'urgence orale jusqu'à 120 h (5 jours) après le rapport : 1 comprimé de 30 mg. Attention aux IPP, aux inducteurs et au délai avant la reprise de la pilule.",
+  "specialiteReference": "ellaOne 30 mg, comprimé pelliculé",
+  "classe": "Modulateur des récepteurs de la progestérone – ATC G03AD02",
+  "delivrance": "Non soumis à prescription (gratuit en pharmacie, sans ordonnance)",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "ellaone",
+    "pilule du surlendemain",
+    "contraception d'urgence",
+    "120 heures",
+    "5 jours"
+  ],
+  "rcp": {
+    "libelle": "RCP ellaOne (EMA, autorisation européenne)",
+    "url": "https://www.ema.europa.eu/fr/documents/product-information/ellaone-epar-product-information_fr.pdf"
+  },
+  "indications": [
+    "Contraception d'urgence dans les 120 heures (5 jours) suivant un rapport sexuel non protégé ou en cas d'échec d'une méthode contraceptive."
+  ],
+  "posologies": [
+    {
+      "indication": "Contraception d'urgence",
+      "population": "Femme en âge de procréer, y compris adolescente",
+      "dose": "1 comprimé (30 mg) en une prise, le plus tôt possible et au plus tard 120 h après le rapport",
+      "remarque": "Si vomissement dans les 3 h : reprendre un comprimé."
+    }
+  ],
+  "adaptations": [
+    "Non recommandé en cas d'asthme sévère traité par corticoïdes oraux.",
+    "Inefficace si l'ovulation a déjà eu lieu."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Maux de tête, nausées, douleurs abdominales, règles douloureuses",
+      "frequence": "Les plus fréquents",
+      "conduite": "Habituellement transitoires. Vertiges possibles : prudence pour la conduite."
+    },
+    {
+      "effet": "Modification de la date des règles",
+      "frequence": "Fréquent",
+      "conduite": "Test de grossesse si les règles tardent ; consulter en cas de grossesse."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité à l'ulipristal ou à un excipient."
+  ],
+  "interactions": [
+    {
+      "avec": "Inducteurs du CYP3A4 (carbamazépine, oxcarbazépine, phénytoïne, barbituriques, rifampicine, rifabutine, efavirenz, névirapine, griséofulvine, millepertuis)",
+      "risque": "Non recommandé si pris dans les 4 dernières semaines : préférer un DIU au cuivre."
+    },
+    {
+      "avec": "Médicaments augmentant le pH gastrique (IPP, antiacides, anti-H2)",
+      "risque": "Absorption diminuée (baisse d'environ 65 % du pic avec l'ésoméprazole) : efficacité possiblement réduite."
+    },
+    {
+      "avec": "Lévonorgestrel (Norlevo)",
+      "risque": "Association non recommandée."
+    },
+    {
+      "avec": "Contraception hormonale habituelle",
+      "risque": "L'ulipristal peut en diminuer l'efficacité, et inversement : méthode barrière jusqu'aux règles suivantes."
+    }
+  ],
+  "conseilsDelivrance": [
+    "À prendre le plus tôt possible, même si le délai de 5 jours le permet.",
+    "Utiliser un préservatif jusqu'aux règles suivantes ; consulter pour adapter la contraception régulière.",
+    "Allaitement non recommandé pendant une semaine après la prise (tirer et jeter le lait).",
+    "Pas de protection contre les IST."
+  ],
+  "conseilsLies": [
+    "contraception-urgence"
+  ],
+  "sources": [
+    {
+      "organisme": "EMA",
+      "titre": "Résumé des caractéristiques du produit ellaOne (rubriques 4.1 à 4.8)",
+      "url": "https://www.ema.europa.eu/fr/documents/product-information/ellaone-epar-product-information_fr.pdf"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Contraception d'urgence hormonale gratuite en pharmacie",
+      "url": "https://www.ameli.fr/assure/sante/themes/contraception-urgence/contraception-urgence-gratuite"
+    }
+  ]
+}

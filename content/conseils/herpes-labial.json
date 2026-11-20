@@ -1,0 +1,79 @@
+{
+  "type": "conseil",
+  "slug": "herpes-labial",
+  "titre": "Herpès labial (bouton de fièvre)",
+  "categorie": "quotidien",
+  "theme": "dermato",
+  "resume": "Crème antivirale dès les premiers picotements, 5 fois par jour pendant 5 jours maximum. Orienter le nourrisson, l'immunodéprimé et toute atteinte de l'œil.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "bouton de fièvre",
+    "herpès",
+    "aciclovir",
+    "bouton sur la lèvre",
+    "vésicules"
+  ],
+  "introduction": "L'herpès labial est une récurrence du virus herpès simplex, souvent déclenchée par la fièvre, le soleil, la fatigue ou les règles. Il guérit en une dizaine de jours. Un antiviral local débuté tôt peut raccourcir la poussée ; le patch protège et limite la contagion.",
+  "questions": [
+    "Pour qui ? Âge (nourrisson, enfant) ?",
+    "Premiers picotements ou vésicules déjà présentes ?",
+    "Lésions étendues, dans la bouche, près de l'œil ?",
+    "Immunodépression, eczéma atopique, grossesse ?",
+    "Poussées très fréquentes ?"
+  ],
+  "alertes": [
+    "Nourrisson ou jeune enfant avec lésions buccales étendues et refus de boire.",
+    "Lésion près de l'œil, œil rouge ou douloureux : consultation urgente.",
+    "Personne immunodéprimée.",
+    "Lésions étendues chez un patient atteint d'eczéma.",
+    "Poussée qui ne guérit pas en 10 à 15 jours, ou récidives très fréquentes."
+  ],
+  "conseils": [
+    "Ne pas toucher ni percer les vésicules ; se laver les mains après chaque contact.",
+    "Éviter les bisous, surtout aux nourrissons, et ne pas partager verres ou serviettes.",
+    "Protéger les lèvres du soleil (stick à indice élevé) pour limiter les récidives.",
+    "Ne pas appliquer de corticoïde sur la lésion."
+  ],
+  "produits": [
+    {
+      "nom": "Aciclovir crème 5 %",
+      "detail": "5 applications par jour dès les premiers symptômes, 5 jours maximum sans avis médical, à partir de 6 ans.",
+      "prudence": "Pas dans l'œil ni dans la bouche."
+    },
+    {
+      "nom": "Patch hydrocolloïde",
+      "detail": "Protège, masque la lésion et limite la transmission."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Enfant de moins de 6 ans",
+      "conduite": "L'aciclovir crème en automédication n'est pas indiqué : avis médical."
+    },
+    {
+      "population": "Femme enceinte",
+      "conduite": "Aciclovir local possible selon le RCP ; signaler tout herpès génital au médecin."
+    },
+    {
+      "population": "Personne immunodéprimée",
+      "conduite": "Orienter : un traitement oral peut être nécessaire."
+    }
+  ],
+  "aRetenir": "Antiviral dès les picotements, mains lavées, pas de bisous aux bébés. Œil ou immunodépression : médecin.",
+  "medicamentsLies": [
+    "aciclovir-creme"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Que faire et quand consulter en cas d'herpès labial ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/herpes-labial/que-faire-cas-faut-consulter.html"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Activir 5 % crème",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68933636/extrait"
+    }
+  ]
+}

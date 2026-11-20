@@ -1,0 +1,70 @@
+{
+  "type": "medicament",
+  "slug": "aciclovir-creme",
+  "titre": "Aciclovir crème 5 %",
+  "dci": "aciclovir",
+  "resume": "Antiviral local de l'herpès labial dès 6 ans : 5 applications par jour, dès les premiers picotements, 5 jours maximum sans avis médical.",
+  "specialiteReference": "Activir 5 % crème",
+  "classe": "Antiviral local – ATC D06BB03",
+  "delivrance": "Non soumis à prescription",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "activir",
+    "zovirax",
+    "bouton de fièvre",
+    "herpès",
+    "antiviral"
+  ],
+  "rcp": {
+    "libelle": "RCP Activir 5 % crème (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68933636/extrait"
+  },
+  "indications": [
+    "Poussées d'herpès labial localisé (« boutons de fièvre ») chez l'adulte et l'enfant de plus de 6 ans.",
+    "Remarque : Zovirax 5 % crème est, lui, indiqué dans l'herpès génital sur prescription médicale."
+  ],
+  "posologies": [
+    {
+      "indication": "Herpès labial",
+      "population": "Adulte et enfant > 6 ans",
+      "dose": "5 applications par jour, espacées d'au moins 3 à 4 h, sans application la nuit, en débordant autour des lésions",
+      "remarque": "Débuter dès les premiers symptômes. 5 jours maximum sans avis médical."
+    }
+  ],
+  "adaptations": [
+    "Patient très immunodéprimé : orienter vers le médecin (aciclovir par voie orale à envisager)."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Picotements ou brûlures transitoires, sécheresse, desquamation, démangeaisons",
+      "frequence": "Peu fréquent",
+      "conduite": "Sans gravité ; arrêter en cas de rougeur ou d'eczéma."
+    }
+  ],
+  "contreIndications": [
+    "Enfant de moins de 6 ans.",
+    "Hypersensibilité à l'aciclovir, au valaciclovir ou au propylèneglycol."
+  ],
+  "interactions": [],
+  "conseilsDelivrance": [
+    "Ne pas appliquer dans la bouche, l'œil ou le vagin.",
+    "Se laver les mains après chaque application.",
+    "Possible pendant la grossesse et l'allaitement."
+  ],
+  "conseilsLies": [
+    "herpes-labial"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Activir 5 % crème (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68933636/extrait"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Zovirax 5 % crème (rubrique 4.1)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/65069229/extrait"
+    }
+  ]
+}

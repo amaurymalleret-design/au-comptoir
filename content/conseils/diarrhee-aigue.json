@@ -7,7 +7,14 @@
   "resume": "La réhydratation est la priorité, surtout chez le nourrisson et la personne âgée. Antidiarrhéiques en complément, avec leurs limites d'âge et d'interactions.",
   "statut": "brouillon",
   "miseAJour": "2026-11-20",
-  "motsCles": ["gastro-entérite", "gastro", "SRO", "lopéramide", "racécadotril", "déshydratation"],
+  "motsCles": [
+    "gastro-entérite",
+    "gastro",
+    "SRO",
+    "lopéramide",
+    "racécadotril",
+    "déshydratation"
+  ],
   "introduction": "La diarrhée aiguë est le plus souvent d'origine virale et guérit en quelques jours. Le danger principal est la déshydratation, en particulier aux âges extrêmes. Les médicaments réduisent l'inconfort mais ne remplacent pas la réhydratation.",
   "questions": [
     "Pour qui ? Âge, poids du nourrisson, grossesse ?",
@@ -30,21 +37,61 @@
     "Patients sous IEC, sartan, diurétique ou metformine : contacter le médecin en cas de déshydratation."
   ],
   "produits": [
-    { "nom": "Solutés de réhydratation orale (SRO)", "detail": "Indispensables chez le nourrisson et l'enfant ; utiles chez la personne âgée." },
-    { "nom": "Racécadotril", "detail": "Antisécrétoire, en complément de la réhydratation.", "prudence": "Majoration du risque d'angio-œdème avec les IEC (RCP du ramipril)." },
-    { "nom": "Lopéramide", "detail": "Ralentisseur du transit chez l'adulte.", "prudence": "Pas en cas de fièvre ou de sang dans les selles. Usage court (moins de 2 jours selon ameli). Respecter les limites d'âge du RCP." },
-    { "nom": "Diosmectite", "detail": "Pansement intestinal.", "prudence": "Espacer de 2 h des autres médicaments (diminue leur absorption)." }
+    {
+      "nom": "Solutés de réhydratation orale (SRO)",
+      "detail": "Indispensables chez le nourrisson et l'enfant ; utiles chez la personne âgée."
+    },
+    {
+      "nom": "Racécadotril",
+      "detail": "Antisécrétoire, en complément de la réhydratation.",
+      "prudence": "Majoration du risque d'angio-œdème avec les IEC (RCP du ramipril)."
+    },
+    {
+      "nom": "Lopéramide",
+      "detail": "Ralentisseur du transit chez l'adulte.",
+      "prudence": "Pas en cas de fièvre ou de sang dans les selles. Usage court (moins de 2 jours selon ameli). Respecter les limites d'âge du RCP."
+    },
+    {
+      "nom": "Diosmectite",
+      "detail": "Pansement intestinal.",
+      "prudence": "Espacer de 2 h des autres médicaments (diminue leur absorption)."
+    }
   ],
   "populations": [
-    { "population": "Nourrisson", "conduite": "SRO à volonté, peser l'enfant ; consultation rapide si perte de poids, vomissements répétés, fièvre ou moins de 6 mois." },
-    { "population": "Personne âgée", "conduite": "Surveiller l'hydratation, revoir avec le médecin les traitements à risque (diurétiques, IEC, metformine)." },
-    { "population": "Femme enceinte", "conduite": "Réhydratation ; avis médical avant tout antidiarrhéique." }
+    {
+      "population": "Nourrisson",
+      "conduite": "SRO à volonté, peser l'enfant ; consultation rapide si perte de poids, vomissements répétés, fièvre ou moins de 6 mois."
+    },
+    {
+      "population": "Personne âgée",
+      "conduite": "Surveiller l'hydratation, revoir avec le médecin les traitements à risque (diurétiques, IEC, metformine)."
+    },
+    {
+      "population": "Femme enceinte",
+      "conduite": "Réhydratation ; avis médical avant tout antidiarrhéique."
+    }
   ],
   "aRetenir": "Réhydrater d'abord. Sang, fièvre, nourrisson ou personne âgée fragile : médecin.",
-  "medicamentsLies": ["ramipril", "metformine"],
+  "medicamentsLies": [
+    "loperamide",
+    "ramipril",
+    "metformine"
+  ],
   "sources": [
-    { "organisme": "Assurance Maladie (ameli)", "titre": "Diarrhée et gastro-entérite de l'adulte : que faire ?", "url": "https://www.ameli.fr/assure/sante/themes/gastro-enterite-adulte/bons-reflexes-que-faire" },
-    { "organisme": "ANSM / BDPM", "titre": "RCP Triatec : interaction IEC – racécadotril (rubrique 4.5)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63524315/extrait" },
-    { "organisme": "ANSM / BDPM", "titre": "RCP Glucophage : affections aiguës et déshydratation (rubriques 4.3, 4.4)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61052830/extrait" }
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Diarrhée et gastro-entérite de l'adulte : que faire ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/gastro-enterite-adulte/bons-reflexes-que-faire"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Triatec : interaction IEC – racécadotril (rubrique 4.5)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63524315/extrait"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Glucophage : affections aiguës et déshydratation (rubriques 4.3, 4.4)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61052830/extrait"
+    }
   ]
 }

@@ -1,0 +1,101 @@
+{
+  "type": "medicament",
+  "slug": "amlodipine",
+  "titre": "Amlodipine",
+  "dci": "amlodipine (bésilate)",
+  "resume": "Inhibiteur calcique de l'hypertension et de l'angor, en une prise par jour (5 à 10 mg). Œdèmes des chevilles fréquents ; pas de pamplemousse.",
+  "specialiteReference": "Amlor 5 mg, gélule",
+  "classe": "Inhibiteur calcique (dihydropyridine) – ATC C08CA01",
+  "delivrance": "Liste I, sur prescription",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "amlor",
+    "hypertension",
+    "HTA",
+    "inhibiteur calcique",
+    "angor"
+  ],
+  "rcp": {
+    "libelle": "RCP Amlor 5 mg, gélule (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63458349/extrait"
+  },
+  "indications": [
+    "Hypertension.",
+    "Angor chronique stable.",
+    "Angor vasospastique (syndrome de Prinzmetal)."
+  ],
+  "posologies": [
+    {
+      "indication": "Hypertension, angor",
+      "population": "Adulte",
+      "dose": "5 mg une fois par jour, augmentation possible jusqu'à 10 mg une fois par jour selon la réponse"
+    },
+    {
+      "indication": "Hypertension, angor",
+      "population": "Sujet âgé",
+      "dose": "Posologie habituelle ; augmentation avec précaution"
+    }
+  ],
+  "adaptations": [
+    "Insuffisance hépatique : débuter à la dose la plus faible et augmenter lentement.",
+    "Insuffisance rénale : pas d'adaptation."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Œdèmes, en particulier des chevilles",
+      "frequence": "Très fréquent",
+      "conduite": "Fréquent et sans gravité le plus souvent ; en parler au médecin s'ils gênent ou s'accompagnent d'essoufflement."
+    },
+    {
+      "effet": "Bouffées de chaleur, maux de tête, vertiges, palpitations, fatigue",
+      "frequence": "Fréquent (surtout au début)",
+      "conduite": "Prudence pour la conduite en début de traitement."
+    },
+    {
+      "effet": "Troubles digestifs, crampes",
+      "frequence": "Fréquent",
+      "conduite": "Signaler s'ils persistent."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité aux dihydropyridines.",
+    "Hypotension sévère, choc.",
+    "Rétrécissement aortique serré.",
+    "Insuffisance cardiaque instable après un infarctus aigu."
+  ],
+  "interactions": [
+    {
+      "avec": "Inhibiteurs du CYP3A4 (clarithromycine, érythromycine, antifongiques azolés, inhibiteurs de protéase, diltiazem, vérapamil)",
+      "risque": "Hausse de l'amlodipine, risque d'hypotension : surveillance."
+    },
+    {
+      "avec": "Pamplemousse (fruit ou jus)",
+      "risque": "Déconseillé : majoration de l'effet hypotenseur."
+    },
+    {
+      "avec": "Simvastatine",
+      "risque": "Limiter la simvastatine à 20 mg/j."
+    },
+    {
+      "avec": "Tacrolimus, inhibiteurs de mTOR",
+      "risque": "Hausse de leurs concentrations : surveillance."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Une prise par jour, à heure fixe, même sans symptôme.",
+    "Ne pas arrêter sans avis médical.",
+    "Pas de pamplemousse.",
+    "Grossesse : à n'utiliser que s'il n'y a pas d'alternative plus sûre."
+  ],
+  "conseilsLies": [
+    "hypertension-arterielle"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Amlor 5 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63458349/extrait"
+    }
+  ]
+}
