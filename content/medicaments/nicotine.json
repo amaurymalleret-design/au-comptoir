@@ -1,0 +1,92 @@
+{
+  "type": "medicament",
+  "slug": "nicotine",
+  "titre": "Nicotine (substituts nicotiniques)",
+  "dci": "nicotine",
+  "specialiteReference": "Nicopatchlib 7, 14 et 21 mg/24 h, dispositif transdermique",
+  "classe": "Médicament utilisé dans la dépendance à la nicotine – ATC N07BA01",
+  "delivrance": "Non soumis à prescription ; remboursé sur prescription",
+  "resume": "Patch choisi selon la dépendance (21 mg si ≥ 20 cigarettes/j ou Fagerström ≥ 5), environ 3 mois avec paliers dégressifs, associable à une forme orale. À partir de 15 ans.",
+  "motsCles": [
+    "patch",
+    "nicopatch",
+    "tabac",
+    "sevrage",
+    "substitut nicotinique"
+  ],
+  "rcp": {
+    "libelle": "RCP Nicopatchlib 21 mg/24 h (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62155071/extrait"
+  },
+  "indications": [
+    "Traitement de la dépendance tabagique, pour soulager les symptômes de sevrage chez les sujets qui veulent arrêter de fumer ; l'arrêt définitif est l'objectif final."
+  ],
+  "posologies": [
+    {
+      "indication": "Sevrage, dépendance forte",
+      "population": "Fagerström ≥ 5 ou ≥ 20 cigarettes/j",
+      "dose": "21 mg/24 h pendant 3 à 4 semaines, puis 14 ou 21 mg pendant 3 à 4 semaines, puis 7 ou 14 mg (puis 7 mg) pendant 3 à 4 semaines",
+      "remarque": "Adapter à la réponse : augmenter si manque, diminuer si signes de surdosage."
+    },
+    {
+      "indication": "Sevrage, dépendance moindre",
+      "population": "Fagerström < 5 ou < 20 cigarettes/j",
+      "dose": "14 mg/24 h (ou 21 mg selon le manque) pendant 3 à 4 semaines, puis 7 ou 14 mg, puis arrêt ou 7 mg",
+      "remarque": "Durée totale d'environ 3 mois ; pas au-delà de 6 mois sans avis médical."
+    },
+    {
+      "indication": "Association patch et forme orale",
+      "population": "Échec ou envies persistantes sous monothérapie",
+      "dose": "Patch 21 mg/24 h et forme orale ≤ 2 mg à la demande (en général 5 à 6 par jour, 24 au maximum) pendant 6 à 12 semaines, puis paliers de 14 puis 7 mg",
+      "remarque": "Sous surveillance médicale selon le RCP ; durée totale de 12 mois au maximum."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance hépatique modérée à sévère, insuffisance rénale sévère : prudence.",
+    "Moins de 18 ans : pas sans l'avis d'un professionnel de santé ; réservé à partir de 15 ans."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Réaction cutanée au site du patch",
+      "frequence": "Fréquent",
+      "conduite": "Changer de site chaque jour ; si réaction sévère ou persistante, arrêter et passer à une autre forme."
+    },
+    {
+      "effet": "Signes de surdosage : nausées, sueurs, maux de tête, palpitations",
+      "frequence": "Selon la dose",
+      "conduite": "Diminuer la dose ; ne jamais coller plusieurs patchs à la fois sans avis."
+    }
+  ],
+  "contreIndications": [
+    "Non-fumeur ou fumeur occasionnel.",
+    "Hypersensibilité à la nicotine ou à un excipient."
+  ],
+  "interactions": [
+    {
+      "avec": "Théophylline, clozapine, ropinirole, méthadone (arrêt du tabac)",
+      "risque": "Hausse des concentrations à l'arrêt du tabac (fin de l'induction du CYP1A2) : réduction de dose possible."
+    },
+    {
+      "avec": "Insuline",
+      "risque": "Besoins pouvant diminuer à l'arrêt du tabac : surveiller la glycémie."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Coller le patch le matin sur une peau sèche, sans lésion et peu poilue (haut du bras, épaule, hanche), en appuyant 10 secondes ; ne pas le couper.",
+    "Après un infarctus ou un AVC récent, un angor instable ou une arythmie sévère : sous surveillance médicale.",
+    "Danger pour les enfants : plier le patch usagé en deux, côté collant à l'intérieur, et le jeter hors de portée.",
+    "La nicotine passe dans le lait maternel : avis médical pendant l'allaitement."
+  ],
+  "conseilsLies": [
+    "sevrage-tabagique"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Nicopatchlib 21 mg/24 h (rubriques 4.1 à 4.5 et 4.9)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62155071/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

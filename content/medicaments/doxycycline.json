@@ -1,0 +1,95 @@
+{
+  "type": "medicament",
+  "slug": "doxycycline",
+  "titre": "Doxycycline (prophylaxie du paludisme)",
+  "dci": "doxycycline (monohydratée)",
+  "specialiteReference": "Doxypalu 100 mg, comprimé",
+  "classe": "Antibiotique de la famille des cyclines, utilisé en prophylaxie antipaludique",
+  "delivrance": "Sur prescription médicale",
+  "resume": "Prophylaxie du paludisme : 100 mg/j chez l'adulte, de la veille du départ à 4 semaines après le retour, au milieu d'un repas avec un grand verre d'eau, au moins 1 h avant le coucher. Photosensibilisante, pas avant 8 ans.",
+  "motsCles": [
+    "doxypalu",
+    "paludisme",
+    "voyage",
+    "cycline",
+    "photosensibilisation"
+  ],
+  "rcp": {
+    "libelle": "RCP Doxypalu 100 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63307856/extrait"
+  },
+  "indications": [
+    "Prophylaxie du paludisme du voyageur en zone d'endémie, en cas de résistance, de contre-indication ou d'intolérance à la méfloquine."
+  ],
+  "posologies": [
+    {
+      "indication": "Prophylaxie du paludisme",
+      "population": "Adulte",
+      "dose": "100 mg par jour",
+      "remarque": "De la veille du départ à 4 semaines après le retour."
+    },
+    {
+      "indication": "Prophylaxie du paludisme",
+      "population": "Enfant > 8 ans",
+      "dose": "50 mg/j si < 40 kg ; 100 mg/j si > 40 kg",
+      "remarque": "Même durée que l'adulte."
+    }
+  ],
+  "adaptations": [
+    "Pas d'utilisation avant 8 ans (coloration des dents, hypoplasie de l'émail)."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Photosensibilisation (coup de soleil anormal)",
+      "frequence": "Rapporté",
+      "conduite": "Éviter le soleil direct et les UV, protection vestimentaire et écran solaire."
+    },
+    {
+      "effet": "Ulcération de l'œsophage (douleur en avalant, brûlure rétrosternale)",
+      "frequence": "Rapporté",
+      "conduite": "Prendre debout avec un grand verre d'eau, au moins 1 h avant le coucher ; consulter si douleur."
+    }
+  ],
+  "contreIndications": [
+    "Enfant de moins de 8 ans.",
+    "Grossesse à partir du 2e trimestre ; allaitement.",
+    "Association aux rétinoïdes par voie générale."
+  ],
+  "interactions": [
+    {
+      "avec": "Rétinoïdes par voie générale (isotrétinoïne…)",
+      "risque": "Association contre-indiquée."
+    },
+    {
+      "avec": "Topiques gastro-intestinaux, sels de calcium, de fer, de magnésium, d'aluminium",
+      "risque": "Baisse de l'absorption : espacer de plus de 2 heures."
+    },
+    {
+      "avec": "Anticoagulants oraux",
+      "risque": "Majoration de l'effet anticoagulant et du risque hémorragique."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Prendre au milieu d'un repas, avec un verre d'eau (100 ml), au moins 1 heure avant le coucher.",
+    "Ne pas arrêter au retour : continuer 4 semaines.",
+    "Se protéger du soleil pendant tout le traitement.",
+    "Consulter en urgence en cas de fièvre pendant ou après le séjour."
+  ],
+  "conseilsLies": [
+    "paludisme-voyage"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Doxypalu 100 mg (rubriques 4.1 à 4.5)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63307856/extrait"
+    },
+    {
+      "organisme": "Haut Conseil de la santé publique (HCSP)",
+      "titre": "Recommandations sanitaires aux voyageurs, édition 2026",
+      "url": "https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1528"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

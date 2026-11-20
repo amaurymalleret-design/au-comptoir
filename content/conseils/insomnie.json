@@ -1,0 +1,97 @@
+{
+  "type": "conseil",
+  "slug": "insomnie",
+  "titre": "Insomnie de l'adulte",
+  "categorie": "quotidien",
+  "theme": "neuro",
+  "resume": "Insomnie occasionnelle : règles d'hygiène du sommeil et, si besoin, antihistaminique quelques jours seulement. Insomnie qui dure, ronflements avec somnolence ou humeur triste : médecin.",
+  "motsCles": [
+    "sommeil",
+    "somnifère",
+    "doxylamine",
+    "hygiène du sommeil",
+    "réveils nocturnes"
+  ],
+  "introduction": "L'insomnie est une difficulté à s'endormir, des réveils nocturnes ou un réveil trop précoce, avec un retentissement dans la journée. Elle est souvent liée au stress, à un événement de vie ou aux habitudes. Les médicaments ne sont qu'un appoint ponctuel ; quand l'insomnie dure, la thérapie cognitive et comportementale est le traitement de référence.",
+  "questions": [
+    "Depuis quand ? Difficulté d'endormissement, réveils, réveil précoce ?",
+    "Événement stressant, travail de nuit, décalage horaire ?",
+    "Café, alcool, écrans le soir, sieste longue ?",
+    "Ronflements, pauses respiratoires, somnolence dans la journée ? Jambes qui bougent le soir ?",
+    "Tristesse, perte d'intérêt, anxiété ? Douleurs nocturnes ?",
+    "Traitements en cours (corticoïdes, certains antidépresseurs, décongestionnants…) ? Âge, grossesse ?"
+  ],
+  "alertes": [
+    "Insomnie qui dure plus de quelques semaines ou retentit fortement sur la journée : consultation.",
+    "Ronflements, pauses respiratoires, somnolence au volant : suspicion d'apnées du sommeil, consultation.",
+    "Humeur dépressive, idées noires : consultation rapide ; idées suicidaires : 3114.",
+    "Demande répétée de somnifères ou prise prolongée : en parler avec le médecin.",
+    "Personne âgée : risque de chutes et de confusion avec les sédatifs."
+  ],
+  "conseils": [
+    "Se lever à heure fixe, même le week-end ; se coucher seulement quand le sommeil vient.",
+    "Si l'endormissement ne vient pas après une vingtaine de minutes, se lever et faire une activité calme.",
+    "Éviter café, thé, alcool et repas lourds le soir ; limiter les écrans avant le coucher.",
+    "Pratiquer une activité physique en journée, pas juste avant le coucher.",
+    "Chambre calme, sombre, fraîche ; une courte sieste en début d'après-midi est possible.",
+    "Médicament sans ordonnance : quelques jours au maximum."
+  ],
+  "produits": [
+    {
+      "nom": "Doxylamine (Donormyl)",
+      "detail": "Insomnie occasionnelle de l'adulte, le soir 15 à 30 minutes avant le coucher, 2 à 5 jours.",
+      "prudence": "Somnolence le lendemain, effets anticholinergiques ; contre-indiquée si glaucome à angle fermé ou troubles prostatiques, avant 15 ans."
+    },
+    {
+      "nom": "Mélatonine (compléments alimentaires)",
+      "detail": "Peut aider en cas de décalage horaire.",
+      "prudence": "Demander un avis médical ou pharmaceutique en cas de grossesse, chez l'enfant ou avec d'autres traitements."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Doxylamine à dose réduite et avec prudence (chutes, confusion, rétention urinaire) ; préférer l'hygiène du sommeil."
+    },
+    {
+      "population": "Femme enceinte",
+      "conduite": "La doxylamine est possible pendant la grossesse selon son RCP ; avis médical si l'insomnie persiste."
+    },
+    {
+      "population": "Femme qui allaite",
+      "conduite": "Doxylamine déconseillée."
+    },
+    {
+      "population": "Conducteur, travail sur machine",
+      "conduite": "Prévenir du risque de somnolence le lendemain."
+    }
+  ],
+  "aRetenir": "Hygiène du sommeil d'abord ; doxylamine 2 à 5 jours au maximum. Insomnie qui dure, apnées ou humeur triste : médecin.",
+  "medicamentsLies": [
+    "doxylamine"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Comment mieux dormir à l'âge adulte ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/insomnie-adulte/vivre-insomnie"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Traitement de l'insomnie",
+      "url": "https://www.ameli.fr/assure/sante/themes/insomnie-adulte/traitement-medical"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Insomnie et troubles du sommeil de l'adulte : consultation et bilan médical",
+      "url": "https://www.ameli.fr/assure/sante/themes/insomnie-adulte/diagnostic-evolution.html"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Donormyl 15 mg, comprimé pelliculé sécable (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62382724/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

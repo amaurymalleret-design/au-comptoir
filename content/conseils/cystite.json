@@ -78,5 +78,8 @@
       "titre": "Arrêté du 17 juin 2024 : délivrance de médicaments sans ordonnance après un test rapide d'orientation diagnostique",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049734400"
     }
+  ],
+  "medicamentsLies": [
+    "fosfomycine"
   ]
 }

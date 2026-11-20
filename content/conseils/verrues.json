@@ -1,0 +1,76 @@
+{
+  "type": "conseil",
+  "slug": "verrues",
+  "titre": "Verrues cutanées",
+  "categorie": "quotidien",
+  "theme": "dermato",
+  "resume": "Bénignes et souvent spontanément régressives. Traitement en vente libre possible sur les mains et les pieds ; jamais sur le visage ou les organes génitaux, ni chez le diabétique sans avis médical.",
+  "motsCles": [
+    "verrue plantaire",
+    "papillomavirus",
+    "acide salicylique",
+    "cryothérapie",
+    "pied"
+  ],
+  "introduction": "Les verrues sont dues à des papillomavirus humains. Elles sont contagieuses, surtout en milieu humide (piscines, douches collectives), et disparaissent souvent seules en quelques mois à quelques années. Le traitement vise à les faire disparaître plus vite quand elles gênent.",
+  "questions": [
+    "Où se trouve la lésion (mains, pieds, visage, organes génitaux) ? Combien ?",
+    "Depuis quand ? A-t-elle changé d'aspect, saigne-t-elle ?",
+    "Êtes-vous diabétique, avez-vous des troubles de la circulation ou une immunodépression ?",
+    "Âge ? Grossesse ?",
+    "Traitements déjà essayés ?"
+  ],
+  "alertes": [
+    "Lésion du visage, des paupières, des muqueuses ou des organes génitaux : consultation.",
+    "Lésion qui change d'aspect, saigne, grossit vite ou dont le diagnostic est douteux : consultation (diagnostic différentiel).",
+    "Patient diabétique, artéritique ou immunodéprimé : pas d'automédication sur les pieds, avis médical.",
+    "Verrues très nombreuses ou résistant aux traitements : dermatologue."
+  ],
+  "conseils": [
+    "Ne pas gratter, couper ni arracher la verrue (risque d'extension).",
+    "Porter des sandales dans les piscines et douches collectives, ne pas partager serviettes et chaussures.",
+    "Protéger la peau saine autour de la verrue lors de l'application d'un kératolytique.",
+    "Être patient : les traitements demandent plusieurs semaines et les récidives sont fréquentes."
+  ],
+  "produits": [
+    {
+      "nom": "Kératolytiques (acide salicylique, en solution ou pansement)",
+      "detail": "Application quotidienne sur la verrue après avoir ramolli la peau, en limant doucement la couche morte.",
+      "prudence": "Protéger la peau saine ; pas chez le diabétique sans avis médical."
+    },
+    {
+      "nom": "Dispositifs de cryothérapie en vente libre",
+      "detail": "Alternative pour les verrues des mains et des pieds.",
+      "prudence": "Respecter l'âge minimal et le temps d'application de la notice."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Enfant",
+      "conduite": "Régression spontanée fréquente ; vérifier l'âge minimal des produits."
+    },
+    {
+      "population": "Patient diabétique",
+      "conduite": "Pas de kératolytique ni de cryothérapie sur les pieds sans avis médical (risque de plaie)."
+    },
+    {
+      "population": "Femme enceinte",
+      "conduite": "Avis médical avant tout traitement."
+    }
+  ],
+  "aRetenir": "Verrue des mains ou des pieds chez un adulte en bonne santé : kératolytique ou cryothérapie, avec patience. Visage, organes génitaux, diabète : médecin.",
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Verrues sur la peau : que faire ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/verrues/que-faire-quand-consulter-verrues.html"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Verrues : la consultation et le traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/verrues/consultation-traitements-verrues"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

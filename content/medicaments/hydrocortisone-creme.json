@@ -1,0 +1,74 @@
+{
+  "type": "medicament",
+  "slug": "hydrocortisone-creme",
+  "titre": "Hydrocortisone en crème (0,5 %)",
+  "dci": "hydrocortisone (acétate)",
+  "specialiteReference": "Cortapaisyl 0,5 %, crème",
+  "classe": "Dermocorticoïde d'activité faible",
+  "delivrance": "Non soumis à prescription",
+  "resume": "Piqûres d'insectes ou d'orties, coups de soleil localisés, dès 6 ans : 2 applications par jour, 3 jours maximum. Jamais sur une peau infectée, ni sur l'acné ou la rosacée.",
+  "motsCles": [
+    "cortapaisyl",
+    "cortisone",
+    "piqûre",
+    "démangeaison",
+    "crème"
+  ],
+  "rcp": {
+    "libelle": "RCP Cortapaisyl 0,5 %, crème (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/67981927/extrait"
+  },
+  "indications": [
+    "Piqûres d'orties, piqûres d'insectes et coups de soleil localisés, chez l'adulte et l'enfant de plus de 6 ans."
+  ],
+  "posologies": [
+    {
+      "indication": "Piqûres, coups de soleil localisés",
+      "population": "Adulte et enfant > 6 ans",
+      "dose": "2 applications par jour",
+      "remarque": "3 jours au maximum ; plus d'applications n'améliore pas l'effet."
+    }
+  ],
+  "adaptations": [
+    "Enfant de moins de 6 ans : non indiqué."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Irritation locale, poussée d'acné, dermite autour de la bouche",
+      "frequence": "Rare",
+      "conduite": "Arrêter et consulter."
+    },
+    {
+      "effet": "Vision floue ou autre trouble visuel",
+      "frequence": "Peu fréquent",
+      "conduite": "Consulter (examen ophtalmologique)."
+    }
+  ],
+  "contreIndications": [
+    "Infections cutanées bactériennes, virales (herpès, varicelle, zona), fongiques ou parasitaires.",
+    "Lésions ulcérées, plaies.",
+    "Acné, rosacée.",
+    "Hypersensibilité à un composant."
+  ],
+  "interactions": [],
+  "conseilsDelivrance": [
+    "Appliquer en couche fine et masser jusqu'à pénétration ; se laver les mains après.",
+    "Ne pas traiter de grandes surfaces ni mettre de pansement occlusif.",
+    "Pas d'autre produit dermatologique sur la même zone.",
+    "Grossesse et allaitement : possible si besoin, mais jamais sur les seins pendant l'allaitement.",
+    "Consulter si pas d'amélioration après 3 jours."
+  ],
+  "conseilsLies": [
+    "piqures-insectes",
+    "coup-de-soleil"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Cortapaisyl 0,5 %, crème (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/67981927/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

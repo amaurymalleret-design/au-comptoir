@@ -1,0 +1,97 @@
+{
+  "type": "conseil",
+  "slug": "regles-douloureuses",
+  "titre": "Règles douloureuses",
+  "categorie": "quotidien",
+  "theme": "uro",
+  "resume": "Les AINS comme l'ibuprofène sont le traitement de référence, pris dès le début des douleurs, avec chaleur et activité physique. Douleurs qui s'aggravent, ne cèdent pas ou rendent les rapports douloureux : consulter (endométriose).",
+  "motsCles": [
+    "dysménorrhée",
+    "règles",
+    "crampes",
+    "endométriose",
+    "ibuprofène",
+    "antispasmodique"
+  ],
+  "introduction": "Les douleurs de règles (dysménorrhée) sont fréquentes, surtout chez l'adolescente et la jeune femme. Elles sont dues à des contractions de l'utérus liées aux prostaglandines, d'où l'intérêt des anti-inflammatoires. Des douleurs qui s'aggravent avec le temps ou résistent au traitement doivent faire rechercher une cause, notamment une endométriose.",
+  "questions": [
+    "Âge ? Depuis quand les règles sont-elles douloureuses ? Les douleurs ont-elles changé ?",
+    "Intensité : absences scolaires ou au travail, médicaments déjà pris ?",
+    "Douleurs pendant les rapports, en allant aux toilettes, règles très abondantes ?",
+    "Possible grossesse ? Retard de règles ? Contraception (stérilet) ?",
+    "Fièvre, pertes inhabituelles ?",
+    "Contre-indications aux AINS (ulcère, asthme déclenché par l'aspirine, maladie rénale) ?"
+  ],
+  "alertes": [
+    "Douleurs non soulagées par un traitement bien pris, ou qui s'aggravent au fil des cycles : consulter (endométriose possible).",
+    "Douleurs pendant les rapports, en urinant ou à la défécation pendant les règles : consulter.",
+    "Retard de règles, test de grossesse positif ou saignements anormaux avec douleur : urgence (grossesse extra-utérine possible).",
+    "Fièvre, pertes malodorantes, douleur pelvienne en dehors des règles : consultation rapide (infection).",
+    "Règles très abondantes avec fatigue : consulter (anémie)."
+  ],
+  "conseils": [
+    "Prendre l'anti-inflammatoire dès le début des douleurs, voire juste avant, plutôt qu'attendre qu'elles soient intenses.",
+    "Appliquer de la chaleur sur le bas du ventre (bouillotte).",
+    "Maintenir une activité physique régulière.",
+    "Tenir un calendrier des douleurs pour en parler au médecin.",
+    "Si les douleurs résistent, le médecin peut proposer une contraception hormonale."
+  ],
+  "produits": [
+    {
+      "nom": "Ibuprofène",
+      "detail": "Traitement de référence de la dysménorrhée, pendant la durée des douleurs.",
+      "prudence": "Avec un repas ; contre-indiqué en cas d'ulcère, d'asthme à l'aspirine, de grossesse à partir du 6e mois."
+    },
+    {
+      "nom": "Paracétamol",
+      "detail": "Alternative si les AINS sont contre-indiqués."
+    },
+    {
+      "nom": "Phloroglucinol (Spasfon)",
+      "detail": "Antispasmodique indiqué dans les douleurs spasmodiques en gynécologie, au moment des douleurs."
+    },
+    {
+      "nom": "Bouillotte, patchs chauffants",
+      "detail": "Complément utile et sans risque."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Adolescente",
+      "conduite": "Fréquent ; absences scolaires répétées malgré le traitement : consultation."
+    },
+    {
+      "population": "Femme porteuse d'un stérilet au cuivre",
+      "conduite": "Règles plus douloureuses possibles ; consulter si douleurs inhabituelles ou fièvre."
+    },
+    {
+      "population": "Possible grossesse",
+      "conduite": "Pas d'AINS sans avis ; test de grossesse en cas de retard."
+    }
+  ],
+  "aRetenir": "AINS dès le début des douleurs, chaleur, activité. Douleurs qui résistent, s'aggravent ou rendent les rapports douloureux : médecin.",
+  "medicamentsLies": [
+    "ibuprofene",
+    "paracetamol",
+    "phloroglucinol"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Douleurs pendant les règles ou dysménorrhée : quelles sont les causes ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/regles-douloureuses/douleurs-regles"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Règles douloureuses : consultation et traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/regles-douloureuses/consultation-traitement"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Spasfon Lyoc 80 mg (rubriques 4.1 à 4.2)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62944693/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

@@ -28,11 +28,13 @@ export function medicament(slug: string) {
 }
 
 export const THEMES: { id: string; libelle: string; couleur: string; icone: string }[] = [
-  { id: "orl", libelle: "ORL · Respiratoire", couleur: "var(--c-orl)", icone: "🫁" },
+  { id: "orl", libelle: "ORL · Yeux · Respiratoire", couleur: "var(--c-orl)", icone: "🫁" },
   { id: "digestif", libelle: "Digestif", couleur: "var(--c-digestif)", icone: "🍃" },
   { id: "douleur", libelle: "Douleur · Rhumato", couleur: "var(--c-douleur)", icone: "🦴" },
   { id: "dermato", libelle: "Dermatologie", couleur: "var(--c-dermato)", icone: "🧴" },
   { id: "uro", libelle: "Urologie · Gynéco", couleur: "var(--c-uro)", icone: "💧" },
   { id: "metabo", libelle: "Cardio · Métabolisme", couleur: "var(--c-metabo)", icone: "❤️" },
   { id: "pediatrie", libelle: "Enfant · Général", couleur: "var(--c-pediatrie)", icone: "🧸" },
+  { id: "neuro", libelle: "Neuro · Psy · Sommeil", couleur: "var(--c-neuro)", icone: "🧠" },
+  { id: "prevention", libelle: "Prévention · Voyage · Tabac", couleur: "var(--c-prevention)", icone: "🧭" },
 ];

@@ -1,0 +1,83 @@
+{
+  "type": "medicament",
+  "slug": "phloroglucinol",
+  "titre": "Phloroglucinol",
+  "dci": "phloroglucinol (hydraté)",
+  "specialiteReference": "Spasfon Lyoc 80 mg, lyophilisat oral",
+  "classe": "Antispasmodique musculotrope – ATC A03AX12",
+  "delivrance": "Non soumis à prescription",
+  "resume": "Douleurs spasmodiques digestives, biliaires, urinaires ou gynécologiques : adulte 2 lyophilisats par prise (6/24 h max), enfant > 2 ans 1 lyophilisat (2/24 h max), au moins 2 h entre les prises.",
+  "motsCles": [
+    "spasfon",
+    "spasmes",
+    "crampes",
+    "colique",
+    "règles douloureuses",
+    "antispasmodique"
+  ],
+  "rcp": {
+    "libelle": "RCP Spasfon Lyoc 80 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62944693/extrait"
+  },
+  "indications": [
+    "Douleurs liées aux troubles fonctionnels du tube digestif et des voies biliaires.",
+    "Manifestations spasmodiques douloureuses aiguës des voies urinaires (coliques néphrétiques).",
+    "Manifestations spasmodiques douloureuses en gynécologie.",
+    "Traitement adjuvant des contractions au cours de la grossesse, avec le repos."
+  ],
+  "posologies": [
+    {
+      "indication": "Douleurs spasmodiques",
+      "population": "Adulte",
+      "dose": "2 lyophilisats au moment de la crise",
+      "remarque": "Renouvelable si spasmes importants, au moins 2 h entre les prises, 6 lyophilisats par 24 h au maximum."
+    },
+    {
+      "indication": "Douleurs spasmodiques",
+      "population": "Enfant > 2 ans",
+      "dose": "1 lyophilisat au moment de la crise, dissous dans de l'eau",
+      "remarque": "Au moins 2 h entre les prises, 2 lyophilisats par 24 h au maximum."
+    }
+  ],
+  "adaptations": [
+    "Efficacité non établie avant 2 ans."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Éruption, urticaire, démangeaisons ; exceptionnellement œdème de Quincke ou choc",
+      "frequence": "Indéterminée",
+      "conduite": "Arrêter et consulter ; urgence (15) si gonflement du visage ou malaise."
+    },
+    {
+      "effet": "Pustulose exanthématique aiguë généralisée (éruption avec fièvre)",
+      "frequence": "Indéterminée",
+      "conduite": "Arrêter et consulter immédiatement."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité au phloroglucinol ou à un excipient."
+  ],
+  "interactions": [
+    {
+      "avec": "Morphine et dérivés",
+      "risque": "Association à éviter (effet spasmogène des morphiniques)."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Adulte : laisser fondre sous la langue pour un effet rapide, ou dissoudre dans un verre d'eau.",
+    "Traitement symptomatique : réévaluer si les douleurs persistent.",
+    "Grossesse : seulement si nécessaire ; allaitement déconseillé."
+  ],
+  "conseilsLies": [
+    "regles-douloureuses"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Spasfon Lyoc 80 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62944693/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

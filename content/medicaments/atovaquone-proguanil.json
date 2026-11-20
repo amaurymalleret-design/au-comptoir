@@ -1,0 +1,99 @@
+{
+  "type": "medicament",
+  "slug": "atovaquone-proguanil",
+  "titre": "Atovaquone-proguanil",
+  "dci": "atovaquone + proguanil (chlorhydrate)",
+  "specialiteReference": "Malarone 250 mg/100 mg, comprimé pelliculé",
+  "classe": "Antipaludique",
+  "delivrance": "Sur prescription médicale",
+  "resume": "Prophylaxie du paludisme à P. falciparum : 1 comprimé par jour à heure fixe avec un repas, de la veille du départ à 7 jours après le retour (adulte et enfant > 40 kg). Contre-indiqué en prophylaxie si clairance < 30 ml/min.",
+  "motsCles": [
+    "malarone",
+    "paludisme",
+    "voyage",
+    "prophylaxie",
+    "antipaludique"
+  ],
+  "rcp": {
+    "libelle": "RCP Malarone 250 mg/100 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61638010/extrait"
+  },
+  "indications": [
+    "Prophylaxie du paludisme à P. falciparum, en particulier chez les voyageurs se rendant en zone de résistance à la chloroquine.",
+    "Traitement de l'accès palustre simple à P. falciparum."
+  ],
+  "posologies": [
+    {
+      "indication": "Prophylaxie",
+      "population": "Adulte et enfant > 40 kg",
+      "dose": "1 comprimé par jour à heure fixe",
+      "remarque": "Débuter la veille ou le jour du départ, poursuivre pendant le séjour et 7 jours après avoir quitté la zone."
+    },
+    {
+      "indication": "Prophylaxie",
+      "population": "Moins de 40 kg",
+      "dose": "Utiliser la présentation enfant Malarone 62,5 mg/25 mg",
+      "remarque": "Dose selon le poids sur prescription."
+    },
+    {
+      "indication": "Traitement de l'accès simple",
+      "population": "Adulte et enfant > 40 kg",
+      "dose": "4 comprimés en une prise par jour pendant 3 jours",
+      "remarque": "Doses réduites selon le poids entre 11 et 40 kg (RCP)."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance rénale sévère (clairance < 30 ml/min) : contre-indiqué en prophylaxie.",
+    "Insuffisance hépatique, insuffisance rénale légère à modérée : pas d'adaptation."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Maux de tête, douleurs abdominales, nausées, vomissements, diarrhée",
+      "frequence": "Très fréquent",
+      "conduite": "Prendre avec un repas ; reprendre une dose si vomissement dans l'heure."
+    },
+    {
+      "effet": "Réaction cutanée sévère (syndrome de Stevens-Johnson, DRESS)",
+      "frequence": "Rare",
+      "conduite": "Arrêter et consulter ; ne jamais reprendre le traitement."
+    }
+  ],
+  "contreIndications": [
+    "Insuffisance rénale sévère (clairance < 30 ml/min) pour la prophylaxie.",
+    "Hypersensibilité aux substances actives ou à un excipient."
+  ],
+  "interactions": [
+    {
+      "avec": "Rifampicine, rifabutine",
+      "risque": "Baisse des concentrations d'atovaquone."
+    },
+    {
+      "avec": "Métoclopramide, tétracycline",
+      "risque": "Baisse significative des concentrations d'atovaquone."
+    }
+  ],
+  "conseilsDelivrance": [
+    "À la même heure chaque jour, avec un repas ou une boisson lactée.",
+    "Vomissement dans l'heure suivant la prise : reprendre une dose.",
+    "Oubli : prendre dès que possible avec des aliments, puis continuer.",
+    "Grossesse : seulement si le bénéfice l'emporte sur le risque.",
+    "La protection contre les moustiques reste indispensable ; consulter en urgence en cas de fièvre au retour."
+  ],
+  "conseilsLies": [
+    "paludisme-voyage"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Malarone 250 mg/100 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61638010/extrait"
+    },
+    {
+      "organisme": "Haut Conseil de la santé publique (HCSP)",
+      "titre": "Recommandations sanitaires aux voyageurs, édition 2026",
+      "url": "https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1528"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

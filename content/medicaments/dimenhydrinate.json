@@ -1,0 +1,96 @@
+{
+  "type": "medicament",
+  "slug": "dimenhydrinate",
+  "titre": "Dimenhydrinate",
+  "dci": "dimenhydrinate + caféine",
+  "specialiteReference": "Mercalm, comprimé pelliculé sécable (dimenhydrinate 50 mg, caféine 10 mg)",
+  "classe": "Antihistaminique H1 antinaupathique",
+  "delivrance": "Non soumis à prescription",
+  "resume": "Mal des transports dès 6 ans : ½ heure avant le départ ; adulte 1 à 2 comprimés par prise (6/j max), enfant de 6 à 15 ans ½ à 1 comprimé (3/j max), intervalle de plus de 6 heures.",
+  "motsCles": [
+    "mercalm",
+    "mal des transports",
+    "nausées",
+    "voyage",
+    "bateau"
+  ],
+  "rcp": {
+    "libelle": "RCP Mercalm, comprimé pelliculé sécable (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68461541/extrait"
+  },
+  "indications": [
+    "Prévention et traitement du mal des transports, chez l'adulte et l'enfant de plus de 6 ans."
+  ],
+  "posologies": [
+    {
+      "indication": "Mal des transports",
+      "population": "Adulte et enfant > 15 ans",
+      "dose": "1 à 2 comprimés par prise, ½ heure avant le départ",
+      "remarque": "Renouveler si besoin après plus de 6 heures ; 3 prises et 6 comprimés par jour au maximum."
+    },
+    {
+      "indication": "Mal des transports",
+      "population": "Enfant de 6 à 15 ans",
+      "dose": "½ à 1 comprimé par prise, ½ heure avant le départ",
+      "remarque": "3 comprimés par jour au maximum ; peut être écrasé dans de l'eau sucrée."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance hépatique ou rénale sévère : prudence (accumulation).",
+    "Sujet âgé : plus sensible à l'hypotension orthostatique, aux vertiges et à la sédation."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Somnolence, plus marquée en début de traitement",
+      "frequence": "Fréquent",
+      "conduite": "Ne pas conduire ; éviter l'alcool."
+    },
+    {
+      "effet": "Bouche sèche, constipation, troubles de l'accommodation, rétention urinaire",
+      "frequence": "Rapporté",
+      "conduite": "Arrêter en cas de difficulté à uriner."
+    },
+    {
+      "effet": "Excitation, insomnie, palpitations (caféine), surtout chez l'enfant",
+      "frequence": "Rapporté",
+      "conduite": "Éviter la prise après 16 h et les boissons caféinées."
+    }
+  ],
+  "contreIndications": [
+    "Enfant de moins de 6 ans (caféine).",
+    "Risque de glaucome par fermeture de l'angle.",
+    "Risque de rétention urinaire liée à des troubles urétroprostatiques.",
+    "Hypersensibilité aux antihistaminiques."
+  ],
+  "interactions": [
+    {
+      "avec": "Énoxacine",
+      "risque": "Association déconseillée : forte hausse des taux de caféine (excitation, hallucinations)."
+    },
+    {
+      "avec": "Alcool, autres dépresseurs du système nerveux central",
+      "risque": "Majoration de la sédation."
+    },
+    {
+      "avec": "Autres atropiniques",
+      "risque": "Addition des effets atropiniques."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Par prudence, ne pas utiliser en cas d'asthme selon le RCP.",
+    "Allaitement : déconseillé (passage dans le lait).",
+    "Le conducteur ne doit pas en prendre."
+  ],
+  "conseilsLies": [
+    "mal-des-transports"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Mercalm, comprimé pelliculé sécable (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68461541/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

@@ -1,0 +1,78 @@
+{
+  "type": "medicament",
+  "slug": "cromoglicate-collyre",
+  "titre": "Cromoglicate de sodium en collyre",
+  "dci": "cromoglicate de sodium",
+  "specialiteReference": "Cromabak 20 mg/ml, collyre en solution",
+  "classe": "Antiallergique oculaire (stabilisant des mastocytes)",
+  "delivrance": "Non soumis à prescription ; remboursable sur prescription",
+  "resume": "Conjonctivite allergique : 1 goutte 2 à 6 fois par jour dans chaque œil atteint, en continu pendant la période d'exposition. Sans conservateur, compatible avec les lentilles.",
+  "motsCles": [
+    "cromabak",
+    "collyre",
+    "allergie",
+    "conjonctivite allergique",
+    "pollen"
+  ],
+  "rcp": {
+    "libelle": "RCP Cromabak 20 mg/ml, collyre en solution (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/67898381/extrait"
+  },
+  "indications": [
+    "Traitement symptomatique de la conjonctivite allergique."
+  ],
+  "posologies": [
+    {
+      "indication": "Conjonctivite allergique",
+      "population": "Adulte",
+      "dose": "1 goutte 2 à 6 fois par jour, à intervalles réguliers, dans l'œil atteint",
+      "remarque": "Utiliser de façon continue pendant toute la période d'exposition aux allergènes."
+    },
+    {
+      "indication": "Conjonctivite allergique",
+      "population": "Enfant",
+      "dose": "Même posologie que l'adulte",
+      "remarque": "Avis médical nécessaire chez l'enfant."
+    }
+  ],
+  "adaptations": [],
+  "effetsAnnoncer": [
+    {
+      "effet": "Brûlure ou picotement passager après instillation",
+      "frequence": "Rapporté",
+      "conduite": "Sans gravité ; ne pas conduire tant que la vision est gênée."
+    },
+    {
+      "effet": "Réaction allergique",
+      "frequence": "Rare",
+      "conduite": "Arrêter et consulter."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité au cromoglicate de sodium ou à un excipient."
+  ],
+  "interactions": [
+    {
+      "avec": "Autre collyre",
+      "risque": "Attendre 15 minutes entre deux collyres."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Ne pas dépasser la posologie ; consulter si les symptômes persistent ou s'aggravent.",
+    "Sans conservateur : utilisable avec des lentilles, mais chez l'allergique leur port relève d'un avis médical.",
+    "Utilisable pendant la grossesse selon le RCP."
+  ],
+  "conseilsLies": [
+    "conjonctivite",
+    "rhinite-allergique"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Cromabak 20 mg/ml, collyre (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/67898381/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

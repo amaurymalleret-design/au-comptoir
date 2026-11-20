@@ -1,0 +1,90 @@
+{
+  "type": "medicament",
+  "slug": "doxylamine",
+  "titre": "Doxylamine",
+  "dci": "doxylamine (succinate)",
+  "specialiteReference": "Donormyl 15 mg, comprimé pelliculé sécable",
+  "classe": "Antihistaminique H1 sédatif, hypnotique",
+  "delivrance": "Non soumis à prescription",
+  "resume": "Insomnie occasionnelle de l'adulte : ½ à 1 comprimé le soir 15 à 30 min avant le coucher, 2 à 5 jours. Somnolence le lendemain et effets atropiniques ; prudence chez la personne âgée.",
+  "motsCles": [
+    "donormyl",
+    "somnifère",
+    "insomnie",
+    "sommeil",
+    "antihistaminique"
+  ],
+  "rcp": {
+    "libelle": "RCP Donormyl 15 mg, comprimé pelliculé sécable (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62382724/extrait"
+  },
+  "indications": [
+    "Insomnie occasionnelle chez l'adulte."
+  ],
+  "posologies": [
+    {
+      "indication": "Insomnie occasionnelle",
+      "population": "Adulte",
+      "dose": "7,5 à 15 mg (½ à 1 comprimé) le soir, 15 à 30 minutes avant le coucher ; jusqu'à 30 mg si nécessaire",
+      "remarque": "Une seule prise par jour ; durée de 2 à 5 jours."
+    }
+  ],
+  "adaptations": [
+    "Sujet âgé, insuffisant rénal ou hépatique : diminuer la posologie (accumulation)."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Somnolence dans la journée",
+      "frequence": "Rapporté",
+      "conduite": "Réduire la dose ; prudence au volant."
+    },
+    {
+      "effet": "Effets atropiniques : bouche sèche, constipation, rétention urinaire, vision floue, confusion",
+      "frequence": "Rapporté",
+      "conduite": "Arrêter et consulter en cas de difficulté à uriner ou de confusion."
+    },
+    {
+      "effet": "Abus et dépendance",
+      "frequence": "Rare",
+      "conduite": "Ne pas dépasser 5 jours ; en parler en cas de prise prolongée."
+    }
+  ],
+  "contreIndications": [
+    "Antécédent personnel ou familial de glaucome par fermeture de l'angle.",
+    "Troubles urétroprostatiques à risque de rétention urinaire.",
+    "Enfant de moins de 15 ans.",
+    "Hypersensibilité aux antihistaminiques."
+  ],
+  "interactions": [
+    {
+      "avec": "Alcool, oxybate de sodium",
+      "risque": "Association déconseillée : majoration de la sédation."
+    },
+    {
+      "avec": "Autres sédatifs (opioïdes, benzodiazépines, hypnotiques, antidépresseurs sédatifs…)",
+      "risque": "Majoration de la dépression centrale."
+    },
+    {
+      "avec": "Autres atropiniques (antidépresseurs imipraminiques, neuroleptiques phénothiaziniques…)",
+      "risque": "Addition des effets atropiniques."
+    }
+  ],
+  "conseilsDelivrance": [
+    "L'insomnie qui dure plus de 5 jours doit être réévaluée par un médecin.",
+    "Peut aggraver des apnées du sommeil.",
+    "Grossesse : utilisation possible quel que soit le terme selon le RCP ; allaitement déconseillé.",
+    "Personne âgée : risque de chute en cas de lever nocturne."
+  ],
+  "conseilsLies": [
+    "insomnie"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Donormyl 15 mg, comprimé pelliculé sécable (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62382724/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

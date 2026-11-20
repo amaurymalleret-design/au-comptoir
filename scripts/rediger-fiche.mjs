@@ -57,7 +57,7 @@ ${exemple}
 Contraintes de format :
 - "statut": "brouillon" et "miseAJour": "${aujourdhui}" ; pas de champ "relecture".
 - "slug" : minuscules, sans accents, mots séparés par des tirets.
-${estMedicament ? "" : '- "theme" parmi : orl, digestif, douleur, dermato, uro, metabo, pediatrie ; "categorie" : quotidien ou chronique.\n'}- Liens vers d'autres fiches, uniquement parmi celles qui existent :
+${estMedicament ? "" : '- "theme" parmi : orl, digestif, douleur, dermato, uro, metabo, pediatrie, neuro, prevention ; "categorie" : quotidien ou chronique.\n'}- Liens vers d'autres fiches, uniquement parmi celles qui existent :
   conseils : ${slugsConseils.join(", ")}
   médicaments : ${slugsMedicaments.join(", ")}
 - Si la proposition n'a pas de sens pour une officine ou ne peut pas être sourcée, réponds seulement par un bloc \`\`\`json contenant {"erreur": "<raison>"}.`;

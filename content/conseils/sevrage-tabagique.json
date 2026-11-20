@@ -1,0 +1,98 @@
+{
+  "type": "conseil",
+  "slug": "sevrage-tabagique",
+  "titre": "Arrêt du tabac",
+  "categorie": "quotidien",
+  "theme": "prevention",
+  "resume": "Proposer l'aide à chaque fumeur, évaluer la dépendance, puis substituts nicotiniques à dose suffisante (patch et forme orale associables), avec un suivi. Penser aux médicaments à surveiller à l'arrêt.",
+  "motsCles": [
+    "tabac",
+    "substituts nicotiniques",
+    "patch",
+    "gomme",
+    "Fagerström",
+    "sevrage",
+    "Tabac Info Service"
+  ],
+  "introduction": "Selon la HAS, tout professionnel de santé doit demander à chaque patient s'il fume et lui proposer une aide à l'arrêt. Les substituts nicotiniques sont un traitement de première intention : ils soulagent le manque et doublent environ les chances de réussite, surtout avec un accompagnement.",
+  "questions": [
+    "Combien de cigarettes par jour ? Délai entre le réveil et la première cigarette ?",
+    "Avez-vous déjà essayé d'arrêter ? Avec quoi, et pourquoi la reprise ?",
+    "Problème cardiaque récent (infarctus, AVC, angor instable), grossesse, allaitement ?",
+    "Traitements en cours (clozapine, théophylline, insuline…) ?",
+    "Consommation d'alcool ou de cannabis, anxiété ou dépression ?"
+  ],
+  "alertes": [
+    "Infarctus ou AVC récent, angor instable, arythmie sévère : arrêt et substitution sous surveillance médicale (RCP).",
+    "Femme enceinte : avis médical, l'arrêt reste bénéfique et la substitution est possible.",
+    "Symptômes de surdosage (nausées, palpitations, maux de tête, bouche pâteuse) : baisser la dose.",
+    "Symptômes de manque persistants (irritabilité, envies fortes) : dose probablement insuffisante, l'augmenter.",
+    "Humeur dépressive ou idées noires pendant le sevrage : consultation."
+  ],
+  "conseils": [
+    "Choisir une date d'arrêt et prévenir l'entourage ; repérer les situations à risque.",
+    "Adapter la dose de patch à la dépendance (nombre de cigarettes ou test de Fagerström) ; ajouter une forme orale contre les envies.",
+    "Traitement d'environ 3 mois, avec diminution progressive ; une durée plus longue peut être nécessaire.",
+    "Proposer un suivi : Tabac Info Service (39 89), médecin, tabacologue.",
+    "Prévenir le médecin si le patient prend clozapine, théophylline, méthadone, ropinirole ou insuline : les doses peuvent devoir baisser à l'arrêt du tabac.",
+    "Les substituts nicotiniques sont remboursés sur prescription."
+  ],
+  "produits": [
+    {
+      "nom": "Patchs de nicotine (7, 14, 21 mg/24 h)",
+      "detail": "Couvrent les besoins de fond ; à coller chaque matin sur une peau saine, en changeant de site.",
+      "prudence": "Réservés à partir de 15 ans ; avis d'un professionnel de santé avant 18 ans."
+    },
+    {
+      "nom": "Formes orales (gommes, pastilles, comprimés, spray)",
+      "detail": "Contre les envies ponctuelles, seules ou avec le patch.",
+      "prudence": "Technique de mastication des gommes à expliquer."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Femme enceinte ou qui allaite",
+      "conduite": "Arrêt fortement conseillé ; substituts possibles après avis médical, de préférence formes orales."
+    },
+    {
+      "population": "Patient cardiaque",
+      "conduite": "Substitution plus sûre que le tabac, mais sous surveillance en cas d'événement récent."
+    },
+    {
+      "population": "Patient diabétique",
+      "conduite": "Surveiller la glycémie de plus près à l'arrêt du tabac (RCP)."
+    },
+    {
+      "population": "Adolescent",
+      "conduite": "Substituts possibles à partir de 15 ans, avec avis d'un professionnel avant 18 ans."
+    }
+  ],
+  "aRetenir": "Toujours proposer l'aide. Dose adaptée à la dépendance, patch et forme orale associés, suivi. Manque : augmenter, surdosage : baisser.",
+  "medicamentsLies": [
+    "nicotine"
+  ],
+  "sources": [
+    {
+      "organisme": "HAS",
+      "titre": "Arrêt de la consommation de tabac : du dépistage individuel au maintien de l'abstinence en premier recours (recommandation)",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2014-01/recommandations_-_arret_de_la_consommation_de_tabac.pdf"
+    },
+    {
+      "organisme": "HAS",
+      "titre": "Les traitements nicotiniques de substitution en pratique (outil)",
+      "url": "https://www.has-sante.fr/upload/docs/application/pdf/2014-11/outil_les_tns_en_pratique_2014-11-14_12-18-51_242.pdf"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Arrêt du tabac : quelle prise en charge pour les substituts nicotiniques ?",
+      "url": "https://www.ameli.fr/assure/remboursements/rembourse/medicaments-vaccins-dispositifs-medicaux/prise-charge-substituts-nicotiniques"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Nicopatchlib 21 mg/24 h (rubriques 4.1 à 4.5)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62155071/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}
