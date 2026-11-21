@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Recherche, { ScriptRecherche } from "@/components/Recherche";
 
 export const metadata: Metadata = {
   title: { default: "au comptoir", template: "%s · au comptoir" },
@@ -25,6 +26,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <span className="croix" aria-hidden="true" />
               au comptoir
             </a>
+            <Recherche variante="entete" />
             <nav className="nav" aria-label="Navigation principale">
               <a href="/conseils/">Conseils</a>
               <a href="/medicaments/">Médicaments</a>
@@ -60,6 +62,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
           </div>
         </footer>
+        <ScriptRecherche />
       </body>
     </html>
   );

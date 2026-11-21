@@ -1,6 +1,5 @@
 import Recherche from "@/components/Recherche";
 import { conseils, medicaments, THEMES } from "@/lib/contenu";
-import { indexRecherche } from "@/lib/index-recherche";
 
 export default function Accueil() {
   const cs = conseils();
@@ -18,7 +17,7 @@ export default function Accueil() {
             Questions à poser, signaux d&apos;alerte, conseils et posologies usuelles, en une page par sujet. Chaque fiche cite
             ses sources officielles et affiche sa date de mise à jour.
           </p>
-          <Recherche index={indexRecherche()} />
+          <Recherche variante="accueil" />
         </div>
       </section>
 
