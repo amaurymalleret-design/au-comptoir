@@ -1,0 +1,84 @@
+{
+  "type": "conseil",
+  "slug": "varicelle",
+  "titre": "Varicelle",
+  "categorie": "quotidien",
+  "theme": "pediatrie",
+  "resume": "Paracétamol pour la fièvre, jamais d'aspirine ni d'AINS. Douche quotidienne, ongles courts, pas de talc ni de crème. Nourrisson, adulte, grossesse, immunodépression ou boutons surinfectés : consulter.",
+  "motsCles": [
+    "boutons",
+    "vésicules",
+    "démangeaisons",
+    "enfant",
+    "contagion"
+  ],
+  "introduction": "La varicelle est une infection virale très contagieuse, surtout chez l'enfant. Elle donne une fièvre modérée et une éruption de vésicules qui démangent, en plusieurs poussées, puis forment des croûtes. Elle est le plus souvent bénigne chez l'enfant, mais plus grave chez le nourrisson, l'adulte, la femme enceinte et l'immunodéprimé.",
+  "questions": [
+    "Âge de la personne ? Grossesse dans l'entourage ?",
+    "Depuis quand l'éruption ? Fièvre ?",
+    "Boutons rouges, chauds, qui suintent ou douloureux ?",
+    "Toux, gêne respiratoire, troubles de l'équilibre, somnolence ?",
+    "Traitement en cours (corticoïdes, immunosuppresseurs) ?"
+  ],
+  "alertes": [
+    "Gêne respiratoire, troubles de la conscience ou de l'équilibre, fièvre élevée persistante : consulter en urgence.",
+    "Lésions rouges, chaudes, douloureuses, qui suintent : consulter (surinfection).",
+    "Nourrisson, adulte, femme enceinte, personne immunodéprimée : avis médical.",
+    "Femme enceinte non immunisée en contact avec un malade : contacter le médecin rapidement."
+  ],
+  "conseils": [
+    "Fièvre : paracétamol uniquement ; pas d'aspirine ni d'ibuprofène.",
+    "Une douche par jour à l'eau tiède, savon doux, séchage en tamponnant.",
+    "Ongles courts et propres pour limiter le grattage.",
+    "Ne pas appliquer de talc, de crème ou de pommade sur les boutons.",
+    "Éviter le contact avec les femmes enceintes, les nourrissons et les personnes fragiles."
+  ],
+  "produits": [
+    {
+      "nom": "Paracétamol",
+      "detail": "Seul antipyrétique recommandé."
+    },
+    {
+      "nom": "Antihistaminique (sur avis)",
+      "detail": "Peut être prescrit contre les démangeaisons.",
+      "prudence": "Somnolence possible."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Nourrisson de moins de 1 an",
+      "conduite": "Avis médical."
+    },
+    {
+      "population": "Femme enceinte",
+      "conduite": "Avis médical rapide en cas de contact ou de symptômes."
+    },
+    {
+      "population": "Adulte, immunodéprimé",
+      "conduite": "Consulter : risque de forme grave."
+    }
+  ],
+  "aRetenir": "Paracétamol, jamais d'AINS ni d'aspirine. Hygiène et ongles courts. Formes à risque ou surinfection : consulter.",
+  "medicamentsLies": [
+    "paracetamol"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Varicelle : que faire et quand consulter ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/varicelle/que-faire-cas-faut-consulter"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Consultation et traitement de la varicelle",
+      "url": "https://www.ameli.fr/assure/sante/themes/varicelle/diagnostic-traitement"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Reconnaître la varicelle",
+      "url": "https://www.ameli.fr/assure/sante/themes/varicelle/reconnaitre-varicelle-enfant"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

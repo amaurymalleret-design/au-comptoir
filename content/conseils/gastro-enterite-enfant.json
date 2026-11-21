@@ -1,0 +1,82 @@
+{
+  "type": "conseil",
+  "slug": "gastro-enterite-enfant",
+  "titre": "Gastro-entérite de l'enfant",
+  "categorie": "quotidien",
+  "theme": "pediatrie",
+  "resume": "Le traitement, c'est la solution de réhydratation orale (SRO), donnée fraîche par petites quantités puis à volonté. Poursuivre l'allaitement. Nourrisson de moins de 6 mois, signes de déshydratation, vomissements persistants : consulter en urgence.",
+  "motsCles": [
+    "diarrhée",
+    "vomissements",
+    "SRO",
+    "déshydratation",
+    "bébé"
+  ],
+  "introduction": "La gastro-entérite de l'enfant, le plus souvent virale, associe diarrhée et parfois vomissements et fièvre. Sa complication est la déshydratation, d'autant plus rapide que l'enfant est jeune. La solution de réhydratation orale (SRO) est le traitement essentiel.",
+  "questions": [
+    "Quel âge et quel poids a l'enfant ? A-t-il été pesé récemment ?",
+    "Combien de selles et de vomissements ? Depuis quand ?",
+    "Boit-il ? Mouille-t-il ses couches ? Est-il somnolent, grognon, les yeux creusés ?",
+    "Fièvre élevée, sang dans les selles ?",
+    "Maladie chronique ?"
+  ],
+  "alertes": [
+    "Signes de déshydratation (perte de poids, yeux creusés, somnolence, couches sèches, bouche sèche) : consultation en urgence.",
+    "Nourrisson de moins de 6 mois, ou enfant avec maladie chronique : avis médical rapide.",
+    "Vomissements qui persistent malgré la SRO donnée par petites quantités : urgence.",
+    "Sang dans les selles, fièvre élevée, douleurs abdominales importantes : consulter."
+  ],
+  "conseils": [
+    "Donner la SRO avant même de consulter, fraîche, par petites gorgées toutes les 5 à 10 minutes en cas de vomissements, puis à volonté.",
+    "Respecter strictement la dilution du sachet.",
+    "Allaitement : le poursuivre et proposer la SRO entre les tétées. Lait infantile : SRO seule 4 à 6 heures au maximum, puis reprise du lait habituel.",
+    "Enfant diversifié : garder les mêmes aliments.",
+    "Ne jamais réhydrater à l'eau pure ni avec des boissons seulement sucrées.",
+    "Lavage des mains soigneux pour éviter la contagion."
+  ],
+  "produits": [
+    {
+      "nom": "Solution de réhydratation orale (SRO)",
+      "detail": "Traitement de base ; prise en charge sur prescription avant 5 ans."
+    },
+    {
+      "nom": "Racécadotril (sur prescription)",
+      "detail": "En complément de la SRO, jamais à sa place.",
+      "prudence": "Pas en cas de vomissements incontrôlables."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Nourrisson de moins de 6 mois",
+      "conduite": "Avis médical rapide."
+    },
+    {
+      "population": "Enfant en collectivité",
+      "conduite": "Hygiène des mains ; éviction selon l'état de l'enfant."
+    }
+  ],
+  "aRetenir": "SRO d'abord, en petites quantités répétées. Pas d'eau pure. Déshydratation ou nourrisson de moins de 6 mois : consulter.",
+  "medicamentsLies": [
+    "racecadotril",
+    "paracetamol"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Diarrhée et gastro-entérite de l'enfant : que faire et quand consulter ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/gastro-enterite-enfant/que-faire-quand-consulter"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Déshydratation",
+      "url": "https://www.ameli.fr/assure/sante/urgence/pathologies/deshydratation"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Tiorfan 30 mg enfants (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69778288/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

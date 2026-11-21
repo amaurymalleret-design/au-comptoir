@@ -1,0 +1,91 @@
+{
+  "type": "medicament",
+  "slug": "gliclazide",
+  "titre": "Gliclazide",
+  "dci": "gliclazide",
+  "specialiteReference": "Diamicron 60 mg, comprimé sécable à libération modifiée",
+  "classe": "Antidiabétique oral, sulfamide hypoglycémiant",
+  "delivrance": "Sur prescription médicale",
+  "resume": "Diabète de type 2 : 30 à 120 mg en une prise au petit déjeuner, paliers d'au moins un mois. Risque majeur : l'hypoglycémie, surtout en cas de repas sauté, d'effort ou d'alcool. Contre-indiqué avec le miconazole.",
+  "motsCles": [
+    "diamicron",
+    "diabète",
+    "sulfamide",
+    "hypoglycémie"
+  ],
+  "rcp": {
+    "libelle": "RCP Diamicron 60 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68831670/extrait"
+  },
+  "indications": [
+    "Diabète de type 2 de l'adulte, lorsque régime, exercice et perte de poids ne suffisent pas."
+  ],
+  "posologies": [
+    {
+      "indication": "Diabète de type 2",
+      "population": "Adulte, y compris sujet âgé",
+      "dose": "30 mg/j au départ (½ comprimé), puis 60, 90 ou 120 mg/j par paliers d'au moins 1 mois",
+      "remarque": "Une prise au petit déjeuner, comprimé avalé sans écraser, toujours suivi d'un repas ; 120 mg/j au maximum."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance rénale légère à modérée : même schéma, surveillance attentive ; sévère : contre-indiqué.",
+    "Oubli : ne pas augmenter la dose du lendemain."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Hypoglycémie (faim, sueurs, tremblements, palpitations, confusion)",
+      "frequence": "Très fréquent",
+      "conduite": "Prendre du sucre immédiatement ; signaler tout épisode au médecin."
+    },
+    {
+      "effet": "Troubles digestifs",
+      "frequence": "Rapporté",
+      "conduite": "Prendre au cours du petit déjeuner."
+    },
+    {
+      "effet": "Éruption cutanée",
+      "frequence": "Rare",
+      "conduite": "Consulter."
+    }
+  ],
+  "contreIndications": [
+    "Diabète de type 1, acidocétose.",
+    "Insuffisance rénale ou hépatique sévère.",
+    "Traitement par miconazole.",
+    "Allaitement.",
+    "Allergie aux sulfamides."
+  ],
+  "interactions": [
+    {
+      "avec": "Miconazole (y compris gel buccal)",
+      "risque": "Contre-indiqué : hypoglycémie grave."
+    },
+    {
+      "avec": "Alcool, phénylbutazone, danazol",
+      "risque": "Associations déconseillées."
+    },
+    {
+      "avec": "Bêtabloquants, fluconazole, clarithromycine, AINS, IEC",
+      "risque": "Hypoglycémie favorisée ou masquée : surveillance."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Ne jamais sauter le petit déjeuner ni un repas.",
+    "Avoir toujours du sucre sur soi ; apprendre les signes d'hypoglycémie à l'entourage.",
+    "Éviter l'alcool ; adapter les apports en cas d'effort physique.",
+    "Grossesse : en parler au médecin (l'insuline est le traitement de choix)."
+  ],
+  "conseilsLies": [
+    "diabete-type-2"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Diamicron 60 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68831670/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

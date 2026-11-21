@@ -110,5 +110,9 @@
       "titre": "RCP Tahor 20 mg, comprimé pelliculé (rubriques 4.1 à 4.5 et 4.8)",
       "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69902323/extrait"
     }
+  ],
+  "conseilsLies": [
+    "hypercholesterolemie",
+    "maladie-coronaire"
   ]
 }

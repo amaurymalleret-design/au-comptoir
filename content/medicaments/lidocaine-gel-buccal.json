@@ -1,0 +1,68 @@
+{
+  "type": "medicament",
+  "slug": "lidocaine-gel-buccal",
+  "titre": "Lidocaïne gel buccal (aphtes)",
+  "dci": "lidocaïne (chlorhydrate) + sulfate de zinc",
+  "specialiteReference": "Aftagel, gel buccal",
+  "classe": "Anesthésique local buccal",
+  "delivrance": "Sans ordonnance",
+  "resume": "Aphtes et petites lésions douloureuses de la bouche chez l'adulte : un petit pois de gel 4 à 6 fois par jour, 5 jours au maximum. Ne pas manger ni boire juste après (fausse route, morsure).",
+  "motsCles": [
+    "aftagel",
+    "aphte",
+    "bouche",
+    "anesthésique"
+  ],
+  "rcp": {
+    "libelle": "RCP Aftagel, gel buccal (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60007960/extrait"
+  },
+  "indications": [
+    "Traitement symptomatique de courte durée des lésions douloureuses de la bouche ou des gencives (aphtes)."
+  ],
+  "posologies": [
+    {
+      "indication": "Aphtes",
+      "population": "Adulte",
+      "dose": "L'équivalent d'un petit pois sur le doigt, massé sur la lésion, 4 à 6 fois par jour",
+      "remarque": "5 jours au maximum ; se laver les mains avant et après."
+    }
+  ],
+  "adaptations": [
+    "Réservé à l'adulte.",
+    "Patient dépendant : surveiller l'absence de morsure après application."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Insensibilisation avec risque de morsure de la langue, des joues ou des lèvres",
+      "frequence": "Fréquence indéterminée",
+      "conduite": "Attendre avant de manger."
+    },
+    {
+      "effet": "Irritation locale, urticaire",
+      "frequence": "Fréquence indéterminée",
+      "conduite": "Arrêter ; gonflement du visage : urgence."
+    }
+  ],
+  "contreIndications": [
+    "Antécédent d'allergie aux anesthésiques locaux."
+  ],
+  "interactions": [],
+  "conseilsDelivrance": [
+    "Ne pas manger ni boire immédiatement après l'application (risque de fausse route).",
+    "Ne pas dépasser 5 jours.",
+    "Sportifs : peut positiver un contrôle antidopage."
+  ],
+  "conseilsLies": [
+    "aphtes"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Aftagel, gel buccal (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60007960/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

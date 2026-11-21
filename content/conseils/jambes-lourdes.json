@@ -1,0 +1,83 @@
+{
+  "type": "conseil",
+  "slug": "jambes-lourdes",
+  "titre": "Jambes lourdes et varices",
+  "categorie": "quotidien",
+  "theme": "metabo",
+  "resume": "Marche, jambes surélevées, douche fraîche et contention soulagent. Veinotonique possible pour les symptômes. Mollet douloureux, gonflé et chaud d'un seul côté, ou essoufflement brutal : urgence (phlébite, embolie).",
+  "motsCles": [
+    "varices",
+    "insuffisance veineuse",
+    "contention",
+    "veinotonique",
+    "chaleur"
+  ],
+  "introduction": "La sensation de jambes lourdes traduit le plus souvent une insuffisance veineuse : le sang remonte moins bien vers le cœur. Elle est aggravée par la chaleur, la station debout prolongée et la sédentarité. Les mesures d'hygiène de vie et la contention sont la base ; les veinotoniques soulagent les symptômes.",
+  "questions": [
+    "Les deux jambes ou une seule ? Depuis quand ?",
+    "Mollet douloureux, gonflé, chaud ou rouge ?",
+    "Essoufflement, douleur thoracique ?",
+    "Varices visibles, gonflement des chevilles le soir, plaie qui ne cicatrise pas ?",
+    "Grossesse, contraception hormonale, immobilisation, voyage long récent ?"
+  ],
+  "alertes": [
+    "Douleur, gonflement et chaleur d'un seul mollet : consultation en urgence (phlébite).",
+    "Essoufflement brutal, douleur thoracique : appeler le 15 (embolie pulmonaire).",
+    "Plaie de jambe qui ne cicatrise pas, peau brune ou épaissie : consulter.",
+    "Gonflement des deux jambes avec essoufflement : avis médical (cause cardiaque à éliminer)."
+  ],
+  "conseils": [
+    "Marcher régulièrement ; faire travailler les mollets (flexions de chevilles).",
+    "Surélever les pieds du lit ; éviter la station debout ou assise prolongée.",
+    "Terminer la douche par un jet d'eau fraîche sur les jambes ; éviter les sources de chaleur.",
+    "Porter la contention prescrite, mise le matin.",
+    "Perdre du poids si besoin ; limiter alcool et tabac."
+  ],
+  "produits": [
+    {
+      "nom": "Bas ou chaussettes de contention",
+      "detail": "Traitement de base, sur mesure ou en taille adaptée."
+    },
+    {
+      "nom": "Veinotonique (fraction flavonoïque purifiée)",
+      "detail": "Soulagement des symptômes."
+    },
+    {
+      "nom": "Gel rafraîchissant pour les jambes",
+      "detail": "Confort."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Femme enceinte",
+      "conduite": "Contention recommandée ; veinotoniques à éviter sauf avis."
+    },
+    {
+      "population": "Voyage long",
+      "conduite": "Marcher, boire, chaussettes de contention ; avis médical si antécédent de phlébite."
+    }
+  ],
+  "aRetenir": "Bouger, surélever, rafraîchir, contention. Un seul mollet douloureux et gonflé : urgence.",
+  "medicamentsLies": [
+    "diosmine"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Jambes lourdes : symptômes, causes et facteurs favorisants",
+      "url": "https://www.ameli.fr/assure/sante/themes/jambes-lourdes/symptomes-causes-facteurs-favorisants"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Varices des jambes : que faire pour se sentir mieux ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/varices-jambes/que-faire"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Daflon 500 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60491130/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

@@ -1,0 +1,71 @@
+{
+  "type": "conseil",
+  "slug": "hypertrophie-prostate",
+  "titre": "Adénome de la prostate",
+  "categorie": "chronique",
+  "theme": "uro",
+  "resume": "Envie fréquente d'uriner, jet faible, réveils nocturnes : diagnostic médical nécessaire. Sous alpha-bloquant, se lever doucement. Impossibilité d'uriner, fièvre ou sang dans les urines : consulter en urgence.",
+  "motsCles": [
+    "prostate",
+    "uriner la nuit",
+    "jet faible",
+    "alpha-bloquant",
+    "homme"
+  ],
+  "introduction": "L'adénome de la prostate (hypertrophie bénigne) est fréquent chez l'homme à partir de 50 ans. L'augmentation de volume de la prostate gêne l'écoulement de l'urine : besoins fréquents, réveils nocturnes, jet faible, sensation de vidange incomplète. Le traitement va de la surveillance aux médicaments ou à la chirurgie.",
+  "questions": [
+    "Quels symptômes urinaires, depuis quand ? Un médecin les a-t-il explorés ?",
+    "Arrivez-vous encore à uriner ? Douleur, fièvre, sang dans les urines ?",
+    "Vertiges en vous levant sous traitement ?",
+    "Prenez-vous des médicaments contre le rhume, des antihistaminiques ou des antidépresseurs ?",
+    "Chirurgie de la cataracte prévue ?"
+  ],
+  "alertes": [
+    "Impossibilité d'uriner avec ventre tendu et douloureux : urgence (rétention aiguë).",
+    "Fièvre, brûlures urinaires, sang dans les urines : consulter rapidement.",
+    "Premiers symptômes urinaires : consultation pour un diagnostic (examen, PSA)."
+  ],
+  "conseils": [
+    "Limiter les boissons le soir, mais boire suffisamment dans la journée.",
+    "Réduire café, alcool, repas abondants et épicés.",
+    "Ne pas se retenir trop longtemps d'uriner ; lutter contre la constipation.",
+    "Éviter les décongestionnants nasaux et certains antihistaminiques qui peuvent bloquer la vessie.",
+    "Sous alpha-bloquant : se lever lentement ; prévenir l'ophtalmologiste avant une chirurgie de la cataracte."
+  ],
+  "produits": [
+    {
+      "nom": "Phytothérapie (palmier nain…)",
+      "detail": "Parfois utilisée pour les symptômes légers.",
+      "prudence": "Après un diagnostic médical seulement."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Vigilance sur l'hypotension et les chutes sous alpha-bloquant."
+    }
+  ],
+  "aRetenir": "Diagnostic médical d'abord. Pas de décongestionnant nasal. Impossibilité d'uriner : urgence.",
+  "medicamentsLies": [
+    "tamsulosine"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Le traitement de l'adénome de la prostate",
+      "url": "https://www.ameli.fr/assure/sante/themes/adenome-prostate/traitements"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Adénome de la prostate : symptômes, diagnostic et évolution",
+      "url": "https://www.ameli.fr/assure/sante/themes/adenome-prostate/symptomes-diagnostic-evolution"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Omix LP 0,4 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63729537/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

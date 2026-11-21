@@ -1,0 +1,97 @@
+{
+  "type": "medicament",
+  "slug": "racecadotril",
+  "titre": "Racécadotril",
+  "dci": "racécadotril",
+  "specialiteReference": "Tiorfan 10 mg nourrissons et 30 mg enfants, poudre orale en sachet",
+  "classe": "Antisécrétoire intestinal (antidiarrhéique)",
+  "delivrance": "Sur prescription médicale",
+  "resume": "Diarrhée aiguë de l'enfant, toujours en complément de la réhydratation orale : 1,5 mg/kg par prise, 3 prises par jour, jusqu'à deux selles moulées et 7 jours au maximum. Arrêt immédiat en cas d'éruption ou de gonflement du visage.",
+  "motsCles": [
+    "tiorfan",
+    "diarrhée",
+    "gastro",
+    "enfant",
+    "nourrisson"
+  ],
+  "rcp": {
+    "libelle": "RCP Tiorfan 30 mg enfants (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69778288/extrait"
+  },
+  "indications": [
+    "En complément de la réhydratation orale, traitement symptomatique des diarrhées aiguës du nourrisson (dès 1 mois) et de l'enfant."
+  ],
+  "posologies": [
+    {
+      "indication": "Diarrhée aiguë",
+      "population": "Nourrisson < 9 kg (Tiorfan 10 mg)",
+      "dose": "1 sachet 3 fois par jour",
+      "remarque": "À partir d'un mois ; pas d'étude avant 3 mois."
+    },
+    {
+      "indication": "Diarrhée aiguë",
+      "population": "Nourrisson de 9 à 13 kg (Tiorfan 10 mg)",
+      "dose": "2 sachets 3 fois par jour"
+    },
+    {
+      "indication": "Diarrhée aiguë",
+      "population": "Enfant de 13 à 27 kg (Tiorfan 30 mg)",
+      "dose": "1 sachet 3 fois par jour"
+    },
+    {
+      "indication": "Diarrhée aiguë",
+      "population": "Enfant > 27 kg (Tiorfan 30 mg)",
+      "dose": "2 sachets 3 fois par jour",
+      "remarque": "De préférence au début des repas ; jusqu'à deux selles moulées consécutives, 7 jours au maximum."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance rénale ou hépatique : ne pas utiliser (pas de données).",
+    "Contient du saccharose."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Éruption, rougeur de la peau",
+      "frequence": "Peu fréquent",
+      "conduite": "Signaler ; arrêt en cas de réaction cutanée sévère."
+    },
+    {
+      "effet": "Gonflement du visage, des lèvres, de la langue",
+      "frequence": "Fréquence indéterminée",
+      "conduite": "Arrêt immédiat et urgence ; ne jamais reprendre."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité au racécadotril.",
+    "Intolérance au fructose, malabsorption du glucose-galactose, déficit en sucrase-isomaltase."
+  ],
+  "interactions": [
+    {
+      "avec": "IEC, sartans, gliptines, sacubitril",
+      "risque": "Association déconseillée : risque d'angio-œdème."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Ne remplace jamais la solution de réhydratation orale, qui reste le traitement principal.",
+    "Mélanger la poudre à un peu d'eau, au biberon ou à l'alimentation et faire tout avaler.",
+    "Ne pas utiliser en cas de vomissements incontrôlables ni de diarrhée sous antibiotique.",
+    "Signes de déshydratation, sang dans les selles, fièvre élevée : consulter."
+  ],
+  "conseilsLies": [
+    "gastro-enterite-enfant"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Tiorfan 30 mg enfants (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69778288/extrait"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Tiorfan 10 mg nourrissons (rubrique 4.2)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62804360/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

@@ -1,0 +1,88 @@
+{
+  "type": "conseil",
+  "slug": "mycose-pied",
+  "titre": "Mycose du pied (pied d'athlète)",
+  "categorie": "quotidien",
+  "theme": "dermato",
+  "resume": "Peau qui pèle et démange entre les orteils : antifongique local, pieds bien séchés, chaussettes en coton changées chaque jour. Ongle atteint, diabète ou lésion qui suinte : consulter.",
+  "motsCles": [
+    "pied d'athlète",
+    "intertrigo",
+    "orteils",
+    "champignon",
+    "antifongique"
+  ],
+  "introduction": "Le pied d'athlète est la mycose la plus fréquente de l'adulte. Il touche surtout l'espace entre les 3e, 4e et 5e orteils : peau blanchâtre, fissurée, qui pèle et démange. Il est favorisé par l'humidité et la transpiration. Un antifongique local suffit le plus souvent, avec des mesures d'hygiène pour éviter les récidives.",
+  "questions": [
+    "Où se trouvent les lésions ? Les ongles sont-ils épaissis ou jaunis ?",
+    "Êtes-vous diabétique ou avez-vous des problèmes de circulation ?",
+    "La lésion suinte-t-elle, est-elle très rouge, chaude ou douloureuse ?",
+    "Fréquentez-vous piscine, salle de sport ? Portez-vous des chaussures fermées longtemps ?",
+    "Avez-vous déjà traité ? Avec quoi et combien de temps ?"
+  ],
+  "alertes": [
+    "Patient diabétique ou artéritique : avis médical (risque de plaie compliquée).",
+    "Rougeur qui s'étend, chaleur, douleur, fièvre : consulter (surinfection, érysipèle).",
+    "Atteinte de l'ongle : consultation, le traitement local de la peau ne suffit pas.",
+    "Absence d'amélioration après un traitement bien conduit : consulter."
+  ],
+  "conseils": [
+    "Laver les pieds chaque jour et bien sécher entre les orteils.",
+    "Chaussettes en coton changées tous les jours ; alterner les chaussures.",
+    "Sandales à la piscine et dans les douches collectives.",
+    "Appliquer l'antifongique sur toute la zone et poursuivre toute la durée prévue.",
+    "Traiter aussi les chaussures (poudre antifongique) pour limiter les récidives."
+  ],
+  "produits": [
+    {
+      "nom": "Terbinafine crème",
+      "detail": "1 application par jour pendant 1 semaine, dès 12 ans."
+    },
+    {
+      "nom": "Poudre antifongique",
+      "detail": "Pour les chaussures et chaussettes."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Diabétique",
+      "conduite": "Avis médical systématique."
+    },
+    {
+      "population": "Enfant de moins de 12 ans",
+      "conduite": "Avis médical ; terbinafine crème déconseillée."
+    },
+    {
+      "population": "Grossesse, allaitement",
+      "conduite": "Avis du pharmacien ou du médecin pour le choix du produit."
+    }
+  ],
+  "aRetenir": "Sécher, aérer, traiter toute la durée prévue. Diabète, ongle atteint ou rougeur qui s'étend : consulter.",
+  "medicamentsLies": [
+    "terbinafine-creme"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Reconnaître une mycose de la peau",
+      "url": "https://www.ameli.fr/assure/sante/themes/mycose-cutanee-peau/reconnaitre-mycose-cutanee"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Consultation et traitement en cas de mycose cutanée",
+      "url": "https://www.ameli.fr/assure/sante/themes/mycose-cutanee-peau/consultation-traitement"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Prévenir les mycoses cutanées",
+      "url": "https://www.ameli.fr/assure/sante/themes/mycose-cutanee-peau/prevention.html"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Lamisilate 1 %, crème (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62128850/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}
