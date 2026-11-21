@@ -1,0 +1,85 @@
+{
+  "type": "conseil",
+  "slug": "fievre-enfant",
+  "titre": "Fièvre de l'enfant",
+  "categorie": "quotidien",
+  "theme": "pediatrie",
+  "resume": "Traiter l'inconfort plutôt que le chiffre : paracétamol en 1re intention, à la dose-poids. Nourrisson de moins de 3 mois ou signes de gravité : consultation immédiate.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "température",
+    "paracétamol enfant",
+    "ibuprofène enfant",
+    "bébé",
+    "antipyrétique"
+  ],
+  "introduction": "La fièvre est une réaction normale de défense, le plus souvent liée à une infection virale bénigne. Il n'est pas toujours nécessaire de la faire baisser : on traite si elle dépasse 38,5 °C et s'accompagne d'inconfort. L'essentiel est de repérer les signes de gravité.",
+  "questions": [
+    "Âge et poids de l'enfant ?",
+    "Température mesurée comment, depuis quand ?",
+    "Comment est l'enfant : joue-t-il, boit-il, est-il somnolent, gris ou marbré ?",
+    "Autres symptômes : vomissements, diarrhée, éruption, gêne respiratoire, raideur de nuque ?",
+    "Médicaments déjà donnés (dose, heure) ? Varicelle en cours ?"
+  ],
+  "alertes": [
+    "Nourrisson de moins de 3 mois avec fièvre : consultation immédiate.",
+    "Température supérieure à 40 °C, enfant somnolent, cris faibles, peau marbrée, refus de boire.",
+    "Maux de tête importants, raideur de nuque, vomissements, taches sur la peau qui ne s'effacent pas à la pression : urgence (15).",
+    "Respiration rapide ou difficile, signes de déshydratation.",
+    "Fièvre de plus de 2 jours avant 2 ans, ou de plus de 3 jours après 2 ans ; convulsion fébrile."
+  ],
+  "conseils": [
+    "Découvrir l'enfant, garder une pièce ni trop chaude ni trop couverte, proposer à boire souvent.",
+    "Ne pas donner de bain froid ni d'enveloppement.",
+    "Utiliser la pipette doseuse fournie avec le médicament, graduée en poids.",
+    "Noter les heures et doses données ; ne pas associer deux médicaments contenant du paracétamol.",
+    "Ne pas alterner systématiquement paracétamol et ibuprofène."
+  ],
+  "produits": [
+    {
+      "nom": "Paracétamol (forme pédiatrique)",
+      "detail": "1re intention, selon le poids : environ 60 mg/kg/j répartis en 4 prises, avec la pipette graduée en kg."
+    },
+    {
+      "nom": "Ibuprofène (forme pédiatrique)",
+      "detail": "Alternative selon l'âge et la dose-poids prévus par le RCP.",
+      "prudence": "Éviter en cas de varicelle, de déshydratation ou chez le nourrisson trop jeune pour la forme considérée."
+    },
+    {
+      "nom": "Thermomètre électronique",
+      "detail": "Mesure rectale chez le nourrisson."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Nourrisson de moins de 3 mois",
+      "conduite": "Aucune automédication : consultation immédiate."
+    },
+    {
+      "population": "Enfant atteint de maladie chronique",
+      "conduite": "Consultation dans la journée."
+    },
+    {
+      "population": "Enfant atteint de varicelle",
+      "conduite": "Paracétamol uniquement, pas d'AINS."
+    }
+  ],
+  "aRetenir": "Confort d'abord, paracétamol à la dose-poids. Moins de 3 mois ou signe de gravité : consultation immédiate.",
+  "medicamentsLies": [
+    "paracetamol",
+    "ibuprofene"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Votre enfant a de la fièvre : que faire et quand consulter ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/fievre-enfant/bons-reflexes-cas-faut-consulter"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Comprendre et gérer la fièvre chez l'enfant",
+      "url": "https://www.ameli.fr/assure/sante/themes/fievre-enfant/comprendre-gerer-fievre-enfant"
+    }
+  ]
+}

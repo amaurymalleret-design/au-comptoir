@@ -1,0 +1,80 @@
+{
+  "type": "conseil",
+  "slug": "coup-de-soleil",
+  "titre": "Coup de soleil",
+  "categorie": "quotidien",
+  "theme": "dermato",
+  "resume": "Refroidir, hydrater la peau, boire, soulager la douleur. Orienter si cloques étendues, zones fragiles, jeune enfant ou signes d'insolation.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "brûlure solaire",
+    "érythème solaire",
+    "insolation",
+    "après-soleil",
+    "cloques"
+  ],
+  "introduction": "Le coup de soleil est une brûlure de la peau, le plus souvent superficielle. Il faut évaluer sa profondeur et son étendue, et rechercher des signes d'insolation. La prévention reste essentielle, car les coups de soleil augmentent le risque de cancer de la peau.",
+  "questions": [
+    "Pour qui ? Âge ?",
+    "Étendue : quelle partie du corps ? Cloques ?",
+    "Zones fragiles touchées (visage, yeux, organes génitaux, mains) ?",
+    "Maux de tête, fièvre, nausées, confusion, malaise ?",
+    "Médicament photosensibilisant en cours ?"
+  ],
+  "alertes": [
+    "Cloques nombreuses ou étendues, peau blanche ou très douloureuse.",
+    "Jeune enfant ou nourrisson.",
+    "Zones fragiles : visage, yeux, organes génitaux.",
+    "Maux de tête, confusion, faiblesse, vertiges, fièvre : insolation, consultation (15 si signes graves).",
+    "Douleur des yeux, sensation de sable : avis médical."
+  ],
+  "conseils": [
+    "Refroidir la peau : douche fraîche (pas glacée) pendant plusieurs minutes.",
+    "Appliquer une crème apaisante ou émolliente ; ne pas percer les cloques.",
+    "Boire régulièrement de l'eau.",
+    "Ne pas s'exposer de nouveau avant guérison complète.",
+    "Prévention : éviter le soleil aux heures chaudes, vêtements, chapeau, lunettes, crème solaire renouvelée."
+  ],
+  "produits": [
+    {
+      "nom": "Émollients, après-soleil",
+      "detail": "Apaisent et réhydratent la peau."
+    },
+    {
+      "nom": "Paracétamol",
+      "detail": "Pour la douleur."
+    },
+    {
+      "nom": "Pansements gras ou hydrocolloïdes",
+      "detail": "Pour une petite cloque ouverte."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Nourrisson et jeune enfant",
+      "conduite": "Ne jamais exposer directement au soleil ; consulter en cas de coup de soleil."
+    },
+    {
+      "population": "Patient sous médicament photosensibilisant",
+      "conduite": "Vérifier le traitement (certains antibiotiques, AINS topiques…) et renforcer la photoprotection."
+    }
+  ],
+  "aRetenir": "Refroidir, apaiser, boire, ne pas réexposer. Cloques étendues, enfant ou signes d'insolation : médecin.",
+  "medicamentsLies": [
+    "paracetamol",
+    "hydrocortisone-creme"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Coup de soleil : que faire et quand consulter ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/coup-soleil/bons-reflexes-consultation-medicale"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Coup de soleil et conséquences de l'exposition au soleil",
+      "url": "https://www.ameli.fr/assure/sante/themes/coup-soleil/coup-soleil-risque-exposition-solaire"
+    }
+  ]
+}

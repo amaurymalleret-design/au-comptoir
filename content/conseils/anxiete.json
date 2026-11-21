@@ -1,0 +1,76 @@
+{
+  "type": "conseil",
+  "slug": "anxiete",
+  "titre": "Anxiété et benzodiazépines",
+  "categorie": "chronique",
+  "theme": "neuro",
+  "resume": "Une benzodiazépine se prend sur une durée courte (12 semaines maximum, sevrage compris) et s'arrête progressivement. Pas d'alcool, prudence au volant et chez la personne âgée.",
+  "motsCles": [
+    "angoisse",
+    "stress",
+    "benzodiazépine",
+    "Xanax",
+    "dépendance",
+    "sevrage"
+  ],
+  "introduction": "L'anxiété devient un trouble quand elle est intense, durable et gêne la vie quotidienne. Le traitement de fond repose sur la psychothérapie et, si besoin, un antidépresseur. Les benzodiazépines soulagent rapidement mais exposent à la dépendance et aux chutes : leur durée est limitée. Le pharmacien rappelle les règles de bon usage et accompagne l'arrêt.",
+  "questions": [
+    "Depuis combien de temps prenez-vous ce traitement ? À quelle dose ?",
+    "Avez-vous essayé de diminuer ? Que s'est-il passé ?",
+    "Somnolence dans la journée, trous de mémoire, chutes ?",
+    "Buvez-vous de l'alcool ? Prenez-vous d'autres médicaments pour dormir ou contre la douleur ?",
+    "Êtes-vous suivi par un médecin ou un psychologue pour cette anxiété ?"
+  ],
+  "alertes": [
+    "Idées suicidaires : 3114 ou 15.",
+    "Somnolence profonde, difficulté à respirer, surtout avec un opioïde ou de l'alcool : appeler le 15.",
+    "Arrêt brutal après un usage prolongé avec agitation, tremblements, confusion ou convulsions : avis médical urgent."
+  ],
+  "conseils": [
+    "Durée la plus courte possible : 12 semaines maximum, diminution progressive comprise.",
+    "Ne pas arrêter brutalement : diminuer par paliers avec le médecin.",
+    "Pas d'alcool ; prudence au volant et lors des activités qui demandent de la vigilance.",
+    "Ne pas donner son traitement à un proche.",
+    "Respiration, relaxation, activité physique et psychothérapie aident durablement."
+  ],
+  "produits": [
+    {
+      "nom": "Phytothérapie (passiflore, aubépine, valériane)",
+      "detail": "Possible pour une anxiété légère.",
+      "prudence": "Somnolence possible ; ne remplace pas une prise en charge médicale."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Risque de chute et de confusion ; dose réduite, durée la plus courte."
+    },
+    {
+      "population": "Grossesse",
+      "conduite": "Avis médical."
+    },
+    {
+      "population": "Insuffisance respiratoire, apnées du sommeil",
+      "conduite": "Benzodiazépines contre-indiquées si sévères."
+    }
+  ],
+  "aRetenir": "Benzodiazépine : courte durée, arrêt progressif, pas d'alcool. Penser aux chutes chez la personne âgée.",
+  "medicamentsLies": [
+    "alprazolam",
+    "sertraline"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Place des benzodiazépines dans les troubles anxieux de l'adulte",
+      "url": "https://www.ameli.fr/medecin/exercice-liberal/regles-de-prescription-et-formalites/medicaments-et-dispositifs/benzodiazepines-bonnes-pratiques-prescription/place-benzodiazepines-troubles-anxieux-adulte"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Xanax 0,25 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69847791/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "conseil",
+  "slug": "rhume",
+  "titre": "Rhume (rhinopharyngite)",
+  "categorie": "quotidien",
+  "theme": "orl",
+  "resume": "Infection virale bénigne qui guérit seule en 7 à 10 jours. Soulager, laver le nez, et ne plus proposer de vasoconstricteur oral.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["rhinopharyngite", "nez qui coule", "nez bouché", "vasoconstricteur", "pseudoéphédrine", "lavage de nez"],
+  "introduction": "La rhinopharyngite est d'origine virale et guérit spontanément en 7 à 10 jours. Les antibiotiques sont inutiles. Le rôle du comptoir : soulager, repérer les complications et éviter les médicaments à risque, en premier lieu les vasoconstricteurs.",
+  "questions": [
+    "Pour qui ? Âge (nourrisson, enfant), grossesse ou allaitement.",
+    "Depuis quand ? Fièvre ? Quelle température et depuis combien de jours ?",
+    "Douleur d'oreille, douleur de la face ou des dents, maux de tête intenses, gêne respiratoire ?",
+    "Traitements en cours (antihypertenseurs, anticoagulants, antidépresseurs) et antécédents (HTA, maladie coronaire, AVC, glaucome, troubles urinaires) ?",
+    "Qu'a-t-il déjà pris ? Attention au paracétamol présent dans plusieurs spécialités."
+  ],
+  "alertes": [
+    "Fièvre > 38,5 °C qui dure plus de 3 jours, ou qui réapparaît après 3 jours d'évolution.",
+    "Maux de tête intenses, vomissements, difficulté à respirer.",
+    "Douleur d'oreille (otite), douleur de la face ou écoulement purulent unilatéral persistant (sinusite).",
+    "Symptômes qui durent plus de 10 jours ou s'aggravent.",
+    "Nourrisson de moins de 3 mois avec fièvre, ou enfant qui boit mal, gêne respiratoire, somnolence inhabituelle."
+  ],
+  "conseils": [
+    "Laver le nez plusieurs fois par jour au sérum physiologique ou à l'eau de mer ; moucher (ou aspirer chez le nourrisson).",
+    "Boire suffisamment, humidifier et ne pas surchauffer la pièce (18–20 °C), surélever la tête la nuit.",
+    "Se laver les mains, tousser dans son coude, porter un masque au contact des personnes fragiles.",
+    "Traiter la fièvre et les douleurs par paracétamol, sans cumuler plusieurs spécialités qui en contiennent."
+  ],
+  "produits": [
+    { "nom": "Solutions de lavage nasal (sérum physiologique, eau de mer isotonique ou hypertonique)", "detail": "Première intention à tout âge." },
+    { "nom": "Paracétamol", "detail": "Fièvre, maux de tête, courbatures. Adulte ≥ 50 kg : 1 g par prise, maximum 3 g/j sans avis médical.", "prudence": "Vérifier qu'aucun autre médicament en cours n'en contient." },
+    { "nom": "Vasoconstricteurs oraux (pseudoéphédrine)", "detail": "Sur ordonnance uniquement depuis le 11 décembre 2024 ; l'ANSM déconseille leur usage dans le rhume.", "prudence": "Risques rares mais graves (infarctus, AVC). Ne plus les proposer en conseil." },
+    { "nom": "Ibuprofène", "detail": "Possible chez l'adulte sans contre-indication.", "prudence": "Dans un contexte infectieux, préférer le paracétamol (risque de complications infectieuses graves sous AINS)." }
+  ],
+  "populations": [
+    { "population": "Nourrisson et jeune enfant", "conduite": "Lavage de nez et mouchage avant tout. Pas de vasoconstricteur. Orienter si moins de 3 mois avec fièvre ou si signes d'alerte." },
+    { "population": "Femme enceinte", "conduite": "Lavage de nez, paracétamol si besoin. AINS contre-indiqués à partir de 24 SA ; avis médical pour tout autre médicament." },
+    { "population": "Hypertendu, coronarien, antécédent d'AVC", "conduite": "Aucun vasoconstricteur, quelle que soit la voie." }
+  ],
+  "aRetenir": "Virus = pas d'antibiotique. Lavage de nez + paracétamol. Pas de vasoconstricteur en conseil.",
+  "medicamentsLies": ["paracetamol", "ibuprofene"],
+  "sources": [
+    { "organisme": "ANSM", "titre": "Rhume : ordonnance obligatoire pour toute dispensation de médicament à base de pseudoéphédrine (décembre 2024)", "url": "https://ansm.sante.fr/actualites/rhume-ordonnance-obligatoire-pour-toute-dispensation-de-medicament-a-base-de-pseudoephedrine" },
+    { "organisme": "Assurance Maladie (ameli)", "titre": "Rhinopharyngite de l'adulte : que faire et quand consulter ?", "url": "https://www.ameli.fr/assure/sante/themes/rhinopharyngite-adulte/que-faire-quand-consulter.html" },
+    { "organisme": "Assurance Maladie (ameli)", "titre": "Rhinopharyngite de l'enfant : que faire et quand consulter ?", "url": "https://www.ameli.fr/assure/sante/themes/rhinopharyngite-enfant/que-faire-cas-faut-consulter.html" }
+  ]
+}

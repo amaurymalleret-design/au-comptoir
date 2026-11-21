@@ -1,0 +1,93 @@
+{
+  "type": "conseil",
+  "slug": "conjonctivite",
+  "titre": "Conjonctivite",
+  "categorie": "quotidien",
+  "theme": "orl",
+  "resume": "Œil rouge qui gratte ou qui colle : lavages au sérum physiologique et hygiène des mains. Orienter sans attendre en cas de douleur, de baisse de vision, de lentilles ou chez le nouveau-né.",
+  "motsCles": [
+    "œil rouge",
+    "yeux qui collent",
+    "collyre",
+    "allergie oculaire",
+    "sérum physiologique"
+  ],
+  "introduction": "La conjonctivite est une inflammation de la conjonctive, le plus souvent virale, bactérienne ou allergique. Elle donne un œil rouge, des démangeaisons ou picotements et un écoulement clair ou purulent, sans douleur vive ni baisse de la vision. Le rôle du comptoir est d'écarter les autres causes d'œil rouge, qui sont des urgences.",
+  "questions": [
+    "Un œil ou les deux ? Depuis quand ?",
+    "Écoulement clair, ou purulent avec des paupières collées le matin ?",
+    "Douleur vive, vision floue ou diminuée, gêne à la lumière ?",
+    "Portez-vous des lentilles de contact ?",
+    "Contexte allergique (éternuements, saison des pollens, animal) ? Choc ou projection dans l'œil ?",
+    "Âge ? Nouveau-né ?"
+  ],
+  "alertes": [
+    "Douleur oculaire intense, baisse de la vision, gêne importante à la lumière : consultation urgente (ophtalmologiste ou urgences).",
+    "Porteur de lentilles avec œil rouge et douloureux : retirer les lentilles et consulter rapidement (risque de kératite).",
+    "Traumatisme, projection de produit chimique : rincer abondamment et appeler le 15.",
+    "Nouveau-né, ou œil rouge chez un patient immunodéprimé : avis médical.",
+    "Pupille déformée, nausées et maux de tête avec œil rouge : urgence (glaucome aigu).",
+    "Absence d'amélioration après quelques jours de soins : consulter."
+  ],
+  "conseils": [
+    "Laver l'œil plusieurs fois par jour au sérum physiologique en unidose, de l'intérieur vers l'extérieur, une compresse par œil.",
+    "Se laver les mains avant et après chaque soin ; ne pas partager serviettes ni gants de toilette.",
+    "Ne pas porter de lentilles pendant l'épisode ; jeter le maquillage des yeux utilisé.",
+    "Conjonctivite allergique : éviter l'allergène, rincer les yeux, collyre antiallergique.",
+    "Ne pas utiliser de collyre corticoïde ou antibiotique sans prescription."
+  ],
+  "produits": [
+    {
+      "nom": "Sérum physiologique en unidoses",
+      "detail": "Base du traitement quelle que soit la cause."
+    },
+    {
+      "nom": "Collyre antiseptique",
+      "detail": "Conjonctivite bactérienne peu sévère, en complément des lavages.",
+      "prudence": "Durée courte ; vérifier la compatibilité avec les lentilles."
+    },
+    {
+      "nom": "Collyre antiallergique (cromoglicate de sodium)",
+      "detail": "Conjonctivite allergique, de façon continue pendant l'exposition.",
+      "prudence": "Chez l'enfant, avis médical nécessaire selon le RCP."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Nouveau-né et nourrisson",
+      "conduite": "Avis médical systématique."
+    },
+    {
+      "population": "Porteur de lentilles",
+      "conduite": "Arrêt des lentilles ; consultation rapide si douleur."
+    },
+    {
+      "population": "Collectivité (crèche, école)",
+      "conduite": "Hygiène des mains renforcée ; la conjonctivite virale est très contagieuse."
+    }
+  ],
+  "aRetenir": "Œil rouge sans douleur ni baisse de vision : lavages et hygiène. Douleur, vision floue, lentilles ou nouveau-né : on oriente.",
+  "medicamentsLies": [
+    "cromoglicate-collyre",
+    "cetirizine"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Conjonctivite : que faire et quand consulter ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/conjonctivite/que-faire-quand-consulter"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Conjonctivite : consultation et traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/conjonctivite/consultation-traitement"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Cromabak 20 mg/ml, collyre (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/67898381/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

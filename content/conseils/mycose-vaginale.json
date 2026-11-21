@@ -1,0 +1,79 @@
+{
+  "type": "conseil",
+  "slug": "mycose-vaginale",
+  "titre": "Mycose vaginale",
+  "categorie": "quotidien",
+  "theme": "uro",
+  "resume": "Pertes blanches épaisses et démangeaisons chez une femme qui a déjà eu une mycose : traitement local en automédication. Premier épisode, doute ou récidives : consulter.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "candidose",
+    "vaginite",
+    "démangeaisons vulvaires",
+    "pertes blanches",
+    "ovule"
+  ],
+  "introduction": "La mycose vaginale (candidose) donne des pertes blanchâtres épaisses « comme du lait caillé » et des démangeaisons, parfois des brûlures. En cas de doute sur l'origine des symptômes, l'automédication n'est pas indiquée.",
+  "questions": [
+    "Est-ce la première fois ? Symptômes déjà connus ?",
+    "Aspect et odeur des pertes ? Démangeaisons, brûlures ?",
+    "Fièvre, douleurs du bas-ventre, saignements, brûlures urinaires ?",
+    "Grossesse possible ? Diabète, antibiotique récent ?",
+    "Combien d'épisodes cette année ? Traitement anticoagulant (AVK) ?"
+  ],
+  "alertes": [
+    "Premier épisode, ou symptômes différents des épisodes précédents.",
+    "Pertes malodorantes, colorées, saignements, douleurs pelviennes ou fièvre.",
+    "Grossesse.",
+    "Récidives fréquentes (plusieurs épisodes par an).",
+    "Échec du traitement local."
+  ],
+  "conseils": [
+    "Toilette intime une fois par jour avec un savon doux non acide ; pas de douche vaginale.",
+    "Sous-vêtements en coton, éviter les vêtements trop serrés.",
+    "Bien sécher la zone après la toilette.",
+    "Utiliser une autre contraception que le préservatif en latex pendant un traitement par ovule imidazolé."
+  ],
+  "produits": [
+    {
+      "nom": "Ovule antifongique (éconazole)",
+      "detail": "1 ovule le soir pendant 3 jours.",
+      "prudence": "Rupture possible des préservatifs en latex ; prudence sous AVK (INR)."
+    },
+    {
+      "nom": "Crème antifongique",
+      "detail": "En complément sur la vulve si démangeaisons externes."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Femme enceinte",
+      "conduite": "Toujours orienter vers le médecin ou la sage-femme."
+    },
+    {
+      "population": "Femme diabétique ou immunodéprimée",
+      "conduite": "Avis médical, surtout en cas de récidive."
+    },
+    {
+      "population": "Adolescente sans antécédent",
+      "conduite": "Orienter : un premier épisode nécessite un diagnostic."
+    }
+  ],
+  "aRetenir": "Mycose déjà connue, symptômes typiques : ovule 3 jours. Premier épisode, grossesse ou doute : médecin.",
+  "medicamentsLies": [
+    "econazole-ovule"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Mycose vaginale et autres vaginites : que faire ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/vaginite/que-faire-quand-consulter"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Gyno-Pevaryl 150 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62774928/extrait"
+    }
+  ]
+}

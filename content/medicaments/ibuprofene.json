@@ -1,0 +1,118 @@
+{
+  "type": "medicament",
+  "slug": "ibuprofene",
+  "titre": "Ibuprofène",
+  "dci": "ibuprofène",
+  "resume": "AINS en vente libre pour douleur et fièvre de courte durée. Contre-indiqué à partir de 24 SA et chez de nombreux patients à risque digestif, rénal ou cardiaque.",
+  "specialiteReference": "Advil 400 mg, comprimé enrobé",
+  "classe": "Anti-inflammatoire non stéroïdien (AINS)",
+  "delivrance": "Non soumis à prescription aux doses antalgiques",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "advil",
+    "nurofen",
+    "AINS",
+    "anti-inflammatoire",
+    "douleur",
+    "fièvre",
+    "règles douloureuses"
+  ],
+  "rcp": {
+    "libelle": "RCP Advil 400 mg, comprimé enrobé (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63646874/extrait"
+  },
+  "indications": [
+    "Traitement de courte durée de la fièvre et/ou des douleurs (maux de tête, états grippaux, douleurs dentaires, courbatures, règles douloureuses) chez l'adulte et l'enfant de plus de 30 kg.",
+    "Crise de migraine légère à modérée de l'adulte, après au moins un avis médical."
+  ],
+  "posologies": [
+    {
+      "indication": "Douleur et/ou fièvre",
+      "population": "Adulte et enfant ≥ 30 kg (≈ 11–12 ans)",
+      "dose": "400 mg par prise, à renouveler si besoin après 6 à 8 h, maximum 1200 mg/j",
+      "remarque": "Le 400 mg est réservé aux douleurs ou fièvres non soulagées par 200 mg. Prendre au cours d'un repas."
+    },
+    {
+      "indication": "Crise de migraine",
+      "population": "Adulte",
+      "dose": "400 mg dès le début de la crise ; 2e prise possible si récidive, au moins 8 h après",
+      "remarque": "Pas de 2e dose si la 1re n'a pas soulagé. Durée maximale 3 jours."
+    }
+  ],
+  "adaptations": [
+    "Adolescent : avis médical si besoin plus de 3 jours.",
+    "Adulte : avis médical si douleur > 5 jours ou fièvre > 3 jours.",
+    "Sujet âgé : pas d'adaptation de dose, mais prudence accrue (risque digestif et rénal)."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Troubles digestifs : douleurs d'estomac, nausées, dyspepsie",
+      "frequence": "Les plus fréquents",
+      "conduite": "Prendre pendant le repas. Selles noires ou vomissements de sang : urgence."
+    },
+    {
+      "effet": "Ulcère, hémorragie ou perforation digestive",
+      "frequence": "Rare, plus fréquent chez le sujet âgé",
+      "conduite": "Consulter en urgence en cas de douleur abdominale intense ou de saignement."
+    },
+    {
+      "effet": "Réactions allergiques, crise d'asthme, réactions cutanées graves",
+      "frequence": "Rare à très rare",
+      "conduite": "Arrêter immédiatement et consulter."
+    },
+    {
+      "effet": "Atteinte rénale, rétention hydrosodée, hausse de la tension",
+      "frequence": "Peu fréquent",
+      "conduite": "Vigilance chez le patient âgé, déshydraté ou sous IEC/sartan/diurétique."
+    },
+    {
+      "effet": "Complications infectieuses graves (varicelle notamment)",
+      "frequence": "Exceptionnel",
+      "conduite": "Éviter les AINS en cas de varicelle ; préférer le paracétamol dans les infections."
+    }
+  ],
+  "contreIndications": [
+    "À partir du début du 6e mois de grossesse (24 SA).",
+    "Antécédent d'asthme déclenché par l'ibuprofène, un autre AINS ou l'aspirine.",
+    "Ulcère évolutif, antécédent d'ulcère ou d'hémorragie digestive récidivante ; antécédent d'hémorragie ou de perforation sous AINS.",
+    "Hémorragie en cours (digestive, cérébrale ou autre).",
+    "Insuffisance hépatique sévère, insuffisance rénale sévère, insuffisance cardiaque sévère (NYHA IV).",
+    "Lupus érythémateux disséminé."
+  ],
+  "interactions": [
+    {
+      "avec": "Anticoagulants oraux, héparines à dose curative, aspirine, autres AINS",
+      "risque": "Majoration du risque hémorragique : association déconseillée."
+    },
+    {
+      "avec": "IEC, sartans, diurétiques",
+      "risque": "Risque d'insuffisance rénale aiguë, surtout chez le sujet âgé ou déshydraté."
+    },
+    {
+      "avec": "Méthotrexate, lithium",
+      "risque": "Augmentation de leur toxicité (voir RCP 4.5)."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Demander systématiquement : grossesse, anticoagulant, antécédent d'ulcère, maladie rénale ou cardiaque, asthme.",
+    "Prendre au milieu d'un repas, avec un grand verre d'eau.",
+    "Ne pas associer à un autre AINS (y compris en gel sur une grande surface ou en association « rhume »)."
+  ],
+  "conseilsLies": [
+    "lumbago",
+    "mal-de-gorge",
+    "rhume",
+    "fievre-enfant",
+    "regles-douloureuses",
+    "arthrose",
+    "migraine"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Advil 400 mg, comprimé enrobé (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63646874/extrait"
+    }
+  ]
+}

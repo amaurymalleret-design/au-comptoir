@@ -1,0 +1,79 @@
+{
+  "type": "medicament",
+  "slug": "diclofenac-gel",
+  "titre": "Diclofénac en gel",
+  "dci": "diclofénac (diéthylamine)",
+  "specialiteReference": "Voltarenactigo 1 %, gel",
+  "classe": "Anti-inflammatoire non stéroïdien à usage local",
+  "delivrance": "Non soumis à prescription",
+  "resume": "Entorse ou contusion bénigne à partir de 15 ans : 2 à 3 applications par jour, 2,5 g (environ 6 cm) maximum par application, 4 jours sans avis médical. Contre-indiqué à partir du 6e mois de grossesse.",
+  "motsCles": [
+    "voltarene",
+    "voltarenactigo",
+    "gel",
+    "entorse",
+    "contusion",
+    "anti-inflammatoire"
+  ],
+  "rcp": {
+    "libelle": "RCP Voltarenactigo 1 %, gel (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60851678/extrait"
+  },
+  "indications": [
+    "Traitement local de courte durée des traumatismes bénins (entorse, contusion) chez l'adulte à partir de 15 ans."
+  ],
+  "posologies": [
+    {
+      "indication": "Entorse, contusion bénigne",
+      "population": "Adulte et adolescent ≥ 15 ans",
+      "dose": "1 application 2 à 3 fois par jour, 2,5 g de gel au maximum par application (environ 6 cm)",
+      "remarque": "4 jours au maximum ; 7 jours sur avis médical."
+    }
+  ],
+  "adaptations": [
+    "Sujet âgé : prudence, plus sensible aux effets indésirables."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Éruption cutanée au site d'application",
+      "frequence": "Rapporté",
+      "conduite": "Arrêter immédiatement le traitement."
+    },
+    {
+      "effet": "Sensibilité accrue au soleil",
+      "frequence": "Très rare",
+      "conduite": "Ne pas exposer la zone traitée au soleil."
+    },
+    {
+      "effet": "Effets généraux des AINS",
+      "frequence": "Selon la quantité et la surface",
+      "conduite": "Respecter les doses ; pas de pansement occlusif."
+    }
+  ],
+  "contreIndications": [
+    "Grossesse à partir du début du 6e mois (24 semaines d'aménorrhée).",
+    "Peau lésée : eczéma, dermatose suintante, plaie, brûlure, lésion infectée.",
+    "Antécédent d'asthme, d'urticaire ou d'angiœdème déclenché par un AINS ou l'aspirine.",
+    "Enfant et adolescent de moins de 15 ans."
+  ],
+  "interactions": [],
+  "conseilsDelivrance": [
+    "Appliquer uniquement sur la zone douloureuse, ni sur les yeux ni sur les muqueuses ; se laver les mains après.",
+    "Pas de pansement occlusif.",
+    "5 premiers mois de grossesse : seulement en cas de nécessité absolue ; allaitement déconseillé, jamais sur la poitrine.",
+    "Laisser sécher avant la douche ou le bain."
+  ],
+  "conseilsLies": [
+    "entorse-cheville",
+    "arthrose"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Voltarenactigo 1 %, gel (rubriques 4.1 à 4.6)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60851678/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

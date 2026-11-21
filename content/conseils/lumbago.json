@@ -1,0 +1,49 @@
+{
+  "type": "conseil",
+  "slug": "lumbago",
+  "titre": "Lumbago (lombalgie aiguë)",
+  "categorie": "quotidien",
+  "theme": "douleur",
+  "resume": "Bénin dans la grande majorité des cas. Le meilleur traitement est de rester actif ; repérer les drapeaux rouges qui imposent une consultation.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["mal de dos", "lombalgie", "tour de reins", "sciatique", "drapeaux rouges"],
+  "introduction": "La lombalgie commune est bénigne et évolue favorablement en quelques semaines. La HAS (2019) recommande de rester actif et de ne pas s'aliter. Au comptoir, on rassure, on soulage et on oriente devant tout drapeau rouge.",
+  "questions": [
+    "Depuis quand ? Circonstances (effort, faux mouvement, chute) ?",
+    "La douleur descend-elle dans la jambe ? Fourmillements, faiblesse ?",
+    "Troubles urinaires ou anesthésie au niveau du périnée ?",
+    "Fièvre, amaigrissement, antécédent de cancer, corticothérapie prolongée, ostéoporose ?",
+    "Âge, grossesse, traitements (anticoagulant), maladie rénale, cardiaque ou digestive ?"
+  ],
+  "alertes": [
+    "Rétention ou incontinence urinaire, anesthésie en selle, faiblesse des jambes : urgence (queue de cheval).",
+    "Fièvre, altération de l'état général, amaigrissement, antécédent de cancer.",
+    "Traumatisme important, ou âge avancé avec ostéoporose ou corticothérapie au long cours (fracture).",
+    "Douleur la nuit, au repos, qui s'aggrave progressivement.",
+    "Douleur qui ne s'améliore pas après 2 à 4 semaines, ou début avant 20 ans."
+  ],
+  "conseils": [
+    "Rester actif et poursuivre ses activités autant que possible ; le repos au lit retarde la guérison.",
+    "La chaleur locale peut soulager.",
+    "Reprendre progressivement la marche et les gestes du quotidien ; la kinésithérapie active est utile si ça traîne.",
+    "Rassurer : radiographie ou IRM inutiles sans signe d'alerte."
+  ],
+  "produits": [
+    { "nom": "Paracétamol", "detail": "Possible à visée symptomatique (HAS 2019), en particulier si les AINS sont contre-indiqués." },
+    { "nom": "Ibuprofène", "detail": "AINS à la dose minimale efficace, sur la durée la plus courte, au cours d'un repas.", "prudence": "Contre-indiqué à partir de 24 SA, en cas d'ulcère, d'insuffisance rénale, hépatique ou cardiaque sévère ; déconseillé avec un anticoagulant." },
+    { "nom": "Patchs ou poches chauffants", "detail": "Soulagement local." },
+    { "nom": "Ceinture lombaire", "detail": "Possible sur une courte durée pour aider à la reprise d'activité (HAS 2019), sans effet démontré sur l'évolution." }
+  ],
+  "populations": [
+    { "population": "Femme enceinte", "conduite": "Paracétamol ; pas d'AINS à partir de 24 SA. Avis médical si douleur intense ou fièvre." },
+    { "population": "Patient sous anticoagulant", "conduite": "Pas d'AINS en automédication." },
+    { "population": "Sujet âgé", "conduite": "Rechercher une fracture (chute, ostéoporose) ; prudence avec les AINS (rein, estomac)." }
+  ],
+  "aRetenir": "Bouger, c'est guérir plus vite. Drapeau rouge = médecin, troubles urinaires ou périnée = urgence.",
+  "medicamentsLies": ["ibuprofene", "paracetamol"],
+  "sources": [
+    { "organisme": "HAS", "titre": "Prise en charge du patient présentant une lombalgie commune (2019)", "url": "https://www.has-sante.fr/jcms/c_2961499/fr/prise-en-charge-du-patient-presentant-une-lombalgie-commune" },
+    { "organisme": "ANSM / BDPM", "titre": "RCP Advil 400 mg (contre-indications, rubrique 4.3)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63646874/extrait" }
+  ]
+}

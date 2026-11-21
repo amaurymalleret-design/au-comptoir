@@ -1,0 +1,83 @@
+{
+  "type": "conseil",
+  "slug": "eczema-atopique",
+  "titre": "Eczéma atopique",
+  "categorie": "quotidien",
+  "theme": "dermato",
+  "resume": "Émollient sur tout le corps une à deux fois par jour, toilette douce et courte. Dermocorticoïde prescrit sur les poussées. Plaques suintantes, croûtes jaunes ou vésicules diffuses : consulter (surinfection).",
+  "motsCles": [
+    "dermatite atopique",
+    "peau sèche",
+    "émollient",
+    "démangeaisons",
+    "nourrisson"
+  ],
+  "introduction": "L'eczéma atopique (dermatite atopique) est une maladie inflammatoire chronique de la peau, fréquente chez l'enfant, qui évolue par poussées. La peau est sèche, les plaques rouges démangent. Le traitement repose sur les émollients au quotidien et les dermocorticoïdes pendant les poussées.",
+  "questions": [
+    "Quel âge a la personne ? Où sont les plaques ?",
+    "Les lésions suintent-elles, forment-elles des croûtes jaunâtres ou des petites bulles ? Fièvre ?",
+    "Utilisez-vous un émollient tous les jours ?",
+    "Un dermocorticoïde a-t-il été prescrit ? Comment l'appliquez-vous ?",
+    "Démangeaisons gênant le sommeil ?"
+  ],
+  "alertes": [
+    "Lésions suintantes avec croûtes jaunâtres, ou éruption de vésicules diffuses avec fièvre : consultation rapide (surinfection bactérienne ou herpétique).",
+    "Eczéma étendu, résistant au traitement ou retentissant sur le sommeil : consulter.",
+    "Nourrisson avec eczéma et cassure de la courbe de poids : avis médical."
+  ],
+  "conseils": [
+    "Appliquer un émollient sur tout le corps une à deux fois par jour, après une douche rapide et un séchage par tamponnement.",
+    "Douche ou bain courts, eau tiède, savon surgras ou pain sans savon.",
+    "Couper les ongles courts ; vêtements en coton, éviter la laine au contact.",
+    "Dermocorticoïde sur les plaques en poussée, comme prescrit, puis retour à l'émollient seul.",
+    "Ne pas surchauffer la chambre ; éviter le tabac à la maison."
+  ],
+  "produits": [
+    {
+      "nom": "Émollients (crème, baume, cérat)",
+      "detail": "Base du traitement, au quotidien, même sans poussée."
+    },
+    {
+      "nom": "Huile ou gel lavant surgras",
+      "detail": "Toilette douce."
+    },
+    {
+      "nom": "Dermocorticoïde",
+      "detail": "Sur prescription, sur les poussées.",
+      "prudence": "Pas sur une peau infectée ; prudence au visage et dans les plis."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Nourrisson",
+      "conduite": "Avis médical ; éviter les dermocorticoïdes forts."
+    },
+    {
+      "population": "Enfant scolarisé",
+      "conduite": "Émollient le matin et le soir ; parler des démangeaisons avec l'école si besoin."
+    }
+  ],
+  "aRetenir": "Émollient tous les jours, dermocorticoïde sur les poussées. Croûtes jaunes ou vésicules avec fièvre : consulter.",
+  "medicamentsLies": [
+    "betamethasone-creme"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Consultation et traitement en cas d'eczéma ou dermatite atopique",
+      "url": "https://www.ameli.fr/assure/sante/themes/eczema-dermatite-atopique/consultation-traitement"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Dermatite atopique : que faire et quand consulter ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/eczema-atopique/que-faire-quand-consulter"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Diprosone 0,05 %, crème (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61938997/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

@@ -1,0 +1,87 @@
+{
+  "type": "conseil",
+  "slug": "insuffisance-cardiaque",
+  "titre": "Insuffisance cardiaque",
+  "categorie": "chronique",
+  "theme": "metabo",
+  "resume": "Pesée régulière, sel limité, observance stricte et pas d'AINS en automédication. Prise de poids rapide, essoufflement inhabituel ou jambes qui gonflent : contacter le médecin.",
+  "motsCles": [
+    "cœur",
+    "essoufflement",
+    "œdèmes",
+    "diurétique",
+    "bêtabloquant",
+    "prise de poids"
+  ],
+  "introduction": "Dans l'insuffisance cardiaque, le cœur ne pompe plus assez de sang pour les besoins de l'organisme. Le traitement associe plusieurs médicaments (IEC ou sartan, bêtabloquant, diurétique…) et des mesures d'hygiène de vie. Au comptoir, l'enjeu est l'observance, le repérage précoce d'une décompensation et l'éviction des médicaments qui aggravent la maladie.",
+  "questions": [
+    "Êtes-vous plus essoufflé que d'habitude, à l'effort, la nuit ou allongé ?",
+    "Vous pesez-vous régulièrement ? Avez-vous pris du poids rapidement ces derniers jours ?",
+    "Les chevilles ou les jambes gonflent-elles ?",
+    "Prenez-vous bien tous vos médicaments ? Des effets gênants (vertiges, fatigue) ?",
+    "Prenez-vous d'autres médicaments, notamment anti-inflammatoires ou comprimés effervescents ?"
+  ],
+  "alertes": [
+    "Essoufflement au repos, impossibilité de rester allongé, douleur thoracique, malaise : appeler le 15.",
+    "Prise de poids rapide de plusieurs kilos en quelques jours, œdèmes qui augmentent, essoufflement qui s'aggrave : contacter le médecin sans attendre.",
+    "Vertiges, malaises au lever, pouls très lent : avis médical (adaptation du traitement)."
+  ],
+  "conseils": [
+    "Se peser régulièrement, dans les mêmes conditions, et noter le poids.",
+    "Limiter le sel, sans le supprimer totalement, selon les consignes du médecin.",
+    "Respecter la quantité de boissons conseillée par le médecin (souvent 1 à 2 litres par jour).",
+    "Pratiquer une activité physique régulière adaptée ; arrêter le tabac.",
+    "Ne jamais arrêter un traitement sans avis ; vaccins grippe et Covid recommandés.",
+    "Pas d'anti-inflammatoires en automédication ; attention au sel caché des comprimés effervescents."
+  ],
+  "produits": [
+    {
+      "nom": "Pèse-personne",
+      "detail": "Outil clé de l'auto-surveillance."
+    },
+    {
+      "nom": "Pilulier",
+      "detail": "Aide à l'observance d'un traitement souvent multiple."
+    },
+    {
+      "nom": "Paracétamol en forme non effervescente",
+      "detail": "Antalgique de choix en cas de douleur.",
+      "prudence": "Éviter les AINS et les formes effervescentes riches en sodium."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Vigilance sur la déshydratation (canicule, diarrhée) sous diurétique."
+    },
+    {
+      "population": "Patient polymédiqué",
+      "conduite": "Bilan de médication ; vérifier les interactions à chaque délivrance."
+    }
+  ],
+  "aRetenir": "Pesée, sel limité, traitement pris sans interruption. Prise de poids rapide ou essoufflement nouveau : appeler le médecin. Pas d'AINS.",
+  "medicamentsLies": [
+    "bisoprolol",
+    "furosemide",
+    "ramipril"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Insuffisance cardiaque : traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/insuffisance-cardiaque/traitement"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Insuffisance cardiaque : suivi médical et vie quotidienne",
+      "url": "https://www.ameli.fr/assure/sante/themes/insuffisance-cardiaque/suivi-medical-vie-quotidienne"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Cardensiel 10 mg (rubriques 4.1 à 4.5)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/66351548/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

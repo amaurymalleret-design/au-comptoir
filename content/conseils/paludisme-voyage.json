@@ -1,0 +1,101 @@
+{
+  "type": "conseil",
+  "slug": "paludisme-voyage",
+  "titre": "Paludisme : prévention avant un voyage",
+  "categorie": "quotidien",
+  "theme": "prevention",
+  "resume": "Protection contre les piqûres de moustiques pour tous, chimioprophylaxie selon la destination sur prescription, et toute fièvre dans les 3 mois après le retour impose une consultation en urgence.",
+  "motsCles": [
+    "voyage",
+    "zone tropicale",
+    "moustique",
+    "chimioprophylaxie",
+    "Malarone",
+    "doxycycline",
+    "répulsif"
+  ],
+  "introduction": "Le paludisme est transmis par la piqûre de moustiques actifs du coucher au lever du soleil. Aucun moyen de prévention n'est efficace à 100 %. Les recommandations sanitaires aux voyageurs du Haut Conseil de la santé publique (HCSP), mises à jour chaque année, fixent la conduite selon la destination, la durée et le type de séjour.",
+  "questions": [
+    "Destination exacte, dates, durée et conditions du séjour (zones rurales, nuits dehors) ?",
+    "Avez-vous déjà consulté un médecin ou un centre de vaccinations internationales ?",
+    "Âge, poids pour l'enfant, grossesse ou projet de grossesse ?",
+    "Insuffisance rénale, épilepsie, troubles psychiatriques, traitements en cours (anticoagulant…) ?",
+    "Exposition au soleil prévue (doxycycline photosensibilisante) ?"
+  ],
+  "alertes": [
+    "Fièvre pendant le séjour ou dans les 3 mois suivant le retour d'une zone d'endémie : consultation en urgence en signalant le voyage.",
+    "Femme enceinte, nourrisson, personne immunodéprimée : voyage en zone d'endémie à discuter avec un médecin.",
+    "Départ imminent sans avis médical pour une zone à risque élevé : orienter vers une consultation dès que possible."
+  ],
+  "conseils": [
+    "Se protéger des piqûres dès le coucher du soleil : vêtements longs et amples, répulsif cutané adapté à l'âge, moustiquaire imprégnée.",
+    "La chimioprophylaxie dépend de la destination : elle se décide en consultation et nécessite une ordonnance.",
+    "Prendre l'antipaludique à heure fixe et jusqu'au bout après le retour : 7 jours pour l'atovaquone-proguanil, 4 semaines pour la doxycycline.",
+    "Emporter une trousse avec thermomètre, répulsif, paracétamol et les traitements habituels en quantité suffisante.",
+    "Consulter les recommandations à jour du HCSP : les zones et les conduites changent."
+  ],
+  "produits": [
+    {
+      "nom": "Répulsifs cutanés",
+      "detail": "Choisir une substance et une concentration adaptées à l'âge et à la grossesse.",
+      "prudence": "Respecter le nombre d'applications par jour de la notice."
+    },
+    {
+      "nom": "Moustiquaire imprégnée",
+      "detail": "Protection la plus efficace la nuit, notamment pour les jeunes enfants."
+    },
+    {
+      "nom": "Atovaquone-proguanil",
+      "detail": "Chimioprophylaxie sur prescription : la veille ou le jour du départ, pendant le séjour et 7 jours après.",
+      "prudence": "Avec un repas ou une boisson lactée ; contre-indiqué si insuffisance rénale sévère."
+    },
+    {
+      "nom": "Doxycycline",
+      "detail": "Chimioprophylaxie sur prescription : la veille du départ, pendant le séjour et 4 semaines après.",
+      "prudence": "Photosensibilisante ; pas avant 8 ans ni à partir du 2e trimestre de grossesse."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Enfant",
+      "conduite": "Moustiquaire et répulsif adapté ; chimioprophylaxie adaptée au poids sur prescription."
+    },
+    {
+      "population": "Femme enceinte",
+      "conduite": "Voyage déconseillé en zone d'endémie ; si inévitable, avis médical spécialisé."
+    },
+    {
+      "population": "Personne originaire d'une zone d'endémie vivant en France",
+      "conduite": "N'est plus protégée : mêmes mesures que les autres voyageurs."
+    }
+  ],
+  "aRetenir": "Moustiquaire et répulsif pour tous, antipaludique selon la destination et jusqu'au bout après le retour. Fièvre dans les 3 mois : urgence.",
+  "medicamentsLies": [
+    "atovaquone-proguanil",
+    "doxycycline"
+  ],
+  "sources": [
+    {
+      "organisme": "Haut Conseil de la santé publique (HCSP)",
+      "titre": "Recommandations sanitaires aux voyageurs, édition 2026",
+      "url": "https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=1528"
+    },
+    {
+      "organisme": "Ministère de la Santé",
+      "titre": "Recommandations sanitaires pour les voyageurs",
+      "url": "https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/recommandations-sanitaires-pour-les-voyageurs"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Malarone 250 mg/100 mg (rubriques 4.1 à 4.3)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61638010/extrait"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Doxypalu 100 mg (rubriques 4.1 à 4.5)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63307856/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

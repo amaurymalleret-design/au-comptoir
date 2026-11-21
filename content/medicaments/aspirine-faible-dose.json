@@ -1,0 +1,93 @@
+{
+  "type": "medicament",
+  "slug": "aspirine-faible-dose",
+  "titre": "Aspirine à faible dose (antiagrégant)",
+  "dci": "acétylsalicylate de DL-lysine",
+  "specialiteReference": "Kardégic 75 mg, poudre pour solution buvable en sachet",
+  "classe": "Antiagrégant plaquettaire",
+  "delivrance": "Non listé ; traitement instauré par le médecin",
+  "resume": "Prévention cardiovasculaire après infarctus, AVC, stent ou artériopathie : 1 sachet par jour. Risque principal : saignements. Pas d'AINS en automédication ; signaler le traitement avant toute intervention, même dentaire.",
+  "motsCles": [
+    "kardégic",
+    "aspirine",
+    "antiagrégant",
+    "infarctus",
+    "stent"
+  ],
+  "rcp": {
+    "libelle": "RCP Kardégic 75 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64755969/extrait"
+  },
+  "indications": [
+    "Prévention des complications cardiovasculaires et cérébrovasculaires de l'athérosclérose chez les patients à haut risque ayant une maladie artérielle ischémique confirmée.",
+    "Réduction de l'occlusion des greffons après pontage aorto-coronaire.",
+    "Prévention des AVC en cas de fibrillation auriculaire quand un AVK est contre-indiqué ou non indiqué."
+  ],
+  "posologies": [
+    {
+      "indication": "Traitement d'entretien",
+      "population": "Adulte",
+      "dose": "1 sachet de 75 mg par jour",
+      "remarque": "Dissoudre dans un grand verre d'eau ; ce dosage n'est pas adapté aux situations d'urgence."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance rénale (clairance < 30 ml/min) ou hépatique sévère : contre-indiqué.",
+    "Sujet âgé, faible poids : risque de saignement digestif accru."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Saignements (nez, gencives, hématomes, selles noires)",
+      "frequence": "Fréquent",
+      "conduite": "Signaler ; selles noires ou vomissement de sang : urgence."
+    },
+    {
+      "effet": "Douleurs d'estomac, brûlures digestives",
+      "frequence": "Fréquent",
+      "conduite": "En parler au médecin."
+    },
+    {
+      "effet": "Bourdonnements d'oreille, vertiges",
+      "frequence": "Rapporté",
+      "conduite": "Consulter (surdosage possible)."
+    }
+  ],
+  "contreIndications": [
+    "Ulcère gastroduodénal en évolution, maladie ou risque hémorragique.",
+    "Asthme induit par l'aspirine ou les AINS, allergie aux AINS.",
+    "Insuffisance hépatique ou rénale sévère, insuffisance cardiaque sévère non contrôlée.",
+    "Mastocytose ; grossesse à partir du 6e mois pour des doses supérieures à 100 mg/j."
+  ],
+  "interactions": [
+    {
+      "avec": "Anticoagulants oraux (si antécédent d'ulcère), clopidogrel ou ticagrélor hors syndrome coronaire aigu",
+      "risque": "Associations déconseillées : risque hémorragique."
+    },
+    {
+      "avec": "AINS",
+      "risque": "Majoration du risque d'ulcère et de saignement digestif."
+    },
+    {
+      "avec": "Nicorandil, probénécide, anagrélide",
+      "risque": "Associations déconseillées."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Une prise par jour, sans interruption sans avis du cardiologue.",
+    "Pas d'ibuprofène ni autre AINS en automédication ; paracétamol en cas de douleur.",
+    "Prévenir le dentiste et le chirurgien : la durée d'arrêt éventuelle est décidée au cas par cas.",
+    "Allaitement déconseillé."
+  ],
+  "conseilsLies": [
+    "maladie-coronaire"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Kardégic 75 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64755969/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

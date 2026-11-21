@@ -1,0 +1,124 @@
+{
+  "type": "medicament",
+  "slug": "ramipril",
+  "titre": "Ramipril",
+  "dci": "ramipril",
+  "resume": "IEC de l'hypertension, de l'insuffisance cardiaque et de la néphroprotection. Toux sèche fréquente ; angio-œdème rare mais urgent.",
+  "specialiteReference": "Triatec 1,25 à 10 mg, comprimé sécable",
+  "classe": "Inhibiteur de l'enzyme de conversion (IEC)",
+  "delivrance": "Liste I, sur prescription",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "triatec",
+    "IEC",
+    "hypertension",
+    "tension",
+    "insuffisance cardiaque",
+    "toux"
+  ],
+  "rcp": {
+    "libelle": "RCP Triatec 5 mg, comprimé sécable (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63524315/extrait"
+  },
+  "indications": [
+    "Hypertension artérielle.",
+    "Prévention cardiovasculaire (maladie athérothrombotique avérée, ou diabète avec au moins un facteur de risque).",
+    "Néphropathie glomérulaire diabétique ou non diabétique.",
+    "Insuffisance cardiaque symptomatique ; post-infarctus avec signes d'insuffisance cardiaque."
+  ],
+  "posologies": [
+    {
+      "indication": "Hypertension",
+      "population": "Adulte",
+      "dose": "Début 2,5 mg/j, doublement possible toutes les 2 à 4 semaines ; maximum 10 mg/j en une prise",
+      "remarque": "1,25 mg si diurétique non arrêté ou système rénine-angiotensine très activé."
+    },
+    {
+      "indication": "Prévention cardiovasculaire",
+      "population": "Adulte",
+      "dose": "Début 2,5 mg/j, doubler après 1 à 2 semaines puis atteindre 10 mg/j après 2 à 3 semaines de plus"
+    },
+    {
+      "indication": "Néphropathie diabétique avec microalbuminurie",
+      "population": "Adulte",
+      "dose": "Début 1,25 mg/j, puis 2,5 mg après 2 semaines et 5 mg après 2 semaines de plus"
+    }
+  ],
+  "adaptations": [
+    "ClCr ≥ 60 mL/min : pas d'adaptation, maximum 10 mg/j.",
+    "ClCr 30–60 mL/min : dose initiale 2,5 mg/j, maximum 5 mg/j.",
+    "ClCr 10–30 mL/min : dose initiale 1,25 mg/j, maximum 5 mg/j.",
+    "Surveiller fonction rénale et kaliémie, surtout à l'instauration et en association aux diurétiques."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Toux sèche persistante",
+      "frequence": "Fréquent",
+      "conduite": "Ne pas la traiter par un sirop sans avis : en parler au médecin."
+    },
+    {
+      "effet": "Étourdissements, hypotension (surtout au lever ou à l'instauration)",
+      "frequence": "Fréquent",
+      "conduite": "Se lever progressivement ; signaler les malaises."
+    },
+    {
+      "effet": "Hyperkaliémie, altération de la fonction rénale",
+      "frequence": "Fréquent / peu fréquent",
+      "conduite": "Bilan sanguin selon le prescripteur ; éviter les AINS et les sels de régime au potassium."
+    },
+    {
+      "effet": "Angio-œdème : gonflement du visage, des lèvres, de la langue ou de la gorge",
+      "frequence": "Rare mais grave",
+      "conduite": "Appeler le 15 immédiatement."
+    }
+  ],
+  "contreIndications": [
+    "Antécédent d'angio-œdème (héréditaire, idiopathique, ou sous IEC ou sartan).",
+    "Grossesse aux 2e et 3e trimestres.",
+    "Association au sacubitril/valsartan ; à l'aliskiren chez le diabétique ou l'insuffisant rénal (DFG < 60).",
+    "Sténose bilatérale des artères rénales ou sur rein unique ; hypotension ou instabilité hémodynamique.",
+    "Hypersensibilité au ramipril ou à un autre IEC."
+  ],
+  "interactions": [
+    {
+      "avec": "AINS (y compris en automédication), aspirine à dose anti-inflammatoire",
+      "risque": "Baisse de l'effet antihypertenseur, risque d'insuffisance rénale et d'hyperkaliémie."
+    },
+    {
+      "avec": "Sels de potassium, diurétiques épargneurs de potassium, sartans, triméthoprime",
+      "risque": "Hyperkaliémie : surveillance de la kaliémie."
+    },
+    {
+      "avec": "Racécadotril (antidiarrhéique), vildagliptine, inhibiteurs de mTOR",
+      "risque": "Majoration du risque d'angio-œdème."
+    },
+    {
+      "avec": "Lithium",
+      "risque": "Augmentation de la lithémie (voir RCP 4.5)."
+    },
+    {
+      "avec": "Antidiabétiques, insuline",
+      "risque": "Hypoglycémies possibles : surveillance glycémique."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Une prise par jour, à heure fixe, avec un peu de liquide, sans croquer.",
+    "Pas d'ibuprofène ni de racécadotril en automédication sans avis.",
+    "En cas de diarrhée ou de vomissements importants (déshydratation) : contacter le médecin.",
+    "Femme en âge de procréer : prévenir le médecin en cas de projet ou de début de grossesse."
+  ],
+  "conseilsLies": [
+    "diarrhee-aigue",
+    "hypertension-arterielle",
+    "insuffisance-cardiaque",
+    "maladie-coronaire"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Triatec 5 mg, comprimé sécable (rubriques 4.1 à 4.5 et 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63524315/extrait"
+    }
+  ]
+}

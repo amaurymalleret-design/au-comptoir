@@ -1,0 +1,82 @@
+{
+  "type": "conseil",
+  "slug": "hypertension-arterielle",
+  "titre": "Hypertension artérielle",
+  "categorie": "chronique",
+  "theme": "metabo",
+  "resume": "Accompagner l'observance, l'automesure (règle des 3) et les mesures hygiéno-diététiques ; repérer les médicaments qui font monter la tension et les signes d'urgence.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "HTA",
+    "tension",
+    "automesure",
+    "tensiomètre",
+    "IEC",
+    "inhibiteur calcique",
+    "sel"
+  ],
+  "introduction": "L'hypertension artérielle est la première maladie chronique et un facteur de risque cardiovasculaire majeur. Selon la HAS, la moitié des patients traités n'atteignent pas l'objectif tensionnel. Le pharmacien participe au suivi : automesure, observance, tolérance et iatrogénie.",
+  "questions": [
+    "Quels traitements ? Pris tous les jours, à heure fixe ?",
+    "Automesure à domicile : quel appareil, quelles valeurs ?",
+    "Vertiges en se levant, chutes, œdèmes des chevilles, toux sèche ?",
+    "Automédication : AINS, décongestionnants nasaux (vasoconstricteurs), réglisse ?",
+    "Dernier bilan sanguin (créatinine, potassium) ?"
+  ],
+  "alertes": [
+    "Tension très élevée avec maux de tête intenses, douleur thoracique, essoufflement, troubles visuels ou neurologiques : appeler le 15.",
+    "Malaise, chutes ou vertiges en se levant (hypotension orthostatique).",
+    "Gonflement du visage ou de la langue sous IEC : urgence (angio-œdème).",
+    "Valeurs d'automesure régulièrement au-dessus de 135/85 mmHg : en parler au médecin."
+  ],
+  "conseils": [
+    "Automesure : appareil validé à brassard, assis au repos, 3 mesures le matin et 3 le soir, 3 jours de suite (règle des 3), noter les valeurs.",
+    "Prendre le traitement tous les jours, même sans symptôme ; ne pas l'arrêter sans avis.",
+    "Réduire le sel, l'alcool ; activité physique régulière ; arrêt du tabac ; perte de poids si besoin.",
+    "Éviter les AINS et les décongestionnants vasoconstricteurs sans avis.",
+    "Se lever progressivement en cas de vertiges."
+  ],
+  "produits": [
+    {
+      "nom": "Tensiomètre automatique à brassard huméral",
+      "detail": "Choisir un appareil validé ; adapter la taille du brassard."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Rechercher l'hypotension orthostatique et le risque de chute ; vigilance en cas de déshydratation (diurétiques, IEC, sartans)."
+    },
+    {
+      "population": "Femme enceinte ou projet de grossesse",
+      "conduite": "Certains antihypertenseurs (IEC, sartans) sont contre-indiqués : avis médical rapide."
+    },
+    {
+      "population": "Patient diabétique ou insuffisant rénal",
+      "conduite": "IEC ou sartan souvent préférés ; surveillance biologique plus fréquente."
+    }
+  ],
+  "aRetenir": "Tous les jours, règle des 3, moins de sel. Pas d'AINS ni de vasoconstricteur sans avis.",
+  "medicamentsLies": [
+    "amlodipine",
+    "ramipril"
+  ],
+  "sources": [
+    {
+      "organisme": "HAS",
+      "titre": "Prise en charge de l'hypertension artérielle de l'adulte (fiche mémo HAS-SFHTA)",
+      "url": "https://www.has-sante.fr/jcms/c_2059286/fr/prise-en-charge-de-l-hypertension-arterielle-de-l-adulte"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Amlor 5 mg",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63458349/extrait"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Triatec 5 mg",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63524315/extrait"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "conseil",
+  "slug": "rhinite-allergique",
+  "titre": "Rhinite allergique",
+  "categorie": "quotidien",
+  "theme": "orl",
+  "resume": "Éternuements, nez qui coule et yeux qui piquent à la même saison : antihistaminique, lavage de nez, éviction. Orienter si gêne respiratoire, sifflements ou premier épisode chez l'enfant.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "rhume des foins",
+    "pollen",
+    "allergie",
+    "antihistaminique",
+    "éternuements",
+    "conjonctivite allergique"
+  ],
+  "introduction": "La rhinite allergique associe éternuements en salve, écoulement clair, nez bouché et démangeaisons, souvent avec les yeux qui piquent. Elle revient à la même saison (pollens) ou toute l'année (acariens, animaux). Elle est souvent associée à l'asthme, qu'il faut rechercher.",
+  "questions": [
+    "Symptômes chaque année à la même période ? Exposition à un animal, à la poussière ?",
+    "Yeux qui piquent ou qui pleurent ?",
+    "Toux, sifflements, gêne pour respirer, surtout la nuit ou à l'effort ?",
+    "Fièvre, écoulement coloré, douleurs de la face (penser plutôt à une infection) ?",
+    "Déjà diagnostiquée par un médecin ? Traitements déjà essayés ?"
+  ],
+  "alertes": [
+    "Toux, sifflements, essoufflement : rechercher un asthme, consultation.",
+    "Premier épisode chez l'enfant, ou diagnostic incertain.",
+    "Symptômes persistants malgré le traitement, retentissement sur le sommeil ou le travail.",
+    "Écoulement d'un seul côté, saignements de nez répétés.",
+    "Gonflement du visage, de la langue ou difficultés respiratoires : urgence."
+  ],
+  "conseils": [
+    "Lavage de nez au sérum physiologique, surtout après une exposition.",
+    "Aérer tôt le matin ou le soir, fenêtres fermées en voiture, se rincer les cheveux le soir en saison pollinique.",
+    "Consulter le bulletin pollinique et adapter ses activités extérieures.",
+    "Pour les acariens : housses, lavage de la literie à 60 °C, chambre peu encombrée."
+  ],
+  "produits": [
+    {
+      "nom": "Antihistaminique H1 oral (cétirizine…)",
+      "detail": "Une prise par jour chez l'adulte.",
+      "prudence": "Somnolence possible ; adaptation si insuffisance rénale."
+    },
+    {
+      "nom": "Corticoïde nasal",
+      "detail": "Efficace sur le nez bouché, en traitement de saison.",
+      "prudence": "Selon le statut de délivrance et l'âge prévus par le RCP."
+    },
+    {
+      "nom": "Collyre antiallergique",
+      "detail": "Pour les yeux qui piquent."
+    },
+    {
+      "nom": "Sérum physiologique",
+      "detail": "Lavage de nez."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Enfant",
+      "conduite": "Formes pédiatriques adaptées à l'âge ; avis médical pour un premier épisode."
+    },
+    {
+      "population": "Femme enceinte ou qui allaite",
+      "conduite": "Avis médical avant un antihistaminique ; lavage de nez en 1re intention."
+    },
+    {
+      "population": "Patient asthmatique",
+      "conduite": "Traiter la rhinite améliore l'asthme ; vérifier le contrôle de l'asthme."
+    }
+  ],
+  "aRetenir": "Antihistaminique, lavage de nez, éviction. Sifflements ou essoufflement : chercher un asthme.",
+  "medicamentsLies": [
+    "cetirizine",
+    "cromoglicate-collyre"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Rhinite allergique et rhume des foins : diagnostic et traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/rhinite-allergique-et-rhume-des-foins/rhinite-allergique-et-rhume-des-foins-diagnostic-et-traitement"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Traitement de l'allergie",
+      "url": "https://www.ameli.fr/assure/sante/themes/allergie/traitement-allergie"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Zyrtecset 10 mg",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64949486/extrait"
+    }
+  ]
+}

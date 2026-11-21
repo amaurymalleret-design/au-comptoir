@@ -1,0 +1,89 @@
+{
+  "type": "medicament",
+  "slug": "tamsulosine",
+  "titre": "Tamsulosine",
+  "dci": "tamsulosine (chlorhydrate)",
+  "specialiteReference": "Omix LP 0,4 mg, gélule à libération prolongée",
+  "classe": "Alpha-1 bloquant urologique",
+  "delivrance": "Sur prescription médicale",
+  "resume": "Adénome de la prostate : 1 gélule par jour à heure fixe, de préférence après le petit déjeuner, avalée entière. Risque d'hypotension en se levant et de troubles de l'éjaculation ; prévenir l'ophtalmologiste avant une chirurgie de la cataracte.",
+  "motsCles": [
+    "omix",
+    "prostate",
+    "adénome",
+    "uriner la nuit"
+  ],
+  "rcp": {
+    "libelle": "RCP Omix LP 0,4 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63729537/extrait"
+  },
+  "indications": [
+    "Traitement des symptômes fonctionnels de l'hypertrophie bénigne de la prostate."
+  ],
+  "posologies": [
+    {
+      "indication": "Hypertrophie bénigne de la prostate",
+      "population": "Homme adulte et sujet âgé",
+      "dose": "1 gélule de 0,4 mg par jour",
+      "remarque": "À heure fixe, de préférence à la fin du petit déjeuner ; avaler sans croquer ni mâcher."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance rénale ou hépatique légère à modérée : pas d'adaptation ; contre-indiqué si insuffisance hépatique sévère.",
+    "Plus de 65 ans : attention à l'hypotension orthostatique."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Étourdissements, malaise en se levant",
+      "frequence": "Fréquent",
+      "conduite": "S'allonger jusqu'à disparition ; se lever lentement."
+    },
+    {
+      "effet": "Troubles de l'éjaculation (diminution ou absence d'éjaculat)",
+      "frequence": "Fréquent",
+      "conduite": "Bénin ; en parler au médecin si gênant."
+    },
+    {
+      "effet": "Gonflement du visage, des lèvres ou de la gorge",
+      "frequence": "Rare",
+      "conduite": "Arrêter et consulter en urgence."
+    }
+  ],
+  "contreIndications": [
+    "Antécédent d'hypotension orthostatique.",
+    "Antécédent d'angio-œdème sous tamsulosine.",
+    "Insuffisance hépatique sévère."
+  ],
+  "interactions": [
+    {
+      "avec": "Autres alpha-1 bloquants",
+      "risque": "Association déconseillée : hypotension."
+    },
+    {
+      "avec": "Antihypertenseurs, inhibiteurs calciques",
+      "risque": "Risque d'hypotension sévère."
+    },
+    {
+      "avec": "Inhibiteurs puissants du CYP3A4 (kétoconazole…)",
+      "risque": "Hausse des concentrations : prudence."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Prendre chaque jour à la même heure, après le petit déjeuner.",
+    "Se lever progressivement, surtout en début de traitement.",
+    "Signaler le traitement avant toute chirurgie de la cataracte ou du glaucome.",
+    "Brûlures, sang dans les urines, fièvre ou impossibilité d'uriner : consulter."
+  ],
+  "conseilsLies": [
+    "hypertrophie-prostate"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Omix LP 0,4 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/63729537/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

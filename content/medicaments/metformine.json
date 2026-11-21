@@ -1,0 +1,57 @@
+{
+  "type": "medicament",
+  "slug": "metformine",
+  "titre": "Metformine",
+  "dci": "chlorhydrate de metformine",
+  "resume": "Antidiabétique de 1re intention du diabète de type 2 (HAS 2024). Dose adaptée au DFG ; troubles digestifs fréquents à l'instauration.",
+  "specialiteReference": "Glucophage 500, 850 et 1000 mg",
+  "classe": "Antidiabétique oral, biguanide",
+  "delivrance": "Liste I, sur prescription",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["glucophage", "stagid", "diabète", "biguanide", "antidiabétique"],
+  "rcp": { "libelle": "RCP Glucophage 1000 mg, comprimé pelliculé sécable (BDPM)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61052830/extrait" },
+  "indications": [
+    "Diabète de type 2, en particulier en cas de surcharge pondérale, quand régime et activité physique ne suffisent pas : en monothérapie ou en association (adulte) ; chez l'enfant de plus de 10 ans en monothérapie ou avec l'insuline."
+  ],
+  "posologies": [
+    { "indication": "Diabète de type 2", "population": "Adulte, DFG ≥ 90 mL/min", "dose": "Début : 500 ou 850 mg, 2 à 3 fois par jour, au cours ou à la fin des repas ; adaptation après 10 à 15 jours ; maximum 3 g/j en 3 prises", "remarque": "L'augmentation progressive améliore la tolérance digestive." },
+    { "indication": "Diabète de type 2", "population": "Enfant > 10 ans et adolescent", "dose": "Début : 500 ou 850 mg une fois par jour ; maximum 2 g/j en 2 ou 3 prises" }
+  ],
+  "adaptations": [
+    "DFG 60–89 mL/min : maximum 3000 mg/j.",
+    "DFG 45–59 mL/min : maximum 2000 mg/j (dose d'initiation ≤ la moitié du maximum).",
+    "DFG 30–44 mL/min : maximum 1000 mg/j.",
+    "DFG < 30 mL/min : contre-indiquée.",
+    "Contrôler le DFG avant l'instauration puis au moins une fois par an (tous les 3 à 6 mois chez le sujet âgé ou si risque d'aggravation)."
+  ],
+  "effetsAnnoncer": [
+    { "effet": "Nausées, vomissements, diarrhée, douleurs abdominales, perte d'appétit", "frequence": "Très fréquent, surtout au début", "conduite": "Prendre pendant ou à la fin du repas ; régressent le plus souvent spontanément." },
+    { "effet": "Goût métallique", "frequence": "Fréquent", "conduite": "Bénin." },
+    { "effet": "Carence en vitamine B12", "frequence": "Fréquent", "conduite": "Signaler fourmillements, fatigue ; dosage possible." },
+    { "effet": "Acidose lactique (crampes, douleurs abdominales, essoufflement, malaise)", "frequence": "Très rare mais grave", "conduite": "Arrêter et consulter en urgence. Risque accru en cas de déshydratation, vomissements, infection grave." }
+  ],
+  "contreIndications": [
+    "Acidose métabolique aiguë (acidose lactique, acidocétose), précoma diabétique.",
+    "Insuffisance rénale sévère (DFG < 30 mL/min).",
+    "Affection aiguë pouvant altérer la fonction rénale : déshydratation, infection grave, choc.",
+    "Maladie pouvant entraîner une hypoxie tissulaire : insuffisance cardiaque décompensée, insuffisance respiratoire, infarctus récent, choc.",
+    "Insuffisance hépatocellulaire, intoxication alcoolique aiguë, alcoolisme."
+  ],
+  "interactions": [
+    { "avec": "Produits de contraste iodés", "risque": "Association déconseillée : arrêter la metformine avant ou au moment de l'examen, reprendre au moins 48 h après si la fonction rénale est stable." },
+    { "avec": "Alcool", "risque": "Association déconseillée : risque accru d'acidose lactique." },
+    { "avec": "AINS, IEC, sartans, diurétiques", "risque": "Altération possible de la fonction rénale : surveillance étroite." },
+    { "avec": "Corticoïdes, sympathomimétiques", "risque": "Effet hyperglycémiant : contrôles glycémiques plus fréquents." }
+  ],
+  "conseilsDelivrance": [
+    "Prendre au cours ou à la fin des repas.",
+    "En cas de gastro-entérite, vomissements ou forte fièvre avec déshydratation : contacter le médecin, la metformine peut devoir être suspendue.",
+    "Signaler la metformine avant tout examen avec injection de produit de contraste."
+  ],
+  "conseilsLies": ["diabete-type-2"],
+  "sources": [
+    { "organisme": "ANSM / BDPM", "titre": "RCP Glucophage 1000 mg (rubriques 4.1 à 4.5 et 4.8)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61052830/extrait" },
+    { "organisme": "HAS", "titre": "Stratégie thérapeutique du patient vivant avec un diabète de type 2 (2024)", "url": "https://www.has-sante.fr/jcms/p_3191108/fr/strategie-therapeutique-du-patient-vivant-avec-un-diabete-de-type-2" }
+  ]
+}

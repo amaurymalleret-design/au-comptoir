@@ -1,0 +1,45 @@
+{
+  "type": "conseil",
+  "slug": "brulures-estomac",
+  "titre": "Brûlures d'estomac et reflux",
+  "categorie": "quotidien",
+  "theme": "digestif",
+  "resume": "Mesures hygiéno-diététiques, antiacides et alginates pour les symptômes occasionnels ; IPP en cure courte. Orienter devant tout signe d'alarme.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["RGO", "reflux", "pyrosis", "aigreurs", "IPP", "alginate", "antiacide"],
+  "introduction": "Le reflux gastro-œsophagien (RGO) se manifeste par des brûlures qui remontent derrière le sternum et des régurgitations acides. Les symptômes occasionnels relèvent du conseil ; les symptômes fréquents, persistants ou atypiques imposent un avis médical.",
+  "questions": [
+    "Fréquence des symptômes ? Depuis quand ? Déjà traité ?",
+    "Difficulté ou douleur pour avaler, vomissements, sang, selles noires, amaigrissement ?",
+    "Âge (premiers symptômes après 50–60 ans) ? Grossesse ?",
+    "Traitements en cours : AINS, aspirine, anticoagulant, bisphosphonate, lévothyroxine ?"
+  ],
+  "alertes": [
+    "Difficulté à avaler, vomissements répétés, anémie, sang dans les vomissements ou selles noires.",
+    "Amaigrissement inexpliqué.",
+    "Premiers symptômes après 50–60 ans.",
+    "Douleur thoracique à l'effort ou atypique (penser au cœur).",
+    "Symptômes persistants malgré 4 semaines de traitement, ou rechute rapide à l'arrêt."
+  ],
+  "conseils": [
+    "Éviter les repas copieux et gras, l'alcool, le tabac ; ne pas se coucher dans les 2 à 3 h après le repas.",
+    "Surélever la tête du lit si les symptômes sont nocturnes.",
+    "Perdre du poids en cas de surpoids ; éviter les vêtements serrés à la taille.",
+    "Repérer les médicaments qui irritent (AINS, aspirine)."
+  ],
+  "produits": [
+    { "nom": "Alginates, antiacides", "detail": "Symptômes occasionnels, soulagement rapide, après les repas et au coucher.", "prudence": "Espacer de 2 h des autres médicaments (lévothyroxine, fer…)." },
+    { "nom": "IPP en automédication (oméprazole, ésoméprazole…)", "detail": "Cure courte pour des symptômes récidivants chez l'adulte ; avis médical si pas d'amélioration.", "prudence": "Interaction avec le clopidogrel (oméprazole déconseillé). Réévaluer tout usage prolongé." }
+  ],
+  "populations": [
+    { "population": "Femme enceinte", "conduite": "Mesures hygiéno-diététiques, alginates ; avis médical pour tout autre traitement." },
+    { "population": "Patient sous AINS ou aspirine", "conduite": "Les brûlures peuvent révéler une lésion digestive : orienter." }
+  ],
+  "aRetenir": "Occasionnel : conseils + alginate. Fréquent, persistant ou signe d'alarme : médecin.",
+  "medicamentsLies": ["omeprazole", "levothyroxine"],
+  "sources": [
+    { "organisme": "Assurance Maladie (ameli)", "titre": "Diagnostic et traitement du reflux gastro-œsophagien de l'adulte", "url": "https://www.ameli.fr/assure/sante/themes/rgo-adulte/diagnostic-traitements" },
+    { "organisme": "ANSM / BDPM", "titre": "RCP Mopral 20 mg (RGO symptomatique, rubrique 4.2 ; clopidogrel, 4.4–4.5)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64103828/extrait" }
+  ]
+}

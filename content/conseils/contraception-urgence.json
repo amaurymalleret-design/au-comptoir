@@ -1,0 +1,92 @@
+{
+  "type": "conseil",
+  "slug": "contraception-urgence",
+  "titre": "Contraception d'urgence",
+  "categorie": "quotidien",
+  "theme": "uro",
+  "resume": "Délivrance gratuite, sans ordonnance et anonyme possible. Lévonorgestrel jusqu'à 72 h, ulipristal jusqu'à 120 h ; le DIU au cuivre reste l'option la plus efficace.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "pilule du lendemain",
+    "norlevo",
+    "ellaone",
+    "rapport non protégé",
+    "oubli de pilule",
+    "préservatif rompu"
+  ],
+  "introduction": "La contraception d'urgence hormonale est délivrée en pharmacie gratuitement et sans ordonnance, à toutes les femmes sans condition d'âge, de façon anonyme si besoin pour les mineures. Plus elle est prise tôt, plus elle est efficace. Le DIU au cuivre, posé par un médecin ou une sage-femme, est une alternative jusqu'à 5 jours.",
+  "questions": [
+    "Quand a eu lieu le rapport non protégé ? Y en a-t-il eu d'autres depuis les dernières règles ?",
+    "Date des dernières règles ? Règles en retard ?",
+    "Contraception habituelle (pilule oubliée, laquelle) ?",
+    "Traitements en cours : inducteurs enzymatiques (antiépileptiques, rifampicine, millepertuis…), IPP ?",
+    "Allaitement ?"
+  ],
+  "alertes": [
+    "Retard de règles de plus de 5 jours, saignements inhabituels ou signes de grossesse après la prise : test de grossesse.",
+    "Douleurs pelviennes intenses ou saignements après la prise (grossesse extra-utérine à évoquer).",
+    "Rapport non protégé datant de plus de 5 jours.",
+    "Violence sexuelle : orienter vers une prise en charge médicale et un dépistage."
+  ],
+  "conseils": [
+    "Prendre le comprimé immédiatement au comptoir si possible.",
+    "Utiliser des préservatifs jusqu'aux règles suivantes.",
+    "Ne pas utiliser lévonorgestrel et ulipristal dans le même cycle.",
+    "Proposer un dépistage des IST et une consultation pour une contraception régulière.",
+    "Après ulipristal, la reprise d'une contraception hormonale peut diminuer son efficacité : préservatifs en complément."
+  ],
+  "produits": [
+    {
+      "nom": "Lévonorgestrel 1,5 mg",
+      "detail": "Jusqu'à 72 h après le rapport, idéalement dans les 12 h.",
+      "prudence": "Inducteurs enzymatiques : DIU au cuivre ou double dose."
+    },
+    {
+      "nom": "Ulipristal acétate 30 mg",
+      "detail": "Jusqu'à 120 h après le rapport.",
+      "prudence": "Efficacité réduite avec les IPP et les inducteurs ; allaitement suspendu une semaine."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Mineure",
+      "conduite": "Délivrance gratuite et anonyme possible ; pas besoin de l'accord des parents."
+    },
+    {
+      "population": "Femme qui allaite",
+      "conduite": "Lévonorgestrel : ne pas allaiter 8 h. Ulipristal : pas d'allaitement pendant une semaine."
+    },
+    {
+      "population": "Femme sous inducteur enzymatique",
+      "conduite": "Préférer le DIU au cuivre ; à défaut, lévonorgestrel à double dose."
+    }
+  ],
+  "aRetenir": "Le plus tôt possible. 72 h lévonorgestrel, 120 h ulipristal. Gratuit, sans ordonnance. Préservatif jusqu'aux règles.",
+  "medicamentsLies": [
+    "levonorgestrel",
+    "ulipristal"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Contraception d'urgence hormonale gratuite en pharmacie",
+      "url": "https://www.ameli.fr/assure/sante/themes/contraception-urgence/contraception-urgence-gratuite"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Contraception : délivrance en pharmacie (espace pharmacien)",
+      "url": "https://www.ameli.fr/pharmacien/exercice-professionnel/delivrance-produits-sante/regles-delivrance-prise-charge/delivrance-contraception"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Norlevo 1,5 mg",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60812935/extrait"
+    },
+    {
+      "organisme": "EMA",
+      "titre": "RCP ellaOne",
+      "url": "https://www.ema.europa.eu/fr/documents/product-information/ellaone-epar-product-information_fr.pdf"
+    }
+  ]
+}

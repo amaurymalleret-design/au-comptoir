@@ -1,0 +1,68 @@
+{
+  "type": "medicament",
+  "slug": "terbinafine-creme",
+  "titre": "Terbinafine crème",
+  "dci": "terbinafine (chlorhydrate)",
+  "specialiteReference": "Lamisilate 1 %, crème",
+  "classe": "Antifongique local",
+  "delivrance": "Sans ordonnance",
+  "resume": "Pied d'athlète : une application par jour pendant une semaine, sur peau lavée et bien séchée, dès 12 ans. Ne traite pas les mycoses des ongles.",
+  "motsCles": [
+    "lamisilate",
+    "mycose",
+    "pied d'athlète",
+    "intertrigo"
+  ],
+  "rcp": {
+    "libelle": "RCP Lamisilate 1 %, crème (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62128850/extrait"
+  },
+  "indications": [
+    "Intertrigo interdigito-plantaire (pied d'athlète)."
+  ],
+  "posologies": [
+    {
+      "indication": "Pied d'athlète",
+      "population": "Adulte et enfant de plus de 12 ans",
+      "dose": "1 application par jour pendant 1 semaine",
+      "remarque": "Couche mince, massage léger, après lavage et séchage soigneux."
+    }
+  ],
+  "adaptations": [
+    "Moins de 12 ans : déconseillé.",
+    "Grossesse et allaitement : à éviter par précaution ; pas de contact du nourrisson avec la zone traitée."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Desquamation, démangeaisons",
+      "frequence": "Fréquent",
+      "conduite": "Bénin ; consulter si irritation importante."
+    },
+    {
+      "effet": "Rougeur, brûlure au point d'application",
+      "frequence": "Peu fréquent",
+      "conduite": "Arrêter si intolérance."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité à la terbinafine ou à un excipient."
+  ],
+  "interactions": [],
+  "conseilsDelivrance": [
+    "Appliquer aussi entre tous les orteils et poursuivre la semaine complète même si l'aspect s'améliore.",
+    "Éviter le contact avec les yeux.",
+    "Ongle atteint (épaissi, jaune) : la crème ne suffit pas, consulter."
+  ],
+  "conseilsLies": [
+    "mycose-pied"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Lamisilate 1 %, crème (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62128850/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

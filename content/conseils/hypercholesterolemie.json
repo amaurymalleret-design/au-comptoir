@@ -1,0 +1,68 @@
+{
+  "type": "conseil",
+  "slug": "hypercholesterolemie",
+  "titre": "Cholestérol élevé",
+  "categorie": "chronique",
+  "theme": "metabo",
+  "resume": "Alimentation, activité physique et arrêt du tabac sont la base ; statine si nécessaire, à prendre tous les jours. Douleurs musculaires inexpliquées sous statine : le signaler. Pas de pamplemousse en grande quantité avec certaines statines.",
+  "motsCles": [
+    "cholestérol",
+    "LDL",
+    "statine",
+    "triglycérides",
+    "athérosclérose"
+  ],
+  "introduction": "L'excès de cholestérol (surtout du LDL-cholestérol) favorise l'athérosclérose et les maladies cardiovasculaires. Il ne donne aucun symptôme. Le traitement associe des mesures d'hygiène de vie et, selon le risque cardiovasculaire, un médicament, le plus souvent une statine.",
+  "questions": [
+    "Un traitement a-t-il été prescrit ? Le prenez-vous tous les jours ?",
+    "Douleurs ou faiblesse musculaires depuis le début du traitement ?",
+    "Autres facteurs de risque : tabac, diabète, hypertension, antécédents familiaux ?",
+    "Prenez-vous d'autres médicaments ou de la levure de riz rouge ?"
+  ],
+  "alertes": [
+    "Douleurs musculaires intenses, faiblesse, urines foncées sous statine : consulter rapidement.",
+    "Douleur thoracique, essoufflement, trouble de la parole ou faiblesse d'un côté : appeler le 15."
+  ],
+  "conseils": [
+    "Réduire les graisses saturées (charcuterie, fromages, beurre, viandes grasses) ; privilégier poissons, huiles végétales, fruits, légumes et légumes secs.",
+    "Activité physique régulière ; perte de poids si besoin.",
+    "Arrêter le tabac, limiter l'alcool.",
+    "Prendre la statine chaque jour, sans l'arrêter si le bilan s'améliore.",
+    "Ne pas associer de levure de riz rouge à une statine sans avis."
+  ],
+  "produits": [
+    {
+      "nom": "Levure de riz rouge",
+      "detail": "Complément alimentaire contenant une substance proche d'une statine.",
+      "prudence": "Mêmes effets indésirables ; à ne pas associer à une statine."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Femme en âge de procréer sous statine",
+      "conduite": "Contraception ; projet de grossesse à discuter avec le médecin."
+    },
+    {
+      "population": "Patient polymédiqué",
+      "conduite": "Vérifier les interactions (certains antibiotiques et antifongiques avec les statines)."
+    }
+  ],
+  "aRetenir": "Hygiène de vie + statine quotidienne si prescrite. Douleurs musculaires : le signaler.",
+  "medicamentsLies": [
+    "atorvastatine"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Cholestérol et/ou triglycérides élevés : quel traitement ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/trop-cholesterol-triglycerides-dans-sang-dyslipidemie/traitement"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Trop de cholestérol et/ou de triglycérides dans le sang",
+      "url": "https://www.ameli.fr/assure/sante/themes/trop-cholesterol-triglycerides-dans-sang-dyslipidemie"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

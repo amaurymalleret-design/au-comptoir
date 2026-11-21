@@ -1,0 +1,97 @@
+{
+  "type": "medicament",
+  "slug": "allopurinol",
+  "titre": "Allopurinol",
+  "dci": "allopurinol",
+  "specialiteReference": "Zyloric 100, 200 et 300 mg, comprimé",
+  "classe": "Hypo-uricémiant, inhibiteur de la xanthine oxydase",
+  "delivrance": "Liste I, sur prescription médicale",
+  "resume": "Goutte récidivante et hyperuricémie symptomatique : début à 100 mg/j, augmenté tous les 1 à 2 mois pour viser une uricémie < 420 µmol/l. Jamais pendant une crise ; colchicine associée les 6 premiers mois. Arrêt immédiat à la moindre éruption.",
+  "motsCles": [
+    "zyloric",
+    "goutte",
+    "acide urique",
+    "hyperuricémie"
+  ],
+  "rcp": {
+    "libelle": "RCP Zyloric 100 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64148136/extrait"
+  },
+  "indications": [
+    "Goutte : goutte tophacée, crises récidivantes, arthropathie uratique.",
+    "Hyperuricémies symptomatiques primitives ou secondaires.",
+    "Traitement et prévention de la lithiase urique ; prévention de la lithiase calcique chez l'hyperuricémique."
+  ],
+  "posologies": [
+    {
+      "indication": "Goutte, hyperuricémie",
+      "population": "Adulte",
+      "dose": "100 mg/j au départ, puis augmentation tous les 1 à 2 mois",
+      "remarque": "Objectif : uricémie < 420 µmol/l (70 mg/l) ; 100 à 200 mg/j dans les cas légers, 300 à 600 mg/j dans les cas modérés."
+    },
+    {
+      "indication": "Insuffisance rénale",
+      "population": "Adulte",
+      "dose": "200 mg/j max si clairance 40-80 ml/min ; 100 mg/j si 20-40 ; 100 mg un jour sur deux si < 20",
+      "remarque": "Après les repas, avec un grand verre d'eau."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance hépatique : doses réduites.",
+    "Enfant de moins de 6 ans : forme non adaptée."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Éruption cutanée",
+      "frequence": "Fréquent",
+      "conduite": "Arrêter immédiatement et consulter : peut annoncer une réaction grave."
+    },
+    {
+      "effet": "Réactions graves (Stevens-Johnson, DRESS : fièvre, éruption, ganglions)",
+      "frequence": "Rare",
+      "conduite": "Urgence ; ne jamais reprendre le traitement."
+    },
+    {
+      "effet": "Nausées, diarrhée, douleurs épigastriques",
+      "frequence": "Peu fréquent",
+      "conduite": "Prendre après les repas."
+    }
+  ],
+  "contreIndications": [
+    "Association à l'azathioprine ou à la mercaptopurine.",
+    "Enfant de moins de 6 ans (forme comprimé).",
+    "Hypersensibilité à l'allopurinol."
+  ],
+  "interactions": [
+    {
+      "avec": "Azathioprine, mercaptopurine",
+      "risque": "Contre-indiqué : toxicité médullaire pouvant être mortelle."
+    },
+    {
+      "avec": "Amoxicilline, ampicilline",
+      "risque": "Risque accru d'éruption cutanée."
+    },
+    {
+      "avec": "Diurétiques (thiazidiques surtout), IEC",
+      "risque": "Risque accru de réactions d'hypersensibilité, surtout en insuffisance rénale."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Ne jamais commencer pendant une crise de goutte ; ne pas l'arrêter pendant une crise si déjà en place.",
+    "Colchicine ou AINS à faible dose associés pendant les 6 premiers mois pour prévenir les crises.",
+    "Bien boire ; l'hyperuricémie sans symptôme n'est pas une indication.",
+    "Toute éruption impose l'arrêt immédiat et un avis médical."
+  ],
+  "conseilsLies": [
+    "goutte"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Zyloric 100 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64148136/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

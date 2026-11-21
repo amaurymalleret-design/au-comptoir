@@ -1,0 +1,86 @@
+{
+  "type": "medicament",
+  "slug": "clopidogrel",
+  "titre": "Clopidogrel",
+  "dci": "clopidogrel",
+  "specialiteReference": "Plavix et génériques (Clopidogrel Biogaran 75 mg, comprimé pelliculé)",
+  "classe": "Antiagrégant plaquettaire",
+  "delivrance": "Sur prescription médicale",
+  "resume": "Prévention après infarctus, AVC ou artériopathie, souvent associé à l'aspirine après un stent : 75 mg une fois par jour. Saignements à surveiller ; éviter l'oméprazole et l'ésoméprazole ; arrêt éventuel 7 jours avant une chirurgie, sur avis.",
+  "motsCles": [
+    "plavix",
+    "antiagrégant",
+    "stent",
+    "infarctus",
+    "AVC"
+  ],
+  "rcp": {
+    "libelle": "RCP Clopidogrel Biogaran 75 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68045849/extrait"
+  },
+  "indications": [
+    "Prévention secondaire après infarctus récent, AVC ischémique récent ou artériopathie des membres inférieurs.",
+    "Syndrome coronaire aigu et AIT ou AVC mineur, en association à l'aspirine.",
+    "Fibrillation auriculaire, avec l'aspirine, si un AVK est impossible et le risque de saignement faible."
+  ],
+  "posologies": [
+    {
+      "indication": "Toutes indications (entretien)",
+      "population": "Adulte",
+      "dose": "75 mg une fois par jour",
+      "remarque": "Dose de charge de 300 ou 600 mg à l'instauration dans certaines indications ; durée de l'association à l'aspirine fixée par le cardiologue ou le neurologue."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance hépatique sévère : contre-indiqué."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Saignements (hématomes, saignement de nez, saignement digestif)",
+      "frequence": "Fréquent",
+      "conduite": "Signaler ; saignement important ou selles noires : urgence."
+    },
+    {
+      "effet": "Diarrhée, douleurs abdominales, digestion difficile",
+      "frequence": "Fréquent",
+      "conduite": "En parler au médecin si persistant."
+    }
+  ],
+  "contreIndications": [
+    "Insuffisance hépatique sévère.",
+    "Saignement évolutif (ulcère, hémorragie intracrânienne).",
+    "Hypersensibilité au clopidogrel."
+  ],
+  "interactions": [
+    {
+      "avec": "Oméprazole, ésoméprazole",
+      "risque": "Association déconseillée : baisse d'efficacité du clopidogrel (le pantoprazole peut être utilisé)."
+    },
+    {
+      "avec": "Anticoagulants oraux",
+      "risque": "Association non recommandée : saignements plus intenses."
+    },
+    {
+      "avec": "AINS, ISRS",
+      "risque": "Risque hémorragique accru : prudence."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Oubli : prendre la dose si moins de 12 heures de retard, sinon attendre la suivante sans doubler.",
+    "Ne jamais arrêter sans avis, surtout après la pose d'un stent.",
+    "Prévenir médecins et dentistes avant toute intervention ; arrêt éventuel 7 jours avant, sur décision médicale.",
+    "Pas d'automédication par AINS ; vérifier l'inhibiteur de la pompe à protons associé."
+  ],
+  "conseilsLies": [
+    "maladie-coronaire"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Clopidogrel Biogaran 75 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68045849/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

@@ -1,0 +1,97 @@
+{
+  "type": "conseil",
+  "slug": "entorse-cheville",
+  "titre": "Entorse de la cheville",
+  "categorie": "quotidien",
+  "theme": "douleur",
+  "resume": "Arrêter l'activité, froid, compression douce, jambe surélevée, et consulter dans les 24 heures. Impossibilité de faire quelques pas ou douleur osseuse : radio nécessaire.",
+  "motsCles": [
+    "foulure",
+    "cheville",
+    "glace",
+    "traumatisme",
+    "sport",
+    "strapping"
+  ],
+  "introduction": "L'entorse est une lésion des ligaments, le plus souvent du ligament latéral externe de la cheville, lors d'un mouvement de torsion. Sa gravité va de la simple élongation à la rupture. Selon l'Assurance Maladie, il faut consulter dans les 24 heures pour évaluer la gravité et écarter une fracture.",
+  "questions": [
+    "Comment est-ce arrivé ? Craquement entendu ?",
+    "Pouvez-vous poser le pied et faire quelques pas ?",
+    "Gonflement important, hématome, déformation ?",
+    "Douleur en appuyant sur l'os (malléole, pied) ?",
+    "Traitements en cours (anticoagulant), âge, grossesse ?"
+  ],
+  "alertes": [
+    "Impossibilité de faire quelques pas, douleur à la pression des os de la cheville ou du pied : radiographie nécessaire.",
+    "Déformation, craquement, gonflement immédiat très important : consultation rapide.",
+    "Pied froid, pâle, engourdi : urgence.",
+    "Mollet douloureux et gonflé dans les jours qui suivent, surtout si immobilisation : consulter (phlébite).",
+    "Patient sous anticoagulant avec gros hématome : avis médical."
+  ],
+  "conseils": [
+    "Arrêter immédiatement l'activité et mettre la cheville au repos.",
+    "Appliquer du froid 20 minutes plusieurs fois par jour (glace dans un linge, jamais directement sur la peau).",
+    "Comprimer doucement avec une bande élastique ; surélever la jambe.",
+    "Consulter dans les 24 heures pour évaluer la gravité.",
+    "Antalgique : paracétamol en première intention ; un gel anti-inflammatoire peut compléter.",
+    "Reprise progressive des activités selon l'avis médical, avec rééducation si nécessaire."
+  ],
+  "produits": [
+    {
+      "nom": "Poche de froid",
+      "detail": "Diminue douleur et gonflement les premiers jours."
+    },
+    {
+      "nom": "Bande de contention, chevillère",
+      "detail": "Compression et maintien.",
+      "prudence": "Ne pas trop serrer (fourmillements, doigts de pied bleus)."
+    },
+    {
+      "nom": "Diclofénac gel 1 %",
+      "detail": "Traitement local de courte durée de l'entorse bénigne, 2 à 3 fois par jour, 4 jours maximum sans avis médical.",
+      "prudence": "À partir de 15 ans ; pas sur peau lésée, pas sous pansement occlusif, éviter le soleil sur la zone."
+    },
+    {
+      "nom": "Paracétamol",
+      "detail": "Antalgique de première intention."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Enfant et adolescent",
+      "conduite": "Consultation : chez l'enfant, une douleur de cheville peut cacher une atteinte du cartilage de croissance ; diclofénac gel contre-indiqué avant 15 ans."
+    },
+    {
+      "population": "Femme enceinte",
+      "conduite": "AINS contre-indiqués à partir du 6e mois, y compris en gel ; paracétamol."
+    },
+    {
+      "population": "Personne âgée ou sous anticoagulant",
+      "conduite": "Avis médical rapide, risque de fracture et d'hématome."
+    }
+  ],
+  "aRetenir": "Repos, froid, compression, surélévation, et consultation dans les 24 h. Pas d'appui possible ou douleur osseuse : radio.",
+  "medicamentsLies": [
+    "diclofenac-gel",
+    "paracetamol"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Entorse de la cheville : que faire et quand consulter ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/entorse-cheville/bons-reflexes-que-faire"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Entorse de la cheville : causes, stades de gravité et symptômes",
+      "url": "https://www.ameli.fr/assure/sante/themes/entorse-cheville/reconnaitre-entorse-cheville"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Voltarenactigo 1 %, gel (rubriques 4.1 à 4.6)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60851678/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

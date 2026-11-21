@@ -1,0 +1,49 @@
+{
+  "type": "conseil",
+  "slug": "asthme",
+  "titre": "Asthme",
+  "categorie": "chronique",
+  "theme": "orl",
+  "resume": "Vérifier la technique d'inhalation, distinguer traitement de fond et traitement de crise, repérer un asthme mal contrôlé et les signes de crise grave.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["inhalateur", "bronchodilatateur", "corticoïde inhalé", "crise d'asthme", "chambre d'inhalation", "salbutamol"],
+  "introduction": "L'asthme est une inflammation chronique des bronches. Le traitement de fond (corticoïde inhalé le plus souvent) prévient les crises ; le traitement de crise soulage rapidement. Au comptoir, le levier principal est la technique d'inhalation et le repérage d'un asthme mal contrôlé, souvent révélé par une consommation accrue de bronchodilatateur.",
+  "questions": [
+    "Quels inhalateurs ? Lequel est le traitement de fond, lequel le traitement de crise ?",
+    "Combien de fois par semaine le traitement de crise est-il utilisé ? Réveils nocturnes ?",
+    "Le traitement de fond est-il pris tous les jours, même sans symptôme ?",
+    "Pouvez-vous me montrer comment vous utilisez votre inhalateur ?",
+    "Facteurs déclenchants : tabac, allergènes, effort, infection, AINS ou aspirine, bêtabloquant ?"
+  ],
+  "alertes": [
+    "Crise qui ne cède pas après le bronchodilatateur, difficulté à parler, lèvres bleutées, épuisement : appeler le 15.",
+    "Besoin du traitement de crise plus de 2 fois par semaine, ou réveils nocturnes : asthme mal contrôlé, consulter.",
+    "Renouvellements fréquents de bronchodilatateur sans traitement de fond.",
+    "Crise déclenchée par un AINS ou l'aspirine : à signaler au médecin, éviter ces médicaments."
+  ],
+  "conseils": [
+    "Technique : expirer à fond, inspirer profondément en déclenchant l'inhalateur, retenir sa respiration une dizaine de secondes.",
+    "Chambre d'inhalation pour les enfants et en cas de difficulté de coordination.",
+    "Prendre le traitement de fond tous les jours, même quand tout va bien ; se rincer la bouche après un corticoïde inhalé.",
+    "Toujours avoir son traitement de crise sur soi ; vérifier qu'il n'est pas vide ou périmé.",
+    "Arrêt du tabac, éviction des allergènes connus, vaccination antigrippale."
+  ],
+  "produits": [
+    { "nom": "Chambre d'inhalation", "detail": "Améliore le dépôt pulmonaire des aérosols doseurs ; indispensable chez le jeune enfant." },
+    { "nom": "Débitmètre de pointe", "detail": "Suivi du souffle selon le plan d'action du médecin." },
+    { "nom": "Paracétamol pour la douleur ou la fièvre", "detail": "Préférer au besoin le paracétamol.", "prudence": "Éviter AINS et aspirine en cas d'antécédent de crise déclenchée par ces médicaments." }
+  ],
+  "populations": [
+    { "population": "Enfant", "conduite": "Chambre d'inhalation avec masque avant 3–4 ans, embout buccal ensuite ; vérifier le PAI à l'école." },
+    { "population": "Femme enceinte", "conduite": "Poursuivre le traitement de fond : un asthme non contrôlé est plus risqué que le traitement." },
+    { "population": "Sportif", "conduite": "Asthme d'effort : avis médical ; le bronchodilatateur avant l'effort se fait selon prescription." }
+  ],
+  "aRetenir": "Fond tous les jours, crise sur soi, technique vérifiée. Crise plus de 2 fois par semaine = mal contrôlé.",
+  "medicamentsLies": ["salbutamol"],
+  "sources": [
+    { "organisme": "Assurance Maladie (ameli)", "titre": "Asthme : bien utiliser son inhalateur", "url": "https://www.ameli.fr/assure/sante/themes/asthme-adulte/asthme-traitement/utiliser-inhalateur.html" },
+    { "organisme": "Assurance Maladie (ameli)", "titre": "Traitement de fond de l'asthme", "url": "https://www.ameli.fr/assure/sante/themes/asthme-adulte/asthme-traitement/traitement-fond" },
+    { "organisme": "ANSM / BDPM", "titre": "RCP Ventoline 100 µg/dose (rubriques 4.2, 4.4)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64720167/extrait" }
+  ]
+}

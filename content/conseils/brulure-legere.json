@@ -1,0 +1,79 @@
+{
+  "type": "conseil",
+  "slug": "brulure-legere",
+  "titre": "Brûlure légère",
+  "categorie": "quotidien",
+  "theme": "dermato",
+  "resume": "Refroidir immédiatement sous l'eau tempérée pendant 15 minutes, puis protéger (pansement gras si cloque). Brûlure étendue, profonde, au visage, aux mains, aux plis ou chez l'enfant : consulter ou appeler le 15.",
+  "motsCles": [
+    "brûlure",
+    "cloque",
+    "eau chaude",
+    "four",
+    "pansement"
+  ],
+  "introduction": "La plupart des brûlures domestiques sont superficielles et guérissent en quelques jours. Le geste clé est le refroidissement immédiat à l'eau. Le pharmacien évalue la gravité (surface, profondeur, localisation, âge) et oriente si nécessaire.",
+  "questions": [
+    "Comment s'est-elle produite (liquide, flamme, électricité, produit chimique) ?",
+    "Quelle surface ? Où (visage, mains, pieds, organes génitaux, plis) ?",
+    "Cloques ? Peau blanche, cartonnée ou insensible ?",
+    "Âge de la personne ? Vaccin antitétanique à jour ?",
+    "Qu'avez-vous déjà appliqué ?"
+  ],
+  "alertes": [
+    "Brûlure étendue, profonde (peau blanche, cartonnée, insensible), électrique ou chimique, ou au visage : appeler le 15 ou les urgences.",
+    "Brûlure des mains, des pieds, des plis ou des organes génitaux, ou chez un enfant ou une personne âgée : avis médical.",
+    "Cloque de plus de quelques centimètres, douleur qui augmente, rougeur qui s'étend, fièvre : consulter (surinfection).",
+    "Vaccination antitétanique non à jour : consulter."
+  ],
+  "conseils": [
+    "Refroidir immédiatement sous l'eau tempérée (pas glacée) pendant au moins 15 minutes.",
+    "Retirer bagues, montre et vêtements non collés à la peau.",
+    "Ne pas percer les cloques ; protéger avec un pansement gras (interface) ou adapté aux brûlures.",
+    "Ne pas appliquer de corps gras, de dentifrice ni de glace.",
+    "Paracétamol en cas de douleur."
+  ],
+  "produits": [
+    {
+      "nom": "Pansement gras ou hydrocolloïde pour brûlure",
+      "detail": "Protège et favorise la cicatrisation."
+    },
+    {
+      "nom": "Émulsion apaisante (type trolamine)",
+      "detail": "Brûlure superficielle sans cloque.",
+      "prudence": "Pas sur une plaie ouverte ou infectée."
+    },
+    {
+      "nom": "Paracétamol",
+      "detail": "Antalgique."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Nourrisson et enfant",
+      "conduite": "Avis médical au moindre doute ; surface relativement plus importante."
+    },
+    {
+      "population": "Personne âgée ou diabétique",
+      "conduite": "Cicatrisation plus lente : surveillance médicale."
+    }
+  ],
+  "aRetenir": "15 minutes d'eau tempérée, puis protéger. Étendue, profonde, visage, mains, enfant : consulter ou 15.",
+  "medicamentsLies": [
+    "paracetamol"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Brûlures de la peau",
+      "url": "https://www.ameli.fr/assure/sante/urgence/accidents-domestiques/brulures-peau"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Comment bien soigner une plaie ?",
+      "url": "https://www.ameli.fr/assure/sante/bons-gestes/soins/soigner-plaie"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

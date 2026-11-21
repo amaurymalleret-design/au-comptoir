@@ -1,0 +1,97 @@
+{
+  "type": "conseil",
+  "slug": "piqures-insectes",
+  "titre": "Piqûres d'insectes et de tiques",
+  "categorie": "quotidien",
+  "theme": "dermato",
+  "resume": "Nettoyer, refroidir, calmer la démangeaison. Appeler le 15 au moindre signe allergique général ou pour une piqûre dans la bouche. Pour une tique : retrait au tire-tique et surveillance un mois.",
+  "motsCles": [
+    "guêpe",
+    "abeille",
+    "frelon",
+    "moustique",
+    "tique",
+    "Lyme",
+    "démangeaison"
+  ],
+  "introduction": "La plupart des piqûres d'insectes donnent une réaction locale (rougeur, gonflement, démangeaison) qui disparaît en quelques jours. Le danger est la réaction allergique généralisée après une piqûre d'hyménoptère (guêpe, abeille, frelon), et pour les tiques la transmission de la maladie de Lyme.",
+  "questions": [
+    "Quel insecte ? Où se trouve la piqûre (bouche, gorge, visage) ? Combien de piqûres ?",
+    "Gêne pour respirer, gonflement du visage ou des lèvres, malaise, urticaire sur tout le corps ?",
+    "Allergie connue au venin ? Avez-vous un stylo d'adrénaline ?",
+    "Pour une tique : depuis combien de temps était-elle accrochée ? Rougeur qui s'étend autour ?",
+    "Âge, grossesse, traitements en cours ?"
+  ],
+  "alertes": [
+    "Difficulté à respirer, gonflement du visage ou de la gorge, malaise, urticaire généralisée : appeler le 15 ; utiliser l'adrénaline auto-injectable si la personne en a une.",
+    "Piqûre dans la bouche ou la gorge : appeler le 15, faire sucer un glaçon en attendant.",
+    "Piqûres multiples (essaim), ou chez un jeune enfant : avis médical urgent.",
+    "Rougeur qui s'étend en anneau autour d'une piqûre de tique dans les jours ou semaines suivants : consulter (érythème migrant).",
+    "Rougeur chaude, douloureuse et qui s'étend, fièvre : surinfection possible, consulter."
+  ],
+  "conseils": [
+    "Abeille : retirer le dard rapidement en grattant avec un ongle ou une carte, sans pincer la poche à venin.",
+    "Nettoyer à l'eau et au savon puis appliquer un antiseptique.",
+    "Appliquer du froid pour diminuer le gonflement et la douleur ; ne pas gratter.",
+    "Tique : la retirer au plus vite avec un tire-tique, sans produit (éther, alcool) avant, puis désinfecter ; noter la date et surveiller la zone pendant un mois.",
+    "Prévention : vêtements couvrants, répulsifs adaptés à l'âge, inspection du corps au retour d'une sortie en nature."
+  ],
+  "produits": [
+    {
+      "nom": "Antiseptique local",
+      "detail": "Après nettoyage à l'eau et au savon."
+    },
+    {
+      "nom": "Hydrocortisone 0,5 % crème",
+      "detail": "Démangeaisons d'une piqûre localisée, 2 fois par jour, 3 jours maximum, à partir de 6 ans.",
+      "prudence": "Pas sur une peau infectée ou lésée."
+    },
+    {
+      "nom": "Antihistaminique oral (cétirizine…)",
+      "detail": "Démangeaisons gênantes ou réaction locale étendue.",
+      "prudence": "Somnolence possible."
+    },
+    {
+      "nom": "Tire-tique",
+      "detail": "Retrait de la tique par rotation, sans arracher."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne allergique au venin",
+      "conduite": "Toujours avoir sa trousse d'urgence ; un bilan allergologique et une désensibilisation peuvent être proposés par le médecin."
+    },
+    {
+      "population": "Jeune enfant",
+      "conduite": "Répulsifs selon l'âge (avis pharmacien) ; moustiquaire pour les nourrissons."
+    },
+    {
+      "population": "Femme enceinte",
+      "conduite": "Répulsifs adaptés à la grossesse ; avis médical en cas de piqûre de tique suivie d'une rougeur."
+    }
+  ],
+  "aRetenir": "Réaction locale : nettoyer, froid, calmer. Signe général ou piqûre dans la bouche : 15. Tique : tire-tique et surveillance un mois.",
+  "medicamentsLies": [
+    "hydrocortisone-creme",
+    "cetirizine"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Piqûres de guêpes, abeilles, frelons et bourdons",
+      "url": "https://www.ameli.fr/assure/sante/urgence/morsures-griffures-piqures/piqures-guepes-abeilles-frelons-bourdons"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Morsures et piqûres : les bons réflexes face aux petits maux de l'été",
+      "url": "https://www.ameli.fr/assure/actualites/morsures-et-piqures-les-bons-reflexes-face-aux-petits-maux-de-l-ete"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Cortapaisyl 0,5 %, crème (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/67981927/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

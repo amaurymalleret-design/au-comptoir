@@ -1,0 +1,102 @@
+{
+  "type": "medicament",
+  "slug": "furosemide",
+  "titre": "Furosémide",
+  "dci": "furosémide",
+  "specialiteReference": "Lasilix 40 mg, comprimé sécable",
+  "classe": "Diurétique de l'anse",
+  "delivrance": "Liste I, sur prescription médicale",
+  "resume": "Œdèmes d'origine cardiaque, rénale ou hépatique : 20 à 40 mg/j dans les formes modérées. Risque principal : baisse du potassium et du sodium, déshydratation. Ionogramme et créatinine à surveiller.",
+  "motsCles": [
+    "lasilix",
+    "diurétique",
+    "œdème",
+    "potassium",
+    "insuffisance cardiaque"
+  ],
+  "rcp": {
+    "libelle": "RCP Lasilix 40 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/65606743/extrait"
+  },
+  "indications": [
+    "Œdèmes d'origine cardiaque ou rénale.",
+    "Œdèmes d'origine hépatique, le plus souvent avec un diurétique épargneur de potassium.",
+    "Hypertension artérielle de l'insuffisant rénal chronique, si les thiazidiques sont contre-indiqués."
+  ],
+  "posologies": [
+    {
+      "indication": "Œdèmes modérés",
+      "population": "Adulte",
+      "dose": "½ à 1 comprimé de 40 mg par jour",
+      "remarque": "Œdèmes importants : 2 à 3 comprimés par jour en 1 ou 2 prises."
+    },
+    {
+      "indication": "Hypertension (insuffisant rénal)",
+      "population": "Adulte",
+      "dose": "20 à 120 mg/j en une ou plusieurs prises, en association",
+      "remarque": "Selon le RCP."
+    }
+  ],
+  "adaptations": [
+    "Sujet âgé, dénutri, cirrhotique : surveillance plus fréquente du sodium et du potassium.",
+    "Premier contrôle du potassium dans la semaine suivant le début du traitement."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Baisse du potassium ou du sodium (fatigue, crampes, confusion)",
+      "frequence": "Fréquent",
+      "conduite": "Bilan sanguin régulier ; consulter en cas de crampes, faiblesse, confusion."
+    },
+    {
+      "effet": "Déshydratation, hypotension orthostatique (vertiges en se levant)",
+      "frequence": "Très fréquent",
+      "conduite": "Se lever doucement ; consulter en cas de diarrhée, vomissements ou forte chaleur."
+    },
+    {
+      "effet": "Hausse de l'acide urique, crise de goutte",
+      "frequence": "Fréquent",
+      "conduite": "Signaler une douleur articulaire brutale."
+    }
+  ],
+  "contreIndications": [
+    "Hypokaliémie sévère, déshydratation, hypovolémie.",
+    "Insuffisance rénale fonctionnelle, encéphalopathie hépatique.",
+    "Hypersensibilité aux sulfamides."
+  ],
+  "interactions": [
+    {
+      "avec": "Lithium",
+      "risque": "Association déconseillée : hausse de la lithémie."
+    },
+    {
+      "avec": "AINS",
+      "risque": "Insuffisance rénale aiguë chez le sujet à risque et baisse de l'effet diurétique : hydrater, surveiller la fonction rénale."
+    },
+    {
+      "avec": "IEC, sartans",
+      "risque": "Hypotension brutale et insuffisance rénale à l'instauration en cas de déplétion sodée."
+    },
+    {
+      "avec": "Médicaments donnant des torsades de pointes, digoxine",
+      "risque": "Risque majoré par l'hypokaliémie."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Prendre le matin pour éviter de se lever la nuit pour uriner.",
+    "Pas d'AINS en automédication (ibuprofène…) sans avis.",
+    "En cas de diarrhée, vomissements ou canicule : risque de déshydratation, contacter le médecin.",
+    "Respecter les prises de sang de contrôle (ionogramme, créatinine)."
+  ],
+  "conseilsLies": [
+    "insuffisance-cardiaque"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Lasilix 40 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/65606743/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

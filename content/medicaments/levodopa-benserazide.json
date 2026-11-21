@@ -1,0 +1,100 @@
+{
+  "type": "medicament",
+  "slug": "levodopa-benserazide",
+  "titre": "Lévodopa + bensérazide",
+  "dci": "lévodopa + bensérazide",
+  "specialiteReference": "Modopar 62,5, 125 et 250, gélule",
+  "classe": "Antiparkinsonien dopaminergique",
+  "delivrance": "Liste I, sur prescription médicale",
+  "resume": "Parkinson : instauration progressive (Modopar 62,5 trois à quatre fois par jour), dose individuelle. À prendre 30 min avant ou 2 h après les repas. Jamais d'arrêt brutal ; pas de métoclopramide.",
+  "motsCles": [
+    "modopar",
+    "parkinson",
+    "lévodopa",
+    "dopamine"
+  ],
+  "rcp": {
+    "libelle": "RCP Modopar 125 (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/65122219/extrait"
+  },
+  "indications": [
+    "Maladie de Parkinson et syndromes parkinsoniens d'origine neurodégénérative."
+  ],
+  "posologies": [
+    {
+      "indication": "Maladie de Parkinson",
+      "population": "Adulte (≥ 25 ans)",
+      "dose": "Au début, 1 gélule de Modopar 62,5 trois à quatre fois par jour, puis augmentation lente par paliers",
+      "remarque": "Dose optimale strictement individuelle, en 3 ou 4 prises ; diminuer si mouvements anormaux."
+    }
+  ],
+  "adaptations": [
+    "Sujet âgé : adaptation attentive.",
+    "Insuffisance rénale légère à modérée : pas de réduction ; insuffisance hépatique : sécurité non établie."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Nausées, vomissements, perte d'appétit en début de traitement",
+      "frequence": "Fréquent",
+      "conduite": "Prendre avec un peu de nourriture pauvre en protéines ; augmentation lente."
+    },
+    {
+      "effet": "Mouvements anormaux (dyskinésies), fluctuations « on-off »",
+      "frequence": "Fréquent au long cours",
+      "conduite": "Signaler au neurologue."
+    },
+    {
+      "effet": "Somnolence, endormissement soudain",
+      "frequence": "Rare",
+      "conduite": "Ne pas conduire en cas d'accès de sommeil."
+    },
+    {
+      "effet": "Troubles du contrôle des impulsions (jeu, achats, hypersexualité, compulsions alimentaires)",
+      "frequence": "Rapporté",
+      "conduite": "Le patient et ses proches doivent le signaler au médecin."
+    },
+    {
+      "effet": "Hypotension orthostatique, hallucinations, confusion",
+      "frequence": "Rapporté",
+      "conduite": "Consulter, surtout chez la personne âgée."
+    }
+  ],
+  "contreIndications": [
+    "Moins de 25 ans.",
+    "Association aux neuroleptiques antiémétiques (métoclopramide, alizapride).",
+    "Glaucome à angle fermé, maladies psychiatriques avec composante psychotique.",
+    "Affections cardiaques graves récentes, décompensation endocrinienne, rénale ou hépatique."
+  ],
+  "interactions": [
+    {
+      "avec": "Métoclopramide, alizapride",
+      "risque": "Association contre-indiquée : antagonisme ; utiliser un antiémétique sans effet extrapyramidal."
+    },
+    {
+      "avec": "Neuroleptiques antipsychotiques (sauf clozapine), tétrabénazine",
+      "risque": "Antagonisme réciproque."
+    },
+    {
+      "avec": "Fer",
+      "risque": "Baisse de l'absorption de la lévodopa : espacer les prises."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Avaler les gélules entières, au moins 30 minutes avant ou 2 heures après un repas ; les repas riches en protéines diminuent l'effet.",
+    "Ne jamais arrêter brutalement : risque de syndrome grave (rigidité, fièvre, confusion).",
+    "Pour les nausées : ni métoclopramide ni alizapride ; demander un avis.",
+    "Surveiller la peau (risque de mélanome plus élevé dans la maladie de Parkinson)."
+  ],
+  "conseilsLies": [
+    "parkinson"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Modopar 125 (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/65122219/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

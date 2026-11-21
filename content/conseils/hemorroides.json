@@ -1,0 +1,84 @@
+{
+  "type": "conseil",
+  "slug": "hemorroides",
+  "titre": "Crise hémorroïdaire",
+  "categorie": "quotidien",
+  "theme": "digestif",
+  "resume": "Soulager la douleur et régulariser le transit. Orienter si saignement important ou répété, selles noires, douleur intense ou première crise après 50 ans.",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "hémorroïdes",
+    "saignement anal",
+    "démangeaisons anales",
+    "thrombose hémorroïdaire"
+  ],
+  "introduction": "La crise hémorroïdaire associe douleur, gêne, démangeaisons et parfois un petit saignement rouge à la selle. Elle est souvent favorisée par la constipation, la diarrhée, la grossesse ou le post-partum. Le traitement vise le transit et la douleur.",
+  "questions": [
+    "Douleur, gonflement, démangeaisons, saignement ? Depuis quand ?",
+    "Saignement abondant, répété, ou selles noires ?",
+    "Première crise ? Âge ?",
+    "Constipation ou diarrhée associée ? Grossesse ou accouchement récent ?",
+    "Traitement anticoagulant ou antiagrégant ?"
+  ],
+  "alertes": [
+    "Saignement anal important ou répété.",
+    "Selles noires.",
+    "Douleur très intense avec boule dure et bleutée (thrombose) : consultation rapide.",
+    "Premier saignement après 50 ans ou modification récente du transit : il faut écarter une autre cause.",
+    "Fièvre, écoulement de pus."
+  ],
+  "conseils": [
+    "Régulariser le transit : fibres, eau, activité ; traiter une constipation ou une diarrhée.",
+    "Éviter de forcer et de rester longtemps aux toilettes.",
+    "Hygiène locale douce à l'eau, sécher sans frotter.",
+    "Limiter temporairement épices et alcool si ils aggravent les symptômes."
+  ],
+  "produits": [
+    {
+      "nom": "Topiques locaux (crèmes, suppositoires)",
+      "detail": "Soulagent douleur et inflammation locale."
+    },
+    {
+      "nom": "Paracétamol",
+      "detail": "Antalgique de 1re intention."
+    },
+    {
+      "nom": "Laxatif osmotique ou de lest",
+      "detail": "Pour ramollir les selles et éviter les efforts de poussée."
+    },
+    {
+      "nom": "Veinotoniques",
+      "detail": "Proposés en cure courte selon le contexte.",
+      "prudence": "Effet modeste ; ne remplacent pas la prise en charge du transit."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Femme enceinte ou après l'accouchement",
+      "conduite": "Fréquent : transit, topiques adaptés à la grossesse ; avis médical ou sage-femme si douleur intense."
+    },
+    {
+      "population": "Patient sous anticoagulant",
+      "conduite": "Tout saignement anal répété doit être signalé au médecin."
+    }
+  ],
+  "aRetenir": "Transit et douleur d'abord. Saignement abondant ou répété, selles noires, douleur intense : médecin.",
+  "medicamentsLies": [
+    "macrogol",
+    "paracetamol",
+    "diosmine"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Hémorroïdes : que faire pour être soulagé et quand consulter ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/hemorroides/que-faire-quand-consulter.html"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Hémorroïdes : consultation et traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/hemorroides/traitement.html"
+    }
+  ]
+}

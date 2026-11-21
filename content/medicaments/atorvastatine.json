@@ -1,0 +1,118 @@
+{
+  "type": "medicament",
+  "slug": "atorvastatine",
+  "titre": "Atorvastatine",
+  "dci": "atorvastatine",
+  "resume": "Statine pour l'hypercholestérolémie et la prévention cardiovasculaire. Signaler toute douleur musculaire inexpliquée ; attention aux inhibiteurs du CYP3A4.",
+  "specialiteReference": "Tahor 10, 20, 40 et 80 mg, comprimé pelliculé",
+  "classe": "Hypolipémiant, inhibiteur de l'HMG-CoA réductase (statine)",
+  "delivrance": "Liste I, sur prescription",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "tahor",
+    "statine",
+    "cholestérol",
+    "LDL",
+    "prévention cardiovasculaire"
+  ],
+  "rcp": {
+    "libelle": "RCP Tahor 20 mg, comprimé pelliculé (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69902323/extrait"
+  },
+  "indications": [
+    "Hypercholestérolémie primaire (y compris familiale hétérozygote) et hyperlipidémie mixte, en complément du régime, chez l'adulte et l'enfant ≥ 10 ans.",
+    "Hypercholestérolémie familiale homozygote, en complément d'autres traitements.",
+    "Prévention des événements cardiovasculaires chez l'adulte à risque élevé."
+  ],
+  "posologies": [
+    {
+      "indication": "Hypercholestérolémie, hyperlipidémie mixte",
+      "population": "Adulte",
+      "dose": "10 mg une fois par jour (suffisant chez la majorité) ; adaptation par paliers d'au moins 4 semaines ; maximum 80 mg/j",
+      "remarque": "Effet maximal après 4 semaines."
+    },
+    {
+      "indication": "Hypercholestérolémie familiale hétérozygote",
+      "population": "Adulte",
+      "dose": "Début 10 mg/j, puis jusqu'à 40 mg/j par paliers de 4 semaines, voire 80 mg/j"
+    },
+    {
+      "indication": "Prévention cardiovasculaire",
+      "population": "Adulte à risque élevé",
+      "dose": "10 mg/j dans les études de prévention primaire ; plus si nécessaire pour atteindre l'objectif de LDL-cholestérol"
+    }
+  ],
+  "adaptations": [
+    "Insuffisance rénale : aucune adaptation nécessaire.",
+    "Insuffisance hépatique : prudence (contre-indiquée si affection hépatique évolutive).",
+    "En cas d'association à un inhibiteur puissant du CYP3A4 jugée indispensable : dose initiale et dose maximale plus faibles (voir RCP)."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Douleurs musculaires, articulaires, crampes",
+      "frequence": "Fréquent",
+      "conduite": "Signaler toute douleur, faiblesse ou crampe musculaire inexpliquée, surtout avec fièvre ou fatigue."
+    },
+    {
+      "effet": "Rhabdomyolyse (douleurs musculaires intenses, urines foncées)",
+      "frequence": "Rare",
+      "conduite": "Arrêter et consulter en urgence."
+    },
+    {
+      "effet": "Maux de tête, troubles digestifs, rhinopharyngite",
+      "frequence": "Fréquent",
+      "conduite": "Le plus souvent bénins."
+    },
+    {
+      "effet": "Anomalies du bilan hépatique (transaminases), hausse des CPK ; hépatite",
+      "frequence": "Anomalies biologiques fréquentes ; hépatite peu fréquente",
+      "conduite": "Bilan hépatique selon le RCP ; signaler jaunisse, urines foncées, grande fatigue."
+    },
+    {
+      "effet": "Hyperglycémie",
+      "frequence": "Fréquent",
+      "conduite": "Surveillance chez le patient à risque de diabète."
+    }
+  ],
+  "contreIndications": [
+    "Affection hépatique évolutive ou transaminases durablement > 3 fois la normale sans explication.",
+    "Grossesse, allaitement, femme en âge de procréer sans contraception fiable.",
+    "Association au glécaprévir/pibrentasvir (hépatite C).",
+    "Hypersensibilité à la substance active ou à un excipient."
+  ],
+  "interactions": [
+    {
+      "avec": "Acide fusidique par voie systémique",
+      "risque": "Rhabdomyolyse (cas fatals) : interrompre l'atorvastatine pendant tout le traitement par acide fusidique."
+    },
+    {
+      "avec": "Inhibiteurs puissants du CYP3A4 (clarithromycine, itraconazole, kétoconazole, posaconazole, voriconazole, ritonavir et inhibiteurs de protéase…), ciclosporine",
+      "risque": "Hausse importante des concentrations, risque musculaire : association à éviter ou dose réduite."
+    },
+    {
+      "avec": "Gemfibrozil et autres fibrates",
+      "risque": "Majoration du risque de myopathie."
+    },
+    {
+      "avec": "Jus de pamplemousse en grande quantité",
+      "risque": "Consommation importante non recommandée."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Une prise par jour, à heure fixe, pendant ou en dehors des repas.",
+    "Poursuivre les mesures hygiéno-diététiques.",
+    "Signaler la statine à tout prescripteur d'un antibiotique (clarithromycine, acide fusidique) ou d'un antifongique."
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Tahor 20 mg, comprimé pelliculé (rubriques 4.1 à 4.5 et 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/69902323/extrait"
+    }
+  ],
+  "conseilsLies": [
+    "hypercholesterolemie",
+    "maladie-coronaire"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "conseil",
+  "slug": "bpco",
+  "titre": "BPCO (bronchite chronique)",
+  "categorie": "chronique",
+  "theme": "orl",
+  "resume": "Arrêt du tabac, traitement de fond inhalé chaque jour avec une bonne technique, vaccins à jour. Aggravation de l'essoufflement ou des crachats : appliquer le plan d'action et consulter.",
+  "motsCles": [
+    "bronchite chronique",
+    "tabac",
+    "essoufflement",
+    "inhalateur",
+    "Spiriva"
+  ],
+  "introduction": "La BPCO est une maladie respiratoire chronique, liée le plus souvent au tabac, qui rétrécit les bronches de façon progressive. Elle donne un essoufflement, une toux et des crachats, avec des poussées (exacerbations). L'arrêt du tabac est la mesure la plus efficace. Le pharmacien vérifie la technique d'inhalation et repère les exacerbations.",
+  "questions": [
+    "Fumez-vous encore ? Souhaitez-vous de l'aide pour arrêter ?",
+    "Êtes-vous plus essoufflé que d'habitude ? Les crachats ont-ils changé de couleur ou de quantité ?",
+    "Comment utilisez-vous votre inhalateur ? Pouvez-vous me montrer ?",
+    "Avez-vous un plan d'action écrit pour les poussées ?",
+    "Vaccinations grippe, Covid, pneumocoque à jour ?"
+  ],
+  "alertes": [
+    "Essoufflement au repos, lèvres bleutées, confusion, somnolence, jambes qui gonflent : appeler le 15.",
+    "Essoufflement, toux ou crachats qui s'aggravent : appliquer le plan d'action et consulter rapidement.",
+    "Fièvre avec crachats purulents : consultation."
+  ],
+  "conseils": [
+    "Arrêter de fumer, avec une aide (substituts nicotiniques, accompagnement).",
+    "Prendre le traitement de fond chaque jour, même en l'absence de gêne.",
+    "Vérifier régulièrement la technique d'inhalation ; rincer la bouche après un corticoïde inhalé.",
+    "Garder une activité physique ; la réhabilitation respiratoire est utile.",
+    "Vaccins à jour ; éviter le contact avec les personnes enrhumées en hiver."
+  ],
+  "produits": [
+    {
+      "nom": "Substituts nicotiniques",
+      "detail": "Aide majeure à l'arrêt du tabac."
+    },
+    {
+      "nom": "Chambre d'inhalation",
+      "detail": "Facilite l'utilisation des aérosols doseurs."
+    },
+    {
+      "nom": "Antitussifs",
+      "detail": "À éviter dans la BPCO.",
+      "prudence": "La toux aide à évacuer les sécrétions."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Vérifier la capacité à utiliser le dispositif d'inhalation."
+    },
+    {
+      "population": "Glaucome, adénome de la prostate",
+      "conduite": "Prudence avec les anticholinergiques inhalés."
+    }
+  ],
+  "aRetenir": "Arrêt du tabac, traitement de fond quotidien et bonne technique d'inhalation. Essoufflement au repos ou confusion : 15.",
+  "medicamentsLies": [
+    "tiotropium",
+    "salbutamol",
+    "nicotine"
+  ],
+  "sources": [
+    {
+      "organisme": "HAS",
+      "titre": "Les traitements médicamenteux de la BPCO",
+      "url": "https://www.has-sante.fr/jcms/p_3118949/fr/les-traitements-medicamenteux-de-la-bpco"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "BPCO : traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/bpco-bronchite-chronique/traitement"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Spiriva Respimat 2,5 µg/dose (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62828920/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

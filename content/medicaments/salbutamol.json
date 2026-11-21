@@ -1,0 +1,104 @@
+{
+  "type": "medicament",
+  "slug": "salbutamol",
+  "titre": "Salbutamol (inhalé)",
+  "dci": "sulfate de salbutamol",
+  "resume": "Bronchodilatateur de courte durée d'action pour la crise d'asthme. Plus de 8 bouffées par 24 h ou un usage fréquent : asthme non contrôlé, à réévaluer.",
+  "specialiteReference": "Ventoline 100 µg/dose, suspension pour inhalation en flacon pressurisé",
+  "classe": "Bêta-2 mimétique de courte durée d'action (BDCA)",
+  "delivrance": "Liste I, sur prescription",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": [
+    "ventoline",
+    "airomir",
+    "asthme",
+    "crise",
+    "bronchodilatateur",
+    "chambre d'inhalation"
+  ],
+  "rcp": {
+    "libelle": "RCP Ventoline 100 µg/dose (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64720167/extrait"
+  },
+  "indications": [
+    "Traitement symptomatique de la crise d'asthme et des exacerbations d'asthme ou de BPCO.",
+    "Prévention de l'asthme d'effort.",
+    "Test de réversibilité lors des explorations fonctionnelles respiratoires."
+  ],
+  "posologies": [
+    {
+      "indication": "Crise d'asthme, exacerbation",
+      "population": "Quel que soit l'âge",
+      "dose": "1 à 2 bouffées dès les premiers symptômes, renouvelables quelques minutes plus tard si besoin",
+      "remarque": "Habituellement pas plus de 8 bouffées par 24 h : au-delà, consultation nécessaire."
+    },
+    {
+      "indication": "Prévention de l'asthme d'effort",
+      "population": "Quel que soit l'âge",
+      "dose": "1 à 2 bouffées 15 à 30 min avant l'exercice"
+    },
+    {
+      "indication": "Crise d'asthme aiguë grave, en attendant les secours",
+      "population": "Quel que soit l'âge",
+      "dose": "2 à 6 bouffées toutes les 5 à 10 minutes, de préférence avec une chambre d'inhalation",
+      "remarque": "Appeler le 15 : l'asthme aigu grave nécessite une hospitalisation."
+    }
+  ],
+  "adaptations": [
+    "Chambre d'inhalation si la coordination main-bouche est difficile ; avec masque facial chez le nourrisson et le jeune enfant."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Tremblements, maux de tête",
+      "frequence": "Fréquent",
+      "conduite": "Transitoires."
+    },
+    {
+      "effet": "Accélération du cœur (tachycardie), palpitations",
+      "frequence": "Fréquent / peu fréquent",
+      "conduite": "Signaler des palpitations persistantes ou une douleur thoracique."
+    },
+    {
+      "effet": "Irritation de la bouche et de la gorge, crampes",
+      "frequence": "Peu fréquent",
+      "conduite": "Bénin."
+    },
+    {
+      "effet": "Bronchospasme paradoxal juste après l'inhalation",
+      "frequence": "Très rare",
+      "conduite": "Ne pas renouveler, utiliser un autre bronchodilatateur rapide et consulter."
+    }
+  ],
+  "contreIndications": [
+    "Allergie à l'un des constituants.",
+    "Intolérance au produit (toux ou bronchospasme immédiatement après l'inhalation) : interrompre et changer de traitement ou de forme."
+  ],
+  "interactions": [
+    {
+      "avec": "Bêtabloquants non cardiosélectifs (propranolol…)",
+      "risque": "Association généralement à éviter (antagonisme, risque de bronchospasme)."
+    },
+    {
+      "avec": "Antidiabétiques",
+      "risque": "Hyperglycémie possible à forte dose : renforcer la surveillance glycémique."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Vérifier la technique d'inhalation à chaque délivrance ; agiter le flacon, expirer, déclencher en inspirant lentement, retenir sa respiration.",
+    "Amorcer (2 bouffées dans l'air) à la première utilisation ou après 5 jours sans usage.",
+    "Un recours fréquent au salbutamol signe un asthme mal contrôlé : orienter vers le médecin pour revoir le traitement de fond.",
+    "Toujours avoir son inhalateur sur soi."
+  ],
+  "conseilsLies": [
+    "asthme",
+    "bpco"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Ventoline 100 µg/dose, suspension pour inhalation (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64720167/extrait"
+    }
+  ]
+}

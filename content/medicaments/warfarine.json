@@ -1,0 +1,104 @@
+{
+  "type": "medicament",
+  "slug": "warfarine",
+  "titre": "Warfarine (AVK)",
+  "dci": "warfarine (sodique)",
+  "specialiteReference": "Coumadine 2 mg et 5 mg, comprimé sécable",
+  "classe": "Anticoagulant oral antivitamine K (AVK)",
+  "delivrance": "Liste I, sur prescription médicale",
+  "resume": "Anticoagulant à dose individuelle adaptée à l'INR (cible le plus souvent 2,5, entre 2 et 3). Une prise par jour, le soir. Nombreuses interactions : aspirine, AINS, miconazole et millepertuis à éviter.",
+  "motsCles": [
+    "coumadine",
+    "AVK",
+    "anticoagulant",
+    "INR",
+    "fibrillation atriale",
+    "phlébite"
+  ],
+  "rcp": {
+    "libelle": "RCP Coumadine 2 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64631925/extrait"
+  },
+  "indications": [
+    "Prévention des complications thromboemboliques des troubles du rythme auriculaire (fibrillation atriale, flutter), de certaines valvulopathies mitrales et des prothèses valvulaires.",
+    "Prévention des complications thromboemboliques des infarctus compliqués, en relais de l'héparine.",
+    "Traitement des thromboses veineuses profondes et de l'embolie pulmonaire, et prévention de leurs récidives, en relais de l'héparine."
+  ],
+  "posologies": [
+    {
+      "indication": "Toutes indications",
+      "population": "Adulte",
+      "dose": "Dose initiale habituelle de 5 mg/j, puis adaptée à l'INR",
+      "remarque": "Dose plus faible si < 50 kg, sujet âgé ou insuffisance hépatique ; une prise par jour, de préférence le soir."
+    },
+    {
+      "indication": "Surveillance",
+      "population": "Adulte",
+      "dose": "INR cible 2,5 (entre 2 et 3) dans la majorité des cas",
+      "remarque": "INR après la 3e prise, puis rapproché jusqu'à stabilisation, puis au moins une fois par mois ; contrôle 3 jours après tout changement de dose."
+    }
+  ],
+  "adaptations": [
+    "Sujet âgé, poids < 50 kg, insuffisance hépatique : doses initiales plus faibles."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Saignements (gencives, nez, urines, selles noires, hématomes)",
+      "frequence": "Fréquent",
+      "conduite": "Signaler tout saignement ; saignement important ou selles noires : urgence."
+    },
+    {
+      "effet": "Éruption, démangeaisons, diarrhée, douleurs articulaires",
+      "frequence": "Fréquent",
+      "conduite": "En parler au médecin."
+    },
+    {
+      "effet": "Nécrose cutanée, syndrome des orteils bleus",
+      "frequence": "Rare",
+      "conduite": "Consulter rapidement."
+    }
+  ],
+  "contreIndications": [
+    "Insuffisance hépatique sévère, hypertension maligne.",
+    "Associations à l'aspirine à doses anti-inflammatoires (ou antalgiques si antécédent d'ulcère), au miconazole, à la phénylbutazone, au millepertuis.",
+    "Grossesse, sauf porteuse de valve mécanique à haut risque."
+  ],
+  "interactions": [
+    {
+      "avec": "Aspirine, miconazole (y compris gel buccal), millepertuis, phénylbutazone",
+      "risque": "Associations contre-indiquées."
+    },
+    {
+      "avec": "AINS, aspirine à dose antalgique, fluorouracile, imatinib, noscapine",
+      "risque": "Associations déconseillées : risque hémorragique ou déséquilibre de l'INR."
+    },
+    {
+      "avec": "Antibiotiques, antifongiques azolés, amiodarone, colchicine, ISRS…",
+      "risque": "Hausse possible de l'INR : contrôle plus fréquent."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Même heure chaque jour, de préférence le soir ; tenir à jour le carnet de suivi AVK.",
+    "Oubli : prise possible dans les 8 heures, sinon sauter la dose et ne jamais doubler ; le noter et le signaler au contrôle INR.",
+    "Pas d'automédication : ni aspirine, ni AINS, ni miconazole gel buccal, ni millepertuis.",
+    "Contraception efficace chez la femme en âge de procréer ; grossesse : prévenir immédiatement le médecin.",
+    "Signaler le traitement à tout professionnel de santé (dentiste, kiné…)."
+  ],
+  "conseilsLies": [
+    "anticoagulants-oraux"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Coumadine 2 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64631925/extrait"
+    },
+    {
+      "organisme": "ANSM",
+      "titre": "Bon usage des médicaments antivitamine K (AVK), actualisation 2012",
+      "url": "https://ansm.sante.fr/uploads/2021/01/13/bon-usage-avk-actualisee-juillet-2012.pdf"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

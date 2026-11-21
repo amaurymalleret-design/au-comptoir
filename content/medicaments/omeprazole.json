@@ -1,0 +1,56 @@
+{
+  "type": "medicament",
+  "slug": "omeprazole",
+  "titre": "Oméprazole",
+  "dci": "oméprazole",
+  "resume": "Inhibiteur de la pompe à protons : RGO, ulcères, prévention sous AINS chez le patient à risque. Réévaluer les traitements au long cours.",
+  "specialiteReference": "Mopral 20 mg, gélule gastro-résistante",
+  "classe": "Inhibiteur de la pompe à protons (IPP)",
+  "delivrance": "Liste II sur prescription (existe aussi en spécialités non listées pour le pyrosis de courte durée)",
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20",
+  "motsCles": ["mopral", "IPP", "reflux", "RGO", "brûlures d'estomac", "ulcère"],
+  "rcp": { "libelle": "RCP Mopral 20 mg, gélule gastro-résistante (BDPM)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64103828/extrait" },
+  "indications": [
+    "Reflux gastro-œsophagien symptomatique, œsophagite par reflux (traitement et entretien).",
+    "Ulcères gastriques et duodénaux (traitement, prévention des récidives), éradication d'H. pylori en association.",
+    "Traitement et prévention des ulcères liés aux AINS chez les patients à risque.",
+    "Syndrome de Zollinger-Ellison. Chez l'enfant ≥ 1 an et ≥ 10 kg : œsophagite par reflux, pyrosis et régurgitations acides."
+  ],
+  "posologies": [
+    { "indication": "RGO symptomatique", "population": "Adulte", "dose": "20 mg une fois par jour (10 mg peut suffire)", "remarque": "Explorations recommandées si symptômes non contrôlés après 4 semaines." },
+    { "indication": "Œsophagite par reflux", "population": "Adulte", "dose": "20 mg/j pendant 4 semaines, renouvelable 4 semaines ; œsophagite sévère : 40 mg/j, cicatrisation en général en 8 semaines" },
+    { "indication": "Entretien après cicatrisation d'une œsophagite", "population": "Adulte", "dose": "10 mg/j, augmentable à 20–40 mg/j si nécessaire" },
+    { "indication": "Ulcère duodénal évolutif", "population": "Adulte", "dose": "20 mg/j ; cicatrisation en général en 2 semaines (2 semaines de plus si incomplète)" },
+    { "indication": "Ulcère gastrique", "population": "Adulte", "dose": "20 mg/j ; cicatrisation en général en 4 semaines (4 semaines de plus si besoin)" },
+    { "indication": "Prévention des ulcères sous AINS chez le patient à risque", "population": "Adulte (> 60 ans, antécédent d'ulcère ou d'hémorragie digestive haute)", "dose": "20 mg une fois par jour" },
+    { "indication": "Éradication d'H. pylori (exemple de schéma du RCP)", "population": "Adulte", "dose": "Oméprazole 20 mg + clarithromycine 500 mg + amoxicilline 1 g, chacun deux fois par jour pendant 1 semaine", "remarque": "Le choix des antibiotiques doit suivre les recommandations en vigueur et les résistances locales." }
+  ],
+  "adaptations": [
+    "Voir la rubrique 4.2 du RCP pour l'enfant (posologie selon le poids)."
+  ],
+  "effetsAnnoncer": [
+    { "effet": "Maux de tête, douleurs abdominales, diarrhée, constipation, flatulences, nausées", "frequence": "Fréquent (1 à 10 %)", "conduite": "Le plus souvent bénins. Signaler s'ils persistent." },
+    { "effet": "Hypomagnésémie (fatigue, crampes, troubles du rythme)", "frequence": "Fréquence indéterminée, surtout au long cours", "conduite": "Contrôle possible du magnésium en cas de traitement prolongé." },
+    { "effet": "Fractures (hanche, poignet, vertèbres)", "frequence": "Peu fréquent, risque accru > 1 an et à forte dose", "conduite": "Réévaluer régulièrement l'intérêt d'un traitement prolongé." },
+    { "effet": "Réactions cutanées graves", "frequence": "Très rare", "conduite": "Arrêter et consulter." }
+  ],
+  "contreIndications": [
+    "Hypersensibilité à l'oméprazole, aux benzimidazoles substitués ou à un excipient.",
+    "Association au nelfinavir."
+  ],
+  "interactions": [
+    { "avec": "Clopidogrel", "risque": "Diminution de l'effet antiagrégant : association déconseillée par précaution." },
+    { "avec": "Méthotrexate à forte dose", "risque": "Augmentation des concentrations de méthotrexate : arrêt provisoire de l'IPP parfois nécessaire." },
+    { "avec": "Médicaments dont l'absorption dépend du pH (ex. lévothyroxine, certains antifongiques azolés)", "risque": "Absorption modifiée : surveillance." }
+  ],
+  "conseilsDelivrance": [
+    "Prendre de préférence le matin, avaler la gélule entière avec un demi-verre d'eau.",
+    "Signaler si les brûlures persistent au-delà de 4 semaines ou en présence de signes d'alerte (amaigrissement, difficulté à avaler, vomissements, sang).",
+    "Au long cours : demander régulièrement au médecin si le traitement est toujours nécessaire."
+  ],
+  "conseilsLies": ["brulures-estomac"],
+  "sources": [
+    { "organisme": "ANSM / BDPM", "titre": "RCP Mopral 20 mg, gélule gastro-résistante (rubriques 4.1 à 4.5 et 4.8)", "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64103828/extrait" }
+  ]
+}

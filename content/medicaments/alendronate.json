@@ -1,0 +1,86 @@
+{
+  "type": "medicament",
+  "slug": "alendronate",
+  "titre": "Alendronate",
+  "dci": "acide alendronique (alendronate monosodique)",
+  "specialiteReference": "Fosamax 70 mg, comprimé",
+  "classe": "Bisphosphonate",
+  "delivrance": "Liste I, sur prescription médicale",
+  "resume": "Ostéoporose post-ménopausique : 70 mg une fois par semaine, au lever, à jeun, avec un grand verre d'eau du robinet, en restant droite 30 minutes. Hygiène dentaire et calcium-vitamine D si besoin.",
+  "motsCles": [
+    "fosamax",
+    "ostéoporose",
+    "bisphosphonate",
+    "fracture"
+  ],
+  "rcp": {
+    "libelle": "RCP Fosamax 70 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62158815/extrait"
+  },
+  "indications": [
+    "Ostéoporose post-ménopausique chez l'adulte ; réduit le risque de fractures vertébrales et de la hanche."
+  ],
+  "posologies": [
+    {
+      "indication": "Ostéoporose post-ménopausique",
+      "population": "Femme adulte",
+      "dose": "1 comprimé de 70 mg une fois par semaine",
+      "remarque": "Le même jour chaque semaine."
+    }
+  ],
+  "adaptations": [
+    "Supplémentation en calcium et vitamine D si les apports alimentaires sont insuffisants."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Douleurs ou brûlures en avalant, douleur derrière le sternum",
+      "frequence": "Rapporté",
+      "conduite": "Arrêter et consulter (atteinte de l'œsophage)."
+    },
+    {
+      "effet": "Douleurs digestives, douleurs musculaires ou osseuses",
+      "frequence": "Fréquent",
+      "conduite": "En parler au médecin."
+    },
+    {
+      "effet": "Douleur de la mâchoire, dent qui bouge, plaie buccale qui ne cicatrise pas",
+      "frequence": "Rare",
+      "conduite": "Consulter (ostéonécrose de la mâchoire)."
+    },
+    {
+      "effet": "Douleur nouvelle de la cuisse ou de l'aine",
+      "frequence": "Rare",
+      "conduite": "Consulter (fracture atypique du fémur)."
+    }
+  ],
+  "contreIndications": [
+    "Anomalies de l'œsophage retardant son vidage (rétrécissement, achalasie).",
+    "Impossibilité de rester debout ou assise droite pendant au moins 30 minutes.",
+    "Hypocalcémie.",
+    "Hypersensibilité à l'alendronate."
+  ],
+  "interactions": [
+    {
+      "avec": "Calcium, antiacides, fer, autres médicaments oraux, aliments et boissons autres que l'eau",
+      "risque": "Baisse de l'absorption : attendre au moins 30 minutes après l'alendronate."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Au lever, à jeun, avec un grand verre (au moins 200 ml) d'eau du robinet uniquement (pas d'eau minérale, café, jus).",
+    "Avaler le comprimé entier ; rester debout ou assise droite au moins 30 minutes et jusqu'au premier repas ; jamais au coucher.",
+    "Oubli : prendre le comprimé le lendemain matin, puis revenir au jour habituel ; jamais deux comprimés le même jour.",
+    "Faire un bilan dentaire et garder une bonne hygiène bucco-dentaire."
+  ],
+  "conseilsLies": [
+    "osteoporose"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Fosamax 70 mg (rubriques 4.1 à 4.4)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62158815/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

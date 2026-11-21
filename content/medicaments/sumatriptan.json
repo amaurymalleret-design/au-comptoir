@@ -1,0 +1,90 @@
+{
+  "type": "medicament",
+  "slug": "sumatriptan",
+  "titre": "Sumatriptan",
+  "dci": "sumatriptan (succinate)",
+  "specialiteReference": "Imigrane 50 mg, comprimé pelliculé",
+  "classe": "Antimigraineux, triptan (agoniste 5-HT1)",
+  "delivrance": "Sur prescription médicale",
+  "resume": "Crise de migraine : 50 mg le plus tôt possible, 2e comprimé seulement si la douleur revient après soulagement (au moins 2 h d'écart), 300 mg/24 h au maximum. Contre-indiqué si maladie cardiovasculaire ; pas avant 18 ans ni après 65 ans.",
+  "motsCles": [
+    "imigrane",
+    "triptan",
+    "migraine",
+    "crise"
+  ],
+  "rcp": {
+    "libelle": "RCP Imigrane 50 mg (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64676030/extrait"
+  },
+  "indications": [
+    "Traitement de la crise de migraine, avec ou sans aura."
+  ],
+  "posologies": [
+    {
+      "indication": "Crise de migraine",
+      "population": "Adulte (18 à 65 ans)",
+      "dose": "1 comprimé de 50 mg dès le début de la crise (100 mg si 50 mg insuffisant)",
+      "remarque": "Pas de 2e dose si la 1re n'a pas soulagé ; si récidive après soulagement, 2e prise après au moins 2 heures ; 300 mg/24 h au maximum."
+    }
+  ],
+  "adaptations": [
+    "Moins de 18 ans et plus de 65 ans : utilisation non recommandée.",
+    "Insuffisance hépatique ou rénale : prudence ; contre-indiqué si insuffisance hépatique sévère."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Sensation de lourdeur, de chaleur, d'oppression dans la poitrine ou la gorge",
+      "frequence": "Fréquent",
+      "conduite": "Souvent transitoire ; si douleur thoracique intense, ne pas reprendre de dose et consulter."
+    },
+    {
+      "effet": "Vertiges, somnolence, fourmillements",
+      "frequence": "Fréquent",
+      "conduite": "Prudence au volant."
+    },
+    {
+      "effet": "Nausées, bouffées de chaleur, fatigue",
+      "frequence": "Fréquent",
+      "conduite": "En parler au médecin si gênant."
+    }
+  ],
+  "contreIndications": [
+    "Antécédent d'infarctus, angor, maladie coronaire, artériopathie périphérique, AVC ou AIT.",
+    "Hypertension modérée ou sévère, ou légère non contrôlée.",
+    "Insuffisance hépatique sévère.",
+    "Association à l'ergotamine et ses dérivés, à un autre triptan, aux IMAO (et dans les 2 semaines suivant leur arrêt)."
+  ],
+  "interactions": [
+    {
+      "avec": "Ergotamine, dihydroergotamine, autres triptans",
+      "risque": "Contre-indiqué : vasoconstriction ; 24 h d'écart avec un autre triptan, 6 h avant l'ergotamine."
+    },
+    {
+      "avec": "IMAO",
+      "risque": "Contre-indiqué."
+    },
+    {
+      "avec": "ISRS, IRSN, millepertuis",
+      "risque": "Risque de syndrome sérotoninergique ; effets indésirables plus fréquents avec le millepertuis."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Prendre le plus tôt possible dans la crise, avec un grand verre d'eau ; ce n'est pas un traitement préventif.",
+    "Ne pas reprendre de comprimé si le premier n'a pas soulagé.",
+    "Limiter le nombre de jours de prise par mois : l'excès d'antimigraineux entretient les maux de tête.",
+    "Allaitement : éviter d'allaiter dans les 12 heures suivant la prise."
+  ],
+  "conseilsLies": [
+    "migraine"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Imigrane 50 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64676030/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

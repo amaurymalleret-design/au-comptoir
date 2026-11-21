@@ -1,0 +1,84 @@
+name: Rédaction IA d'une fiche validée
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: redaction-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  refus:
+    if: github.event.label.name == 'refusé'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clore la proposition refusée
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue close "${{ github.event.issue.number }}" -R "${{ github.repository }}" --reason "not planned" \
+            --comment "Proposition refusée par un pharmacien administrateur. Merci pour la suggestion."
+
+  redaction:
+    if: github.event.label.name == 'validé' && contains(github.event.issue.labels.*.name, 'proposition')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Vérifier que la validation vient d'un administrateur
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTEUR: ${{ github.event.sender.login }}
+        run: |
+          role=$(gh api "repos/${{ github.repository }}/collaborators/$ACTEUR/permission" --jq '.role_name' || echo none)
+          echo "Rôle de $ACTEUR : $role"
+          case "$role" in admin|maintain|write|triage) ;; *) echo "::error::$ACTEUR n'est pas administrateur"; exit 1;; esac
+
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Rédiger le brouillon avec l'API Claude
+        id: redaction
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TITRE: ${{ github.event.issue.title }}
+          CORPS: ${{ github.event.issue.body }}
+          NUMERO: ${{ github.event.issue.number }}
+        run: node scripts/rediger-fiche.mjs
+
+      - name: Vérifier le contenu
+        run: npm run lint:contenu
+
+      - name: Ouvrir la pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FICHIER: ${{ steps.redaction.outputs.fichier }}
+          SLUG: ${{ steps.redaction.outputs.slug }}
+          NUMERO: ${{ github.event.issue.number }}
+        run: |
+          branche="brouillon-ia/$SLUG-$NUMERO"
+          git config user.name "au-comptoir-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branche"
+          git add "$FICHIER"
+          git commit -m "Brouillon IA : $SLUG (proposition #$NUMERO)"
+          git push -u origin "$branche"
+          gh label create brouillon-ia --color F2C14E --description "Brouillon rédigé par l'IA, à relire" 2>/dev/null || true
+          gh pr create --base main --head "$branche" --label brouillon-ia \
+            --title "Brouillon IA : $SLUG" \
+            --body "Brouillon rédigé automatiquement à partir de la proposition #$NUMERO.
+
+          **À faire par un pharmacien avant fusion :**
+          - vérifier chaque information contre les sources citées (posologies : RCP uniquement) ;
+          - corriger si besoin, puis passer \`statut\` à \`publie\` et renseigner \`relecture\`.
+
+          Closes #$NUMERO"
+          gh issue comment "$NUMERO" --body "Brouillon rédigé : voir la pull request liée. Il doit être relu par un pharmacien avant publication."

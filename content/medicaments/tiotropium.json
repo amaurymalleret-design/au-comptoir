@@ -1,0 +1,87 @@
+{
+  "type": "medicament",
+  "slug": "tiotropium",
+  "titre": "Tiotropium",
+  "dci": "tiotropium (bromure)",
+  "specialiteReference": "Spiriva Respimat 2,5 µg/dose, solution à inhaler",
+  "classe": "Bronchodilatateur anticholinergique de longue durée d'action (LAMA)",
+  "delivrance": "Liste I, sur prescription médicale",
+  "resume": "BPCO (et asthme sévère en traitement additionnel) : 2 bouffées une fois par jour à heure fixe. Traitement de fond, pas de la crise. Attention aux yeux, au glaucome et à la rétention urinaire.",
+  "motsCles": [
+    "spiriva",
+    "BPCO",
+    "bronchodilatateur",
+    "inhalateur",
+    "Respimat"
+  ],
+  "rcp": {
+    "libelle": "RCP Spiriva Respimat 2,5 µg/dose (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62828920/extrait"
+  },
+  "indications": [
+    "Traitement bronchodilatateur continu de la BPCO.",
+    "Traitement additionnel continu de l'asthme sévère avec exacerbations sévères dans l'année, dès 6 ans."
+  ],
+  "posologies": [
+    {
+      "indication": "BPCO, asthme sévère",
+      "population": "Adulte (et 6-17 ans dans l'asthme)",
+      "dose": "2 bouffées successives (5 µg) une fois par jour, à heure fixe",
+      "remarque": "Ne pas dépasser la dose ; dans l'asthme, toujours avec un corticoïde inhalé."
+    }
+  ],
+  "adaptations": [
+    "Insuffisance rénale modérée à sévère (clairance ≤ 50 ml/min) : seulement si le bénéfice l'emporte.",
+    "Sujet âgé : pas d'adaptation."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Bouche sèche",
+      "frequence": "Fréquent",
+      "conduite": "Hygiène dentaire (risque de caries)."
+    },
+    {
+      "effet": "Douleur ou rougeur de l'œil, vision trouble avec halos (projection dans l'œil)",
+      "frequence": "Rare",
+      "conduite": "Arrêter et consulter immédiatement (glaucome aigu)."
+    },
+    {
+      "effet": "Difficulté à uriner, constipation",
+      "frequence": "Peu fréquent",
+      "conduite": "Consulter."
+    },
+    {
+      "effet": "Toux, gêne respiratoire paradoxale après inhalation",
+      "frequence": "Peu fréquent à rare",
+      "conduite": "Arrêter et consulter."
+    }
+  ],
+  "contreIndications": [
+    "Hypersensibilité au tiotropium, à l'atropine ou à ses dérivés (ipratropium…)."
+  ],
+  "interactions": [
+    {
+      "avec": "Autres anticholinergiques",
+      "risque": "Association non recommandée."
+    }
+  ],
+  "conseilsDelivrance": [
+    "Ce n'est pas un traitement de la crise : garder un bronchodilatateur d'action rapide.",
+    "Vérifier la technique d'inhalation : expirer, inspirer lentement en pressant, retenir sa respiration 10 secondes.",
+    "Éviter toute projection dans les yeux.",
+    "Prudence en cas de glaucome à angle fermé ou d'adénome de la prostate.",
+    "Un inhalateur sert pour 6 cartouches au maximum et pas plus d'un an."
+  ],
+  "conseilsLies": [
+    "bpco"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Spiriva Respimat 2,5 µg/dose (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/62828920/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

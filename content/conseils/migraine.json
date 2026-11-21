@@ -1,0 +1,87 @@
+{
+  "type": "conseil",
+  "slug": "migraine",
+  "titre": "Migraine",
+  "categorie": "quotidien",
+  "theme": "neuro",
+  "resume": "Traiter tôt dans la crise (paracétamol, AINS ou triptan prescrit), au calme et dans le noir. Limiter les jours de prise pour éviter la céphalée par abus médicamenteux. Céphalée brutale, fièvre, déficit neurologique : urgence.",
+  "motsCles": [
+    "mal de tête",
+    "céphalée",
+    "triptan",
+    "aura",
+    "crise"
+  ],
+  "introduction": "La migraine évolue par crises de maux de tête souvent d'un seul côté, pulsatiles, aggravés par l'effort, avec nausées et gêne à la lumière ou au bruit, parfois précédées d'une aura visuelle. Sans traitement, une crise dure quelques heures. Le pharmacien conseille sur le traitement de crise, repère l'abus d'antalgiques et oriente devant un mal de tête inhabituel.",
+  "questions": [
+    "Ce mal de tête ressemble-t-il à vos crises habituelles ? Depuis quand ?",
+    "Début brutal, en coup de tonnerre ? Fièvre, raideur de la nuque, trouble de la parole, faiblesse d'un bras ?",
+    "Combien de jours par mois prenez-vous un antalgique ou un antimigraineux ?",
+    "Quel traitement de crise avez-vous déjà pris, à quel moment de la crise ?",
+    "Traitements en cours, grossesse, antécédents cardiovasculaires ?"
+  ],
+  "alertes": [
+    "Céphalée brutale et intense, avec fièvre ou raideur de la nuque, trouble de la parole, de la vision ou faiblesse d'un côté : appeler le 15.",
+    "Premier mal de tête de ce type, surtout après 50 ans, ou changement des crises habituelles : consulter.",
+    "Crises plus fréquentes ou traitement de crise devenu inefficace : consulter (traitement de fond à discuter).",
+    "Prise d'antalgiques plus de 8 à 10 jours par mois : risque de céphalée par abus médicamenteux, avis médical."
+  ],
+  "conseils": [
+    "Prendre le traitement de crise le plus tôt possible, dès le début de la douleur.",
+    "Se reposer au calme, dans l'obscurité ; une poche de froid sur le front peut soulager.",
+    "Tenir un agenda des crises et repérer les facteurs déclenchants (manque de sommeil, repas sauté, stress, alcool, règles).",
+    "Garder des horaires réguliers de sommeil et de repas.",
+    "Ne pas multiplier les antalgiques ni les associer entre eux."
+  ],
+  "produits": [
+    {
+      "nom": "Paracétamol ou ibuprofène",
+      "detail": "Pour une crise légère à modérée, pris tôt.",
+      "prudence": "Respecter les doses ; AINS déconseillés avec certains traitements et en fin de grossesse."
+    },
+    {
+      "nom": "Triptan sur prescription",
+      "detail": "Crise modérée à sévère ou échec des antalgiques.",
+      "prudence": "Contre-indiqué en cas de maladie cardiovasculaire."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Femme enceinte",
+      "conduite": "Paracétamol ; pas d'AINS à partir du 6e mois ; avis médical."
+    },
+    {
+      "population": "Enfant",
+      "conduite": "Avis médical pour confirmer le diagnostic ; triptan oral non recommandé avant 18 ans."
+    },
+    {
+      "population": "Femme sous contraception œstroprogestative avec aura",
+      "conduite": "En parler au médecin."
+    }
+  ],
+  "aRetenir": "Traiter tôt, au calme. Pas plus de quelques jours de prise par mois. Céphalée brutale ou signes neurologiques : 15.",
+  "medicamentsLies": [
+    "sumatriptan",
+    "paracetamol",
+    "ibuprofene"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Migraine : consultation médicale et traitement",
+      "url": "https://www.ameli.fr/assure/sante/themes/migraine/diagnostic-traitement"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Que faire et quand consulter en cas de migraine ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/migraine/bons-reflexes-cas-faut-consulter"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Imigrane 50 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64676030/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

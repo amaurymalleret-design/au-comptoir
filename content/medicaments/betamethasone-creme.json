@@ -1,0 +1,79 @@
+{
+  "type": "medicament",
+  "slug": "betamethasone-creme",
+  "titre": "Bétaméthasone crème (dermocorticoïde fort)",
+  "dci": "bétaméthasone (dipropionate)",
+  "specialiteReference": "Diprosone 0,05 %, crème",
+  "classe": "Dermocorticoïde d'activité forte",
+  "delivrance": "Sur prescription médicale",
+  "resume": "Eczéma, psoriasis et autres dermatoses inflammatoires : 1 à 2 applications par jour, arrêt souvent progressif. Pas sur une peau infectée, l'acné, la rosacée ni les paupières ; prudence sur le visage, les plis et chez le nourrisson.",
+  "motsCles": [
+    "diprosone",
+    "corticoïde",
+    "crème",
+    "eczéma",
+    "psoriasis"
+  ],
+  "rcp": {
+    "libelle": "RCP Diprosone 0,05 %, crème (BDPM)",
+    "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61938997/extrait"
+  },
+  "indications": [
+    "Eczéma de contact, dermatite atopique, lichénification (indications privilégiées).",
+    "Psoriasis peu étendu, lichen, prurigo, dyshidrose, dermite séborrhéique hors visage, et autres dermatoses.",
+    "Piqûres d'insectes, en traitement bref."
+  ],
+  "posologies": [
+    {
+      "indication": "Dermatoses inflammatoires",
+      "population": "Adulte et enfant",
+      "dose": "1 à 2 applications par jour",
+      "remarque": "Augmenter le nombre d'applications n'apporte rien ; arrêt progressif souhaitable (applications espacées ou corticoïde moins fort)."
+    }
+  ],
+  "adaptations": [
+    "Nourrisson : éviter les corticoïdes forts ; attention à l'occlusion sous la couche.",
+    "Grandes surfaces ou occlusion : risque d'effets généraux, surveiller la quantité de tubes."
+  ],
+  "effetsAnnoncer": [
+    {
+      "effet": "Amincissement de la peau, vergetures, petits vaisseaux visibles",
+      "frequence": "Usage prolongé",
+      "conduite": "Respecter la durée prescrite."
+    },
+    {
+      "effet": "Rebond au visage à l'arrêt, dermatite autour de la bouche",
+      "frequence": "Usage prolongé sur le visage",
+      "conduite": "Éviter le visage sauf avis médical."
+    },
+    {
+      "effet": "Vision floue",
+      "frequence": "Fréquence indéterminée",
+      "conduite": "Consulter un ophtalmologiste."
+    }
+  ],
+  "contreIndications": [
+    "Infections de la peau bactériennes, virales, fongiques ou parasitaires.",
+    "Lésions ulcérées, acné, rosacée.",
+    "Application sur les paupières."
+  ],
+  "interactions": [],
+  "conseilsDelivrance": [
+    "Appliquer en couche fine sur les seules plaques, puis espacer avant d'arrêter si le médecin l'a prévu.",
+    "Ne pas utiliser sur une lésion infectée ni sur le visage sans avis médical.",
+    "Hydrater la peau avec un émollient en dehors des zones et moments d'application.",
+    "Ne pas réutiliser le tube pour une autre personne ou une autre lésion."
+  ],
+  "conseilsLies": [
+    "eczema-atopique"
+  ],
+  "sources": [
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Diprosone 0,05 %, crème (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/61938997/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

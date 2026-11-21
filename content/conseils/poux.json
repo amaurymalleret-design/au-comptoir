@@ -1,0 +1,82 @@
+{
+  "type": "conseil",
+  "slug": "poux",
+  "titre": "Poux de tête",
+  "categorie": "quotidien",
+  "theme": "pediatrie",
+  "resume": "Traiter uniquement les personnes qui ont des poux vivants, avec un produit adapté et le peigne fin, puis refaire un traitement selon la notice. Pas de traitement préventif.",
+  "motsCles": [
+    "lentes",
+    "pédiculose",
+    "peigne fin",
+    "diméticone",
+    "école"
+  ],
+  "introduction": "Les poux de tête se transmettent par contact direct entre têtes, surtout chez les enfants scolarisés. Ils ne sont pas le signe d'un manque d'hygiène. Le diagnostic repose sur la découverte d'un pou vivant ; des lentes seules, loin du cuir chevelu, ne suffisent pas à affirmer une infestation active.",
+  "questions": [
+    "Avez-vous vu un pou vivant ? Où se trouvent les lentes (près du cuir chevelu) ?",
+    "Âge de l'enfant ? Asthme ou problème respiratoire (pour le choix de la forme) ?",
+    "Quel traitement a déjà été utilisé, et comment (durée de pose, deuxième application) ?",
+    "Lésions de grattage, croûtes, ganglions dans le cou ?",
+    "Grossesse, allaitement ?"
+  ],
+  "alertes": [
+    "Cuir chevelu surinfecté (croûtes, pus, ganglions, fièvre) : consultation.",
+    "Nourrisson : avis médical avant tout produit.",
+    "Échecs répétés malgré un traitement bien conduit : revoir la technique, puis avis médical.",
+    "Poux sur les cils ou dans la zone pubienne : consultation."
+  ],
+  "conseils": [
+    "Traiter seulement les personnes chez qui on trouve des poux vivants, mais examiner tout le foyer, mèche par mèche, sous un bon éclairage.",
+    "Respecter la durée de pose de la notice, puis passer le peigne fin sur cheveux mouillés.",
+    "Refaire une application selon la notice (souvent 7 à 10 jours plus tard) pour tuer les poux sortis des lentes.",
+    "Laver à 60 °C le linge de lit, les bonnets et les serviettes utilisés récemment ; isoler deux jours dans un sac fermé ce qui ne se lave pas.",
+    "Prévenir l'école ou la crèche ; pas besoin d'évincer l'enfant.",
+    "Pas de traitement préventif : il est inutile et favorise les résistances."
+  ],
+  "produits": [
+    {
+      "nom": "Lotions à base de diméticone ou d'huiles",
+      "detail": "Action physique (étouffement des poux), sans insecticide.",
+      "prudence": "Produits inflammables : éloigner de toute flamme, ne pas utiliser de sèche-cheveux pendant la pose."
+    },
+    {
+      "nom": "Peigne fin métallique",
+      "detail": "Indispensable, en complément du produit et pour vérifier l'efficacité."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Nourrisson et enfant de moins de 2 ans",
+      "conduite": "Avis médical ; peigne fin en première intention."
+    },
+    {
+      "population": "Enfant asthmatique",
+      "conduite": "Éviter les sprays ; préférer les lotions."
+    },
+    {
+      "population": "Femme enceinte ou qui allaite",
+      "conduite": "Privilégier le peigne fin et les produits à action physique, après avis du pharmacien."
+    }
+  ],
+  "aRetenir": "Un pou vivant, pas de lentes seules. Produit et peigne fin, deuxième application selon la notice, linge à 60 °C. Jamais de traitement préventif.",
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Poux : comment s'en débarrasser ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/poux/bons-reflexes"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Reconnaître la présence de poux",
+      "url": "https://www.ameli.fr/assure/sante/themes/poux/reconnaitre-presence-poux"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Comment éviter d'avoir des poux ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/poux/eviter-poux"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

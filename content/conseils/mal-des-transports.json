@@ -1,0 +1,90 @@
+{
+  "type": "conseil",
+  "slug": "mal-des-transports",
+  "titre": "Mal des transports",
+  "categorie": "quotidien",
+  "theme": "prevention",
+  "resume": "Prévenir avant le départ : place stable, regard vers l'horizon, repas léger. Antihistaminique pris une demi-heure avant le trajet si besoin, en prévenant de la somnolence.",
+  "motsCles": [
+    "nausées",
+    "voiture",
+    "bateau",
+    "avion",
+    "dimenhydrinate",
+    "voyage"
+  ],
+  "introduction": "Le mal des transports (cinétose) vient d'un décalage entre ce que perçoivent l'oreille interne et les yeux. Il se manifeste par des nausées, des sueurs, une pâleur, des vertiges et des vomissements. Il est fréquent chez l'enfant à partir de 2 ans et disparaît à l'arrêt du mouvement.",
+  "questions": [
+    "Pour qui ? Âge de l'enfant ?",
+    "Quel moyen de transport, quelle durée de trajet ?",
+    "Qui conduira ? (somnolence des antihistaminiques)",
+    "Glaucome, problème de prostate, asthme ?",
+    "Grossesse, allaitement ? Autres traitements sédatifs ?"
+  ],
+  "alertes": [
+    "Vertiges, nausées ou vomissements en dehors des trajets : consulter (autre cause).",
+    "Vomissements prolongés avec signes de déshydratation, surtout chez l'enfant : avis médical.",
+    "Maux de tête intenses ou troubles neurologiques associés : urgence."
+  ],
+  "conseils": [
+    "Choisir une place stable : à l'avant de la voiture, au milieu du bateau, au niveau des ailes dans l'avion.",
+    "Regarder loin devant, vers l'horizon ; éviter de lire ou de jouer sur un écran.",
+    "Prendre un repas léger avant le départ ; éviter alcool, tabac, aliments gras ; boire de l'eau.",
+    "Aérer, faire des pauses régulières en voiture.",
+    "Prendre le médicament préventif avant le départ, pas une fois les nausées installées."
+  ],
+  "produits": [
+    {
+      "nom": "Dimenhydrinate (Mercalm)",
+      "detail": "Une demi-heure avant le départ, à partir de 6 ans ; renouveler après au moins 6 heures si besoin.",
+      "prudence": "Somnolence ; contre-indiqué en cas de glaucome à angle fermé ou de troubles prostatiques ; contient de la caféine."
+    },
+    {
+      "nom": "Autres antihistaminiques antinaupathiques",
+      "detail": "Formes adaptées à l'enfant plus jeune selon la notice.",
+      "prudence": "Respecter l'âge minimal de chaque spécialité."
+    },
+    {
+      "nom": "Scopolamine en patch",
+      "detail": "Voyages longs, notamment en bateau.",
+      "prudence": "Sur prescription médicale."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Enfant",
+      "conduite": "Mercalm à partir de 6 ans ; en dessous, choisir une spécialité autorisée à cet âge ou demander un avis médical."
+    },
+    {
+      "population": "Conducteur",
+      "conduite": "Les antihistaminiques sont déconseillés à celui qui conduit."
+    },
+    {
+      "population": "Femme enceinte ou qui allaite",
+      "conduite": "Mesures non médicamenteuses d'abord ; dimenhydrinate déconseillé pendant l'allaitement (RCP)."
+    }
+  ],
+  "aRetenir": "Place stable, horizon, repas léger. Médicament une demi-heure avant le départ, jamais pour le conducteur.",
+  "medicamentsLies": [
+    "dimenhydrinate"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Malade en voiture, en car, en bateau : que faire contre le mal des transports ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/mal-transports/que-faire-cas-faut-consulter"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Traitement du mal des transports",
+      "url": "https://www.ameli.fr/assure/sante/themes/mal-transports/traitement"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Mercalm, comprimé pelliculé sécable (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68461541/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

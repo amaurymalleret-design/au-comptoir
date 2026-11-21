@@ -1,0 +1,78 @@
+{
+  "type": "conseil",
+  "slug": "aphtes",
+  "titre": "Aphtes",
+  "categorie": "quotidien",
+  "theme": "orl",
+  "resume": "Aphte banal : guérison spontanée en 1 à 2 semaines, gel anesthésiant et bains de bouche doux pour soulager. Consulter si fièvre, aphte de plus d'1 cm, plus de 10 lésions, durée de plus de 2 semaines ou lésions génitales.",
+  "motsCles": [
+    "bouche",
+    "ulcération",
+    "gencive",
+    "lésion buccale"
+  ],
+  "introduction": "L'aphte est une petite ulcération douloureuse de la bouche, à fond jaunâtre entouré d'un liseré rouge. Il guérit seul en général. Le rôle du comptoir est de soulager la douleur et de repérer les formes qui doivent faire chercher une maladie ou un médicament en cause.",
+  "questions": [
+    "Combien de lésions, de quelle taille ? Depuis quand ?",
+    "Fièvre, grande fatigue, perte de poids ?",
+    "Lésions ailleurs (organes génitaux, peau, yeux) ? Diarrhée, douleurs articulaires ?",
+    "Nouveau médicament récemment ?",
+    "Appareil dentaire, dent cassée ?"
+  ],
+  "alertes": [
+    "Fièvre, grande fatigue, aphte de plus d'1 cm ou plus de 10 lésions : consulter.",
+    "Aphtes qui ne cicatrisent pas en 2 semaines : consulter.",
+    "Lésions génitales ou cutanées associées, diarrhée, douleurs articulaires : consulter.",
+    "Aphtes apparus après un nouveau médicament : avis médical."
+  ],
+  "conseils": [
+    "Éviter les aliments qui irritent ou déclenchent (épices, agrumes, noix, gruyère, aliments acides).",
+    "Brosse à dents souple ; consulter le dentiste en cas d'appareil ou de dent blessante.",
+    "Gel anesthésiant pour manger plus facilement, sans manger juste après l'application.",
+    "Bain de bouche sans alcool."
+  ],
+  "produits": [
+    {
+      "nom": "Gel buccal à la lidocaïne",
+      "detail": "Adulte, 4 à 6 applications par jour, 5 jours maximum.",
+      "prudence": "Ne pas manger ni boire juste après."
+    },
+    {
+      "nom": "Bain de bouche doux sans alcool",
+      "detail": "Hygiène et confort."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Enfant",
+      "conduite": "Les gels anesthésiants à la lidocaïne cités sont réservés à l'adulte : avis du pharmacien ou du médecin."
+    },
+    {
+      "population": "Aphtes récidivants",
+      "conduite": "En parler au médecin pour rechercher une cause."
+    }
+  ],
+  "aRetenir": "Aphte banal : soulager et attendre. Fièvre, grande taille, nombreux, plus de 2 semaines : consulter.",
+  "medicamentsLies": [
+    "lidocaine-gel-buccal"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Aphtes de la bouche : que faire et quand consulter ?",
+      "url": "https://www.ameli.fr/assure/sante/themes/aphte/que-faire-quand-consulter"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Traitement des aphtes",
+      "url": "https://www.ameli.fr/assure/sante/themes/aphte/traitement-medical"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Aftagel, gel buccal (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/60007960/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}

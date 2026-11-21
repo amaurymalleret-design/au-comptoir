@@ -1,0 +1,27 @@
+{
+  "name": "au-comptoir",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Fiches conseil et médicaments pour l'officine, sourcées sur les recommandations françaises.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:static": "STATIC_EXPORT=1 next build",
+    "start": "next start",
+    "lint:contenu": "node scripts/verifier-contenu.mjs",
+    "rediger": "node scripts/rediger-fiche.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "1.12.0",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5",
+    "zod": "4.6.7"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "type": "conseil",
+  "slug": "maladie-coronaire",
+  "titre": "Après un infarctus ou un stent",
+  "categorie": "chronique",
+  "theme": "metabo",
+  "resume": "Antiagrégant(s), statine, bêtabloquant, IEC : traitement à vie, jamais arrêté seul, surtout après un stent. Pas d'AINS en automédication. Douleur thoracique de plus de quelques minutes : appeler le 15.",
+  "motsCles": [
+    "infarctus",
+    "angine de poitrine",
+    "angor",
+    "stent",
+    "antiagrégant",
+    "aspirine"
+  ],
+  "introduction": "Après un infarctus ou en cas d'angine de poitrine (angor), le traitement associe le plus souvent un ou deux antiagrégants plaquettaires (aspirine, clopidogrel…), une statine, un bêtabloquant et un IEC, avec une réadaptation et une hygiène de vie stricte. Au comptoir : observance, interactions, prévention des saignements et rappel des signes d'alerte.",
+  "questions": [
+    "Quels médicaments vous ont été prescrits depuis l'infarctus ou la pose du stent ?",
+    "Les prenez-vous tous, chaque jour ? Combien de temps doit durer la double antiagrégation ?",
+    "Douleurs thoraciques à l'effort ou au repos ? Avez-vous de la trinitrine ?",
+    "Saignements, selles noires, bleus inhabituels ?",
+    "Prenez-vous un inhibiteur de la pompe à protons, des anti-inflammatoires ?"
+  ],
+  "alertes": [
+    "Douleur thoracique qui dure plus de quelques minutes ou ne cède pas après la trinitrine : appeler le 15.",
+    "Saignement abondant, selles noires, vomissement de sang : urgence.",
+    "Essoufflement nouveau, malaises, palpitations : consulter rapidement."
+  ],
+  "conseils": [
+    "Ne jamais arrêter un antiagrégant sans avis du cardiologue, en particulier après un stent.",
+    "Pas d'ibuprofène ni autre AINS en automédication ; paracétamol si douleur.",
+    "Signaler le traitement au dentiste et avant toute intervention.",
+    "Arrêter de fumer, activité physique régulière, alimentation de type méditerranéen.",
+    "Avoir sur soi la trinitrine prescrite et savoir l'utiliser assis."
+  ],
+  "produits": [
+    {
+      "nom": "Paracétamol",
+      "detail": "Antalgique de choix sous antiagrégant."
+    },
+    {
+      "nom": "Substituts nicotiniques",
+      "detail": "Aide à l'arrêt du tabac, utilisable après un infarctus sur avis."
+    }
+  ],
+  "populations": [
+    {
+      "population": "Personne âgée",
+      "conduite": "Risque de saignement accru sous double antiagrégation : vigilance."
+    },
+    {
+      "population": "Patient sous clopidogrel",
+      "conduite": "Vérifier l'IPP : éviter oméprazole et ésoméprazole."
+    }
+  ],
+  "aRetenir": "Traitement quotidien, jamais arrêté seul. Pas d'AINS. Douleur thoracique qui dure : 15.",
+  "medicamentsLies": [
+    "aspirine-faible-dose",
+    "clopidogrel",
+    "atorvastatine",
+    "bisoprolol",
+    "ramipril"
+  ],
+  "sources": [
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Traitement de l'angine de poitrine",
+      "url": "https://www.ameli.fr/assure/sante/themes/angine-de-poitrine-angor/traitement-medical.html"
+    },
+    {
+      "organisme": "Assurance Maladie (ameli)",
+      "titre": "Vivre après un infarctus du myocarde",
+      "url": "https://www.ameli.fr/assure/sante/themes/infarctus-myocarde/vivre-infarctus.html"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Kardégic 75 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/64755969/extrait"
+    },
+    {
+      "organisme": "ANSM / BDPM",
+      "titre": "RCP Clopidogrel Biogaran 75 mg (rubriques 4.1 à 4.8)",
+      "url": "https://base-donnees-publique.medicaments.gouv.fr/medicament/68045849/extrait"
+    }
+  ],
+  "statut": "brouillon",
+  "miseAJour": "2026-11-20"
+}
